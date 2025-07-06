@@ -23,7 +23,7 @@ actions:
 Winners Chapel International Limerick
 
 #description
-Welcome to Winners Chapel International Limerick - Liberating the world through the preaching of the Word of Faith.
+Liberating the world through the preaching of the Word of Faith.
 ::
 
 ::div{class="border rounded-lg shadow-md"}

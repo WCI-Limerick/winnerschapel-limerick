@@ -6,7 +6,7 @@ export default defineAppConfig({
     },
     theme: {
       customizable: true,
-      color: 'zinc',
+      color: 'rose',
       radius: 0.5,
     },
     header: {
@@ -19,8 +19,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/logo.svg',
-        dark: '/logo-dark.svg',
+        light: '/png-clipart-living-faith-church-worldwide-pastor-winners-chapel-international-church-hat-dog-like-mammal.png',
+        dark: '/png-clipart-living-faith-church-worldwide-pastor-winners-chapel-international-church-hat-dog-like-mammal.png',
       },
       nav: [],
       links: [{
