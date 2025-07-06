@@ -20,10 +20,10 @@ actions:
 ---
 
 #title
-Welcome to shadcn-docs-nuxt
+Winners Chapel International Limerick
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+Welcome to Winners Chapel International Limerick - Liberating the world through the preaching of the Word of Faith.
 ::
 
 ::div{class="border rounded-lg shadow-md"}
