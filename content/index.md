@@ -6,7 +6,7 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Announcement'
+  title: 'Announcements'
   icon: '🎉'
   to: https://shadcn-docs-nuxt.vercel.app/blog/v1
   target: _blank
