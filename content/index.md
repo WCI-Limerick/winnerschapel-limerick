@@ -3,11 +3,6 @@ title: Home
 navigation: false
 ---
 
----
-title: Home
-navigation: false
----
-
 ::hero
 ---
 announcement:
