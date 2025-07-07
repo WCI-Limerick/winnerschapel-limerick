@@ -16,6 +16,7 @@ export default defineAppConfig({
       customizable: false,
       color: 'rose',
       colorMode: 'light',
+      // colorMode: 'dark', // Uncomment to enable dark mode by default
       radius: 0.5,
     },
     banner: {
