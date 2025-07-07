@@ -28,7 +28,7 @@ Liberating the world through the preaching of the Word of Faith.
 
 :::card
 ---
-img: /20250705_193525.jpg
+img: /20250705_193525.png
 ---
 #title
 Image Card
