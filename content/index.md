@@ -27,61 +27,55 @@ Liberating the world through the preaching of the Word of Faith.
 ::
 
 
-<!-- Hero Section -->
-  <section class="min-h-screen pt-24 pb-16 px-6 md:px-12 flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto">
-    <div class="lg:w-1/2 animate-slide-up">
-      <h1 class="text-5xl md:text-6xl font-bold font-serif leading-tight mb-6">
-        <span class="block">Ignite Your</span>
-        <span class="block text-art-coral">Artistic Soul</span>
-      </h1>
-      <p class="text-lg text-gray-700 mb-8 max-w-lg">
-        Explore a curated selection of contemporary and classic artwork, connecting collectors and creators in an inspiring online space.
-      </p>
-      <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-        <button class="px-8 py-4 bg-art-coral text-white rounded-lg hover:bg-red-500 transition hover:-translate-y-1">
-          Browse Gallery
-        </button>
-        <button class="px-8 py-4 border border-gray-300 text-art-deep rounded-lg hover:bg-white transition">
-          Meet Artists
-        </button>
+<div class="relative flex flex-col-reverse px-4 py-16 mx-auto lg:block lg:flex-col lg:py-32 xl:py-48 md:px-8 sm:max-w-xl md:max-w-full">
+  <div class="z-0 flex justify-center h-full -mx-4 overflow-hidden lg:pt-24 lg:pb-16 lg:pr-8 xl:pr-0 lg:w-1/2 lg:absolute lg:justify-end lg:bottom-0 lg:left-0 lg:items-center">
+    <img src="https://kitwind.io/assets/kometa/laptop.png" class="object-cover object-right w-full h-auto lg:w-auto lg:h-full" alt="" />
+  </div>
+  <div class="relative flex justify-end max-w-xl mx-auto xl:pr-32 lg:max-w-screen-xl">
+    <div class="mb-16 lg:pr-5 lg:max-w-lg lg:mb-0">
+      <div class="max-w-xl mb-6">
+        <div>
+          <p class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
+            Brand new
+          </p>
+        </div>
+        <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
+          We will bring your<br class="hidden md:block" />
+          business
+          <span class="inline-block text-deep-purple-accent-400">online</span>
+        </h2>
+        <p class="text-base text-gray-700 md:text-lg">
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+        </p>
       </div>
-
-      <div class="mt-12 flex space-x-8">
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-art-coral">150+</span>
-          <span class="text-gray-600">Artworks</span>
+      <form>
+        <div class="flex flex-col md:flex-row">
+          <input
+            placeholder="Name"
+            required=""
+            type="text"
+            class="flex-grow w-full h-12 px-4 mb-2 transition duration-200 bg-white border border-gray-300 rounded shadow-sm appearance-none md:mr-2 focus:border-deep-purple-accent-400 focus:outline-none focus:shadow-outline"
+          />
+          <input
+            placeholder="Email"
+            required=""
+            type="text"
+            class="flex-grow w-full h-12 px-4 mb-3 transition duration-200 bg-white border border-gray-300 rounded shadow-sm appearance-none md:mb-0 focus:border-deep-purple-accent-400 focus:outline-none focus:shadow-outline"
+          />
         </div>
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-art-coral">30</span>
-          <span class="text-gray-600">Exhibitions</span>
+        <div class="flex items-center mt-4">
+          <button
+            type="submit"
+            class="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
+          >
+            Subscribe
+          </button>
+          <a href="/" aria-label="" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Learn more</a>
         </div>
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-art-coral">24/7</span>
-          <span class="text-gray-600">Online Viewing</span>
-        </div>
-      </div>
+      </form>
     </div>
-
-    <!-- Hero Image -->
-    <div class="lg:w-1/2 relative animate-slide-up delay-200">
-      <div class="relative rounded-2xl overflow-hidden shadow-xl transform rotate-1 hover:rotate-0 transition-transform duration-500">
-        <img src="https://images.unsplash.com/photo-1549880338-65ddcdfd017b" alt="Abstract Art" class="w-full object-cover"/>
-        <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
-      </div>
-
-      <!-- Floating Tags -->
-      <div class="absolute -top-6 -left-6 bg-white p-4 rounded-lg shadow w-40 animate-slide-up delay-300">
-        <h4 class="font-bold text-art-deep">Original Work</h4>
-        <p class="text-sm text-gray-600">Signed by Artist</p>
-      </div>
-      <div class="absolute -bottom-6 -right-6 bg-white p-4 rounded-lg shadow w-40 animate-slide-up delay-400">
-        <h4 class="font-bold text-art-deep">Limited Editions</h4>
-        <p class="text-sm text-gray-600">Only 50 Prints</p>
-      </div>
-      <div class="absolute top-8 right-8 bg-art-gold text-art-deep px-4 py-2 rounded-full animate-pulse">
-        <span class="font-bold">$499</span>
-      </div>
-    </div>
+  </div>
+</div>
 
 
 
