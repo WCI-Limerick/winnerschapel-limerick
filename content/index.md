@@ -3,15 +3,6 @@ title: Home
 navigation: false
 ---
 
-::hero
----
-announcement:
-  title: 'Announcements'
-  icon: '🎉'
-  to: https://shadcn-docs-nuxt.vercel.app/blog/v1
-  target: _blank
----
-
 <div class="flex h-screen justify-center items-center dark:bg-slate-800">
     <div class="mx-auto mt-10 flex justify-center px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8">
         <div class="text-center ">
