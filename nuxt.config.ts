@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  extends: ['..'],
+  extends: ['shadcn-docs-nuxt'],
   i18n: {
     defaultLocale: 'en',
     locales: [
@@ -10,11 +10,7 @@ export default defineNuxtConfig({
         name: 'English',
         language: 'en-US',
       },
-      {
-        code: 'fr',
-        name: 'Français',
-        language: 'fr-FR',
-      },
     ],
   },
-  compatibilityDate: '2025-05-13',
+  compatibilityDate: '2024-07-06',
+});
