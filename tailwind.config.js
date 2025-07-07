@@ -1,7 +1,7 @@
 import animate from 'tailwindcss-animate';
 
 export default {
-  darkMode: 'class', // Enables dark mode via class strategy
+  darkMode: 'class',
   prefix: '',
   content: [
     './content/**/*',
@@ -19,6 +19,9 @@ export default {
       fontFamily: {
         sans: ['Geist'],
         mono: ['JetBrains Mono'],
+      },
+      fontSize: {
+        fluid: 'clamp(1.5rem, 5vw, 3.5rem)', // ✅ Fluid size added here
       },
       colors: {
         border: 'hsl(var(--border))',
