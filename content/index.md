@@ -19,12 +19,20 @@ actions:
     leftIcon: 'lucide:github'
 ---
 
+#title
+Winners Chapel International Limerick
+
+#description
+Liberating the world through the preaching of the Word of Faith.
+::
+
+
 <!-- Hero Section -->
   <section class="min-h-screen pt-24 pb-16 px-6 md:px-12 flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto">
     <div class="lg:w-1/2 animate-slide-up">
       <h1 class="text-5xl md:text-6xl font-bold font-serif leading-tight mb-6">
-        <span class="block">Winners Chapel</span>
-        <span class="block text-art-coral">International Limerick</span>
+        <span class="block">Ignite Your</span>
+        <span class="block text-art-coral">Artistic Soul</span>
       </h1>
       <p class="text-lg text-gray-700 mb-8 max-w-lg">
         Explore a curated selection of contemporary and classic artwork, connecting collectors and creators in an inspiring online space.
