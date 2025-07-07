@@ -2,7 +2,7 @@ import animate from 'tailwindcss-animate';
 
 export default {
   darkMode: 'class',
-  safelist: ['light'],
+  safelist: ['dark'],
   prefix: '',
   content: [
     './content/**/*',
