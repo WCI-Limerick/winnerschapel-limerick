@@ -30,7 +30,7 @@ Liberating the world through the preaching of the Word of Faith.
       src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
       alt=""
     />
-  </div>
+</div>
   <div class="relative flex flex-col items-start w-full max-w-xl px-4 mx-auto md:px-0 lg:px-8 lg:max-w-screen-xl">
     <div class="mb-16 lg:my-40 lg:max-w-lg lg:pr-5">
       <p class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
