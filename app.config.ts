@@ -143,7 +143,7 @@ export default defineAppConfig({
       },
     },
     footer: {
-      credits: 'FOOTER_CREDIT',
+      credits: '2025 © Winners Chapel Limerick',
       links: [
         {
           icon: 'lucide:users',
