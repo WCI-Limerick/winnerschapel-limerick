@@ -13,8 +13,8 @@ export default defineAppConfig({
       },
     },
     theme: {
-      customizable: true,
-      color: 'teal',
+      customizable: false,
+      color: 'rose',
       radius: 0.5,
     },
     banner: {
@@ -32,7 +32,7 @@ export default defineAppConfig({
         light: '/logo.svg',
         dark: '/ESW-Logo-Light.svg',
       },
-      darkModeToggle: true,
+      darkModeToggle: false,
       languageSwitcher: {
         enable: false,
         triggerType: 'icon',
