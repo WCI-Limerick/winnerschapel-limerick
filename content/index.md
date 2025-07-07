@@ -47,4 +47,14 @@ Word of Faith.</span>
 </div>
 
 
+::card
+---
+img: /20250705_193525.png
+---
+#title
+Image Card
+
+#content
+Beautifully designed **Nuxt Content** template with **shadcn-vue**. _Customizable. Compatible. Open Source._
+::
 
