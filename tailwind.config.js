@@ -1,8 +1,7 @@
 import animate from 'tailwindcss-animate';
 
 export default {
-  darkMode: 'class',
-  safelist: ['light'],
+  darkMode: 'class', // Enables dark mode via class strategy
   prefix: '',
   content: [
     './content/**/*',
