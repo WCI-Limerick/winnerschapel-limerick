@@ -56,29 +56,29 @@ navigation: false
                         </style>
                         
 <title>Figma.logo</title>
-                        <desc>Created using Figma</desc>
-                        <path id="path0_fill" class="st0"
-                            d="M50 300c27.6 0 50-22.4 50-50v-50H50c-27.6 0-50 22.4-50 50s22.4 50 50 50z"></path>
-                        <path id="path1_fill" class="st1"
-                            d="M0 150c0-27.6 22.4-50 50-50h50v100H50c-27.6 0-50-22.4-50-50z"></path>
-                        <path id="path1_fill_1_" class="st2"
-                            d="M0 50C0 22.4 22.4 0 50 0h50v100H50C22.4 100 0 77.6 0 50z"></path>
-                        <path id="path2_fill" class="st3" d="M100 0h50c27.6 0 50 22.4 50 50s-22.4 50-50 50h-50V0z">
-                        </path>
-                        <path id="path3_fill" class="st4"
-                            d="M200 150c0 27.6-22.4 50-50 50s-50-22.4-50-50 22.4-50 50-50 50 22.4 50 50z"></path>
-                    </svg>
-                    Get Figma file
-                </a>
+<desc>Created using Figma</desc>
+<path id="path0_fill" class="st0"
+    d="M50 300c27.6 0 50-22.4 50-50v-50H50c-27.6 0-50 22.4-50 50s22.4 50 50 50z"></path>
+<path id="path1_fill" class="st1"
+    d="M0 150c0-27.6 22.4-50 50-50h50v100H50c-27.6 0-50-22.4-50-50z"></path>
+<path id="path1_fill_1_" class="st2"
+    d="M0 50C0 22.4 22.4 0 50 0h50v100H50C22.4 100 0 77.6 0 50z"></path>
+<path id="path2_fill" class="st3" d="M100 0h50c27.6 0 50 22.4 50 50s-22.4 50-50 50h-50V0z">
+</path>
+<path id="path3_fill" class="st4"
+    d="M200 150c0 27.6-22.4 50-50 50s-50-22.4-50-50 22.4-50 50-50 50 22.4 50 50z"></path>
+</svg>
+Get Figma file
+</a>
 
 </div>
-        </div>
+</div>
 
 <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-            <img src="https://demo.themesberg.com/landwind/images/hero.png" alt="hero image">
-        </div>
+    <img src="https://demo.themesberg.com/landwind/images/hero.png" alt="hero image">
+</div>
 
-    </div>
+</div>
 </section>
 
 
