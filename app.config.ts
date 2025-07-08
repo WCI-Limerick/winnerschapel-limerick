@@ -46,11 +46,11 @@ export default defineAppConfig({
         description: 'Learn more about us',
         icon: 'lucide:info',
       }, {
-        title: 'WSF (House Fellowship)',
+        title: 'Location',
         to: '/docs',
         target: '_self',
         showLinkIcon: false,
-        description: 'Learn about our WSF (House Fellowship) program',
+        description: 'Learn about our location',
         icon: 'lucide:users',
       }, {
         title: 'Testimonies',
