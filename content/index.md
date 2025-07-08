@@ -82,7 +82,7 @@ Liberating the world through the preaching of the Word of Faith
   <!-- Grid -->
   <div class="md:grid md:grid-cols-2 md:items-center md:gap-12 xl:gap-32">
     <div>
-      <img class="rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1648737963503-1a26da876aca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=900&q=80" alt="Features Image">
+      <img class="rounded-xl shadow-xl" src="/20250705_191624.jpg" alt="Features Image">
     </div>
     <!-- End Col -->
 
