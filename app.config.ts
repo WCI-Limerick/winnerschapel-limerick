@@ -53,9 +53,16 @@ export default defineAppConfig({
         description: 'Learn about our WSF (House Fellowship) program',
         icon: 'lucide:users',
       }, {
+        title: 'Testimonies',
+        to: '/docs',
+        target: '_self',
+        showLinkIcon: false,
+        description: 'Share your testimonies',
+        icon: 'lucide:speech',
+      }, {
         title: 'Events',
         to: '/events',
-        target: '_blank',
+        target: '_self',
         showLinkIcon: false,
         description: 'Stay updated with our latest events',
         icon: 'lucide:calendar',
@@ -114,6 +121,27 @@ export default defineAppConfig({
           },
         ],
       }],
+      contact: {
+        title: 'Contact Us',
+        to: '/',
+        target: '_self',
+        icon: 'lucide:mail',
+        showLinkIcon: false,
+      },
+      links: [
+        {
+          icon: 'https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000',
+          title: 'Instagram',
+          to: '/login',
+          target: '_blank',
+        },
+        {
+          icon: 'https://img.icons8.com/?size=100&id=118562&format=png&color=000000',
+          title: 'Facebook',
+          to: '/logout',
+          target: '_blank',
+        },
+      ],
     },
     aside: {
       useLevel: true,
