@@ -95,9 +95,9 @@ Liberating the world through the preaching of the Word of Faith
             Worship with us at Winners Chapel International Limerick
           </h2>
           <p class="text-gray-500 font-bold text-center">
-            Winners Chapel International Limerick
+            Winners Chapel International Limerick <br>
             84 O'Connell Street <br>
-            Limerick
+            Limerick <br>
             v94 D597
           </p>
         </div>
@@ -106,7 +106,7 @@ Liberating the world through the preaching of the Word of Faith
 <!-- List -->
 <ul class="space-y-2 sm:space-y-4">
           <li class="flex gap-x-3">
-            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-blue-50 text-blue-600">
+            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
               <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             </span>
             <div class="grow">
@@ -117,7 +117,7 @@ Liberating the world through the preaching of the Word of Faith
           </li>
 
 <li class="flex gap-x-3">
-            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-blue-50 text-blue-600">
+            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
               <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             </span>
             <div class="grow">
@@ -128,7 +128,7 @@ Liberating the world through the preaching of the Word of Faith
           </li>
 
 <li class="flex gap-x-3">
-            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-blue-50 text-blue-600">
+            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
               <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             </span>
             <div class="grow">
