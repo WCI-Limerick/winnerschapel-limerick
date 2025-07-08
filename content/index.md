@@ -91,10 +91,11 @@ Liberating the world through the preaching of the Word of Faith
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
-            Join Us
+          <h2 class="font-bold text-3xl lg:text-4xl text-center text-gray-800">
+            Worship with us at Winners Chapel International Limerick
           </h2>
-          <p class="text-gray-500 font-bold">
+          <p class="text-gray-500 font-bold text-center">
+            Winners Chapel International Limerick
             84 O'Connell Street <br>
             Limerick
             v94 D597
