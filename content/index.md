@@ -82,49 +82,40 @@ Liberating the world through the preaching of the Word of Faith
 	</div>
 </section>
 
-<div class="bg-gray-50 py-4 pt-32">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-                Service Times
-            </h2>
-            <p class="mt-3 text-xl text-gray-500 sm:mt-4">
-                Church service times
-            </p>
-        </div>
+<section class="relative overflow-hidden bg-gray-100 py-12 sm:py-16 lg:py-20">
+  <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
+    <div class="absolute h-60 w-60 rounded-2xl border-4 border-blue-600"></div>
+    <div class="absolute h-60 w-60 translate-x-3 translate-y-3 rounded-2xl border-4 border-blue-600"></div>
+    <div class="absolute h-60 w-60 translate-x-6 translate-y-6 rounded-2xl border-4 border-blue-600"></div>
+  </div>
+  <div class="mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="sm:text-center">
+      <h2 class="text-3xl font-semibold leading-7 text-gray-900 sm:text-4xl xl:text-5xl">
+        WCI-Limerick <br class="sm:hidden" />
+        Sercice Times
+      </h2>
+      <hr class="mt-4 h-1.5 w-32 border-none bg-blue-600 sm:mx-auto sm:mt-8" />
     </div>
-    <div class="mt-10 pb-1">
-        <div class="relative">
-            <div class="absolute inset-0 h-1/2 bg-gray-50"></div>
-            <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="max-w-4xl mx-auto">
-                    <dl class="rounded-lg bg-white shadow-xl sm:grid sm:grid-cols-3">
-                        <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
-                            <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                                Sunday Service
-=
-                            </dt>
-                            <dd class="order-1 text-5xl font-extrabold text-gray-700">11.30am</dd>
-                        </div>
-                        <div
-                            class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
-                            <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                                Wednesday Mid-week Service
-                            </dt>
-                            <dd class="order-1 text-5xl font-extrabold text-gray-700">6.30pm</dd>
-                        </div>
-                        <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
-                            <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
-                                Winners Satellite Fellowship
-                            </dt>
-                            <dd class="order-1 text-5xl font-extrabold text-gray-700">5.00pm</dd>
-                        </div>
-                    </dl>
-                </div>
-            </div>
-        </div>
+
+<div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
+      <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow lg:px-12">
+        <p class="relative text-5xl font-black text-blue-600">11.30am</p>
+        <p class="relative mt-5 text-gray-600">Sunday Service</p>
+      </div>
+
+<div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow lg:px-12">
+        <p class="relative text-5xl font-black text-blue-600">6.30pm</p>
+        <p class="relative mt-5 text-gray-600">Wednesday Mid-Week Communion Service</p>
+      </div>
+
+<div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow lg:px-12">
+        <p class="relative m-0 text-5xl font-black text-blue-600">5.00pm</p>
+        <p class="relative mt-5 text-gray-600">Winners Satellite Fellowship</p>
+      </div>
     </div>
-</div>
+  </div>
+</section>
+
 
 
 ::card-group{:cols="3"}
