@@ -98,7 +98,7 @@ Liberating the world through the preaching of the Word of Faith
             Winners Chapel International Limerick <br>
             84 O'Connell Street <br>
             Limerick <br>
-            v94 D597
+            V94 D597
           </p>
         </div>
         <!-- End Title -->
@@ -107,10 +107,10 @@ Liberating the world through the preaching of the Word of Faith
 <ul class="space-y-2 sm:space-y-4">
           <li class="flex gap-x-3">
             <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
-              <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+              <svg class="shrink-0 size-6" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             </span>
             <div class="grow">
-              <span class="text-sm sm:text-base text-gray-500">
+              <span class="text-sm sm:text-base text-center text-gray-500">
                 <span class="font-bold">Heavens-sphere</span> praise
               </span>
             </div>
@@ -118,10 +118,10 @@ Liberating the world through the preaching of the Word of Faith
 
 <li class="flex gap-x-3">
             <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
-              <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+              <svg class="shrink-0 size-6" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             </span>
             <div class="grow">
-              <span class="text-sm sm:text-base text-gray-500">
+              <span class="text-sm sm:text-base text-center text-gray-500">
                 Powerful <span class="font-bold">word in season</span>
               </span>
             </div>
@@ -129,10 +129,10 @@ Liberating the world through the preaching of the Word of Faith
 
 <li class="flex gap-x-3">
             <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
-              <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+              <svg class="shrink-0 size-6" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             </span>
             <div class="grow">
-              <span class="text-sm sm:text-base text-gray-500">
+              <span class="text-sm sm:text-base text-center text-gray-500">
                 Diverse breakthrough testimonies
               </span>
             </div>
