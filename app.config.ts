@@ -20,11 +20,9 @@ export default defineAppConfig({
       radius: 0.5,
     },
     banner: {
-      enable: false,
+      enable: true,
       showClose: true,
-      content: 'Welcome to **shadcn-docs-nuxt**',
-      to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-      target: '_blank',
+      content: 'Welcome to **Winners Chapel International Limerick**',
       border: true,
     },
     header: {
@@ -56,9 +54,9 @@ export default defineAppConfig({
         icon: 'lucide:users',
       }, {
         title: 'Events',
-        to: 'https://eswapis.vercel.app',
+        to: '/events',
         target: '_blank',
-        showLinkIcon: true,
+        showLinkIcon: false,
         description: 'Stay updated with our latest events',
         icon: 'lucide:calendar',
       }, {
@@ -79,19 +77,19 @@ export default defineAppConfig({
         title: 'Service Units',
         links: [
           {
-            icon: 'lucide:users',
+            icon: 'lucide:church',
             title: 'Altar Ministers',
             to: 'mailto:info@esw.com',
             target: '_self',
           },
           {
-            icon: 'lucide:music',
+            icon: 'lucide:music-4',
             title: 'Choir',
             to: 'tel:+1234567890',
             target: '_self',
           },
           {
-            icon: 'lucide:camera',
+            icon: 'lucide:brush-cleaning',
             title: 'Sanctuary Keepers',
             to: 'https://eswapis.vercel.app',
             target: '_blank',
@@ -182,7 +180,7 @@ export default defineAppConfig({
       },
     },
     footer: {
-      credits: '2025 © Winners Chapel Limerick',
+      credits: '2025 © WCI-Limerick',
       links: [
         {
           icon: 'lucide:users',
