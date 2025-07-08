@@ -34,7 +34,7 @@ Liberating the world through the preaching of the Word of Faith
 <div class="px-4 sm:px-6 lg:px-8 ">
   <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl">
     <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-      <h1 class="text-xl md:text-3xl lg:text-5xl text-stone">
+      <h1 class="text-xl md:text-3xl lg:text-5xl text-zinc">
         Praise Night 2025
       </h1>
     </div>
@@ -82,7 +82,7 @@ Liberating the world through the preaching of the Word of Faith
   <!-- Grid -->
   <div class="md:grid md:grid-cols-2 md:items-center md:gap-12 xl:gap-32">
     <div>
-      <img class="rounded-xl" src="https://images.unsplash.com/photo-1648737963503-1a26da876aca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=900&q=80" alt="Features Image">
+      <img class="rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1648737963503-1a26da876aca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=900&q=80" alt="Features Image">
     </div>
     <!-- End Col -->
 
