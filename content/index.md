@@ -185,7 +185,7 @@ Liberating the world through the preaching of the Word of Faith
 <section class="bg-gray-100 rounded-xl shadow-xl">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <h2 class="text-3xl font-extrabold text-gray-900">Visit Our Location</h2>
+            <h2 class="text-5xl font-extrabold text-gray-900">Worship with Us</h2>
             <p class="mt-4 text-lg text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="mt-16 lg:mt-20">
