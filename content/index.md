@@ -32,50 +32,56 @@ Liberating the world through the preaching of the Word of Faith
 
   
 
-<!-- Hero -->
-<div class="px-4 sm:px-6 lg:px-8 ">
-  <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl">
-    <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-      <h1 class="text-xl md:text-3xl lg:text-5xl text-white">
-        Praise Night 2025
-      </h1>
-    </div>
-  </div>
-</div>
-<!-- End Hero -->
+<!-- Page Wrapper with Background Pattern -->
+<div class="relative min-h-screen bg-white">
+  <!-- Background Pattern Layer -->
+  <div class="absolute inset-0 -z-10 bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"></div>
 
-<section class="relative overflow-hidden bg-gray-100 py-12 sm:py-16 lg:py-20">
-  <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
-    <div class="absolute h-60 w-60 rounded-2xl border-4 border-rose-600"></div>
-    <div class="absolute h-60 w-60 translate-x-3 translate-y-3 rounded-2xl border-4 border-rose-600"></div>
-    <div class="absolute h-60 w-60 translate-x-6 translate-y-6 rounded-2xl border-4 border-rose-600"></div>
-  </div>
-  <div class="mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="sm:text-center">
-      <h2 class="text-3xl font-semibold leading-7 text-gray-900 sm:text-4xl xl:text-5xl">
-        Service Times
-      </h2>
-      <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
-    </div>
-
-<div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
-      <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
-        <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-        <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of Open Doors Service <br> Venue: Church Auditorium.</p>
-      </div>
-
-<div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
-        <p class="relative text-5xl font-black text-center text-rose-600">6.30pm</p>
-        <p class="relative mt-5 text-center font-bold text-gray-600">Wednesday: Mid-Week Communion Service <br> Venue: Church Auditorium.</p>
-      </div>
-
-<div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
-        <p class="relative m-0 text-5xl font-black text-center text-rose-600">5.00pm</p>
-        <p class="relative mt-5 text-center font-bold text-gray-600">Saturday: Winners Satellite Fellowship</p>
+  <!-- Hero -->
+  <div class="px-4 sm:px-6 lg:px-8">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl">
+      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
+        <h1 class="text-xl md:text-3xl lg:text-5xl text-white">
+          Praise Night 2025
+        </h1>
       </div>
     </div>
   </div>
-</section>
+  <!-- End Hero -->
+
+  <section class="relative overflow-hidden bg-gray-100 py-12 sm:py-16 lg:py-20">
+    <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
+      <div class="absolute h-60 w-60 rounded-2xl border-4 border-rose-600"></div>
+      <div class="absolute h-60 w-60 translate-x-3 translate-y-3 rounded-2xl border-4 border-rose-600"></div>
+      <div class="absolute h-60 w-60 translate-x-6 translate-y-6 rounded-2xl border-4 border-rose-600"></div>
+    </div>
+    <div class="mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="sm:text-center">
+        <h2 class="text-3xl font-semibold leading-7 text-gray-900 sm:text-4xl xl:text-5xl">
+          Service Times
+        </h2>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+      </div>
+
+  <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
+        <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
+          <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of Open Doors Service <br> Venue: Church Auditorium.</p>
+        </div>
+
+  <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
+          <p class="relative text-5xl font-black text-center text-rose-600">6.30pm</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Wednesday: Mid-Week Communion Service <br> Venue: Church Auditorium.</p>
+        </div>
+
+  <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
+          <p class="relative m-0 text-5xl font-black text-center text-rose-600">5.00pm</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Saturday: Winners Satellite Fellowship</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 
 
