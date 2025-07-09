@@ -1,6 +1,8 @@
 ---
-title: Home
+title: I'm New
+description: Are you new or planning to visit us? Below are some frequently asked questions and answers.
 navigation: false
+fullpage: true
 ---
 
 <!-- Features -->

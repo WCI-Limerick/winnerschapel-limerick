@@ -150,7 +150,7 @@ export default defineAppConfig({
       folderStyle: 'default',
     },
     main: {
-      breadCrumb: true,
+      breadCrumb: false,
       showTitle: true,
       codeCopyToast: true,
       codeCopyIcon: 'lucide:clipboard',
