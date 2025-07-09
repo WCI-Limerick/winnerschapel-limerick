@@ -99,7 +99,7 @@ Liberating the world through the preaching of the Word of Faith
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <h2 class="font-extrabold text-4xl lg:text-5xl text-gray-800">
+          <h2 class="font-extrabold text-4xl text-center lg:text-5xl text-gray-800">
             What is unique about this <br> church?
           </h2>
           <p class="text-gray-500">
