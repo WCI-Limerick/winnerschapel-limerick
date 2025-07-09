@@ -30,11 +30,6 @@ Winners Chapel International Limerick
 Liberating the world through the preaching of the Word of Faith
 ::
 
-<div class="relative h-screen">
-  <!-- Background Pattern -->
-  <div class="absolute inset-0">
-    <div class="absolute inset-0 -z-10 h-full w-full bg-white bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"></div>
-  </div>
   
 
 <!-- Hero -->
