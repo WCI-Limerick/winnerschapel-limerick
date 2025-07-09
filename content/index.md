@@ -11,7 +11,7 @@ announcement:
   to: /blog/v1-1
 actions:
   - name: I'm New
-    to: /getting-started/introduction
+    to: /new
   - name: GitHub
     variant: outline
     to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
