@@ -57,7 +57,7 @@ Liberating the world through the preaching of the Word of Faith
     </div>
     <div class="mx-auto px-4 sm:px-6 lg:px-8">
       <div class="sm:text-center">
-        <h2 class="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-teal-600 via-sky-400 to-cyan-500 sm:text-4xl xl:text-5xl">
+        <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl xl:text-5xl">
           Service Times
         </h2>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
@@ -99,8 +99,8 @@ Liberating the world through the preaching of the Word of Faith
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <h2 class="font-extrabold text-5xl lg:text-5xl text-gray-800">
-            What is unique about this church?
+          <h2 class="font-extrabold text-4xl lg:text-5xl text-gray-800">
+            What is unique about this <br> church?
           </h2>
           <p class="text-gray-500">
             Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
