@@ -36,28 +36,7 @@ Liberating the world through the preaching of the Word of Faith
     <div class="absolute inset-0 -z-10 h-full w-full bg-white bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]"></div>
   </div>
   
-  <!-- Hero Content -->
-  <div class="relative z-10 flex h-full flex-col items-center justify-center px-4">
-    <div class="max-w-3xl text-center">
-      <h1 class="mb-8 text-4xl font-bold tracking-tight sm:text-6xl lg:text-7xl text-slate-900">
-        Your Next Great
-        <span class="text-sky-900">Project</span>
-      </h1>
-      <p class="mx-auto mb-8 max-w-2xl text-lg text-slate-700">
-        Build modern and beautiful websites with this collection of stunning background patterns. 
-        Perfect for landing pages, apps, and dashboards.
-      </p>
-      <div class="flex flex-wrap justify-center gap-4">
-        <button class="rounded-lg px-6 py-3 font-medium bg-sky-900 text-white hover:bg-sky-800">
-          Get Started
-        </button>
-        <button class="rounded-lg border px-6 py-3 font-medium border-slate-200 bg-white text-slate-900 hover:bg-slate-50">
-          Learn More
-        </button>
-      </div>
-    </div>
-  </div>
-</div>
+
 <!-- Hero -->
 <div class="px-4 sm:px-6 lg:px-8 ">
   <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl">
