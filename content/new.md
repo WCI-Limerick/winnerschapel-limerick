@@ -8,7 +8,7 @@ fullpage: true
 <!-- Features -->
 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
   <div class="aspect-w-16 aspect-h-7">
-    <img class="w-full object-cover rounded-xl shadow-xl" src="/IMG-20240919-WA0012.jpg" alt="Features Image">
+    <img class="w-full object-cover rounded-xl shadow-xl filter saturate-200" src="/IMG-20240919-WA0012.jpg" alt="Features Image">
   </div>
 
   <figure className="relative h-96 w-full">
