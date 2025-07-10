@@ -63,7 +63,7 @@ Winners Chapel International Limerick
     </div>
     <div class="mx-auto px-4 sm:px-6 lg:px-8">
       <div class="sm:text-center">
-        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-gradient-to-r from-indigo-400 to-pink-600 saturate-150 bg-clip-text text-transparent">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl saturate-150 bg-clip-text text-transparent">
           Service Times
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
@@ -105,9 +105,9 @@ Winners Chapel International Limerick
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <span class="font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">
+          <h2 class="font-bold text-4xl text-center lg:text-5xl bg-clip-text text-transparent saturate-150">
             What is unique about <br> this church?
-          </span>
+          </h2>
           <p class="text-gray-500">
             Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
           </p>
