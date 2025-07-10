@@ -105,9 +105,9 @@ actions:
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <span class="font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-rose-600 bg-clip-text text-transparent saturate-150">
-            What is unique about <br> this church?
-          </span>
+          <span class="block font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-rose-600 bg-clip-text text-transparent saturate-150">
+            What is unique about this church?
+         </span>
           <p class="text-gray-500">
             Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
           </p>
