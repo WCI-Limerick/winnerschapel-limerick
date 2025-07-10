@@ -89,7 +89,7 @@ Winners Chapel International Limerick
   </section>
 
 
-
+---
 
 
 <!-- Features -->
