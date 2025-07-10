@@ -27,7 +27,7 @@ actions:
 Winners Chapel International Limerick
 
 #description
-<span class="bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">Liberating the world through the preaching of the Word of Faith</span>
+<span class="bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent font-extrabold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
   
