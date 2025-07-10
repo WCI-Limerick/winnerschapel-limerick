@@ -24,7 +24,7 @@ actions:
 ---
 
 #title
-<span class="bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">Winners Chapel International Limerick</span>
+<span class="gradient-text bg-gradient-to-r from-pink-500 to-yellow-500">Winners Chapel International Limerick</span>
 
 #description
 Liberating the world through the preaching of the Word of Faith
