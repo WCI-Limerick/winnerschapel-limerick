@@ -24,10 +24,10 @@ actions:
 ---
 
 #title
-<span class="<font-black text-6xl">Winners Chapel International Limerick</span>
+<span class="<font-black text-5xl">Winners Chapel International Limerick</span>
 
 #description
-<span class="bg-pink-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
+<span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
   
@@ -39,7 +39,7 @@ actions:
 
   <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl filter saturate-150">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-150">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-white/70 backdrop-blur-lg bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-medium mb-2">Praise Night</h2>
@@ -63,7 +63,7 @@ actions:
     </div>
     <div class="mx-auto px-4 sm:px-6 lg:px-8">
       <div class="sm:text-center">
-        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-gradient-to-r from-amber-400 to-pink-600 saturate-150 bg-clip-text text-transparent">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
           Service Times
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
@@ -105,7 +105,7 @@ actions:
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <span class="font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">
+          <span class="font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-rose-600 bg-clip-text text-transparent saturate-150">
             What is unique about <br> this church?
           </span>
           <p class="text-gray-500">
@@ -306,7 +306,7 @@ actions:
 <section class="bg-gray-100 rounded-xl shadow-xl">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-4xl font-bold text-gray-900 bg-gradient-to-r from-amber-400 to-pink-600 bg-clip-text text-transparent saturate-150">Worship with us</span>
+            <span class="text-4xl font-bold text-gray-900 bg-rose-600 bg-clip-text text-transparent saturate-150">Worship with us</span>
             <p class="mt-4 text-lg text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="mt-16 lg:mt-20">
