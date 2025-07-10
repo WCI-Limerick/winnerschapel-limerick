@@ -241,3 +241,18 @@ Winners Chapel International Limerick
   </div>
 </div>
 <!-- End Clients -->
+
+
+<div class="group relative text-center">
+  <img
+    src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio_1_1.png"
+    alt="Portfolio Image"
+    class="max-w-full w-full h-auto rounded-xl"
+  />
+  <div
+    class="absolute left-4 right-4 bottom-4 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-sm backdrop-saturate-200 transition-transform duration-300 group-hover:translate-y-0 translate-y-16 p-6"
+  >
+    <h5 class="text-xl font-medium mb-2">Photography</h5>
+    <p class="mb-0">Cinematography</p>
+  </div>
+</div>
