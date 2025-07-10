@@ -108,8 +108,8 @@ actions:
           <span class="block font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-rose-600 bg-clip-text text-transparent saturate-150">
             What is unique about this church?
          </span>
-          <p class="block text-gray-500 text-center">
-            This Church is a home of signs and wonders
+          <p class="block text-gray-500 text-bold text-center">
+            This Church is a Home of Signs and Wonders
           </p>
         </div>
         <!-- End Title -->
@@ -122,7 +122,7 @@ actions:
     </span>
     <div class="grow">
       <span class="text-md sm:text-base text-gray-500">
-       <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500">God</span>stops the tears of men and women here
+       <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500 text-bold">God</span> stops the tears of men and women here
       </span>
     </div>
   </li>
@@ -133,7 +133,7 @@ actions:
     </span>
     <div class="grow">
       <span class="text-md sm:text-base text-gray-500">
-        <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500">God</span>confers breakthroughs in all areas here
+        <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500 text-bold">God</span> confers breakthroughs in all areas here
       </span>
     </div>
   </li>
@@ -144,7 +144,7 @@ actions:
     </span>
     <div class="grow">
       <span class="text-md sm:text-base text-gray-500">
-        Our turnaround<span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500">God</span> decorates destinys here
+        Our turnaround <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500 text-bold">God</span> decorates destinys here
       </span>
     </div>
   </li>
