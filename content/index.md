@@ -250,7 +250,7 @@ Winners Chapel International Limerick
     class="max-w-full w-full h-auto rounded-xl"
   />
   <div
-    class="absolute left-4 right-4 bottom-4 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-sm backdrop-saturate-200 transition-transform duration-300 group-hover:translate-y-0 translate-y-16 p-6"
+    class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 bg-blur-sm bg-saturate-200 translate-y-16 text-center p-6"
   >
     <h5 class="text-xl font-medium mb-2">Photography</h5>
     <p class="mb-0">Cinematography</p>
