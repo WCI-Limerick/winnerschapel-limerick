@@ -115,42 +115,43 @@ actions:
         <!-- End Title -->
 
   <!-- List -->
-  <ul class="space-y-2 sm:space-y-4">
-          <li class="flex gap-x-3">
-            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
-              <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-            </span>
-            <div class="grow">
-              <span class="text-md sm:text-base text-gray-500">
-                <span class="font-bold">Easy & fast</span> designing
-              </span>
-            </div>
-          </li>
+  <ul class="flex flex-col items-center space-y-4">
+  <li class="flex gap-x-3 items-start">
+    <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
+      <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+    </span>
+    <div class="grow">
+      <span class="text-md sm:text-base text-gray-500">
+        <span class="font-bold">Easy & fast</span> designing
+      </span>
+    </div>
+  </li>
 
-  <li class="flex gap-x-3">
-            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
-              <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-            </span>
-            <div class="grow">
-              <span class="text-md sm:text-base text-gray-500">
-                Powerful <span class="font-bold">features</span>
-              </span>
-            </div>
-          </li>
+  <li class="flex gap-x-3 items-start">
+    <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
+      <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+    </span>
+    <div class="grow">
+      <span class="text-md sm:text-base text-gray-500">
+        Powerful <span class="font-bold">features</span>
+      </span>
+    </div>
+  </li>
 
-  <li class="flex gap-x-3">
-            <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
-              <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-            </span>
-            <div class="grow">
-              <span class="text-md sm:text-base text-gray-500">
-                User Experience Design
-              </span>
-            </div>
-          </li>
-        </ul>
-        <!-- End List -->
-      </div>
+  <li class="flex gap-x-3 items-start">
+    <span class="mt-0.5 size-5 flex justify-center items-center rounded-full bg-rose-50 text-rose-600">
+      <svg class="shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+    </span>
+    <div class="grow">
+      <span class="text-md sm:text-base text-gray-500">
+        User Experience Design
+      </span>
+    </div>
+  </li>
+</ul>
+
+<!-- End List -->
+</div>
     </div>
     <!-- End Col -->
   </div>
