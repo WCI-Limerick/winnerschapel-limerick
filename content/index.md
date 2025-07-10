@@ -39,7 +39,7 @@ Liberating the world through the preaching of the Word of Faith
 
   <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl filter saturate-200">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <h1 class="text-xl md:text-3xl lg:text-5xl text-white">
           Praise Night 2025
@@ -91,7 +91,7 @@ Liberating the world through the preaching of the Word of Faith
   <!-- Grid -->
   <div class="md:grid md:grid-cols-2 md:items-center md:gap-12 xl:gap-32">
     <div>
-      <img class="rounded-xl shadow-xl" src="/20250705_191624.jpg" alt="Features Image">
+      <img class="rounded-xl shadow-xl filter saturate-200" src="/20250705_191624.jpg" alt="Features Image">
     </div>
     <!-- End Col -->
 
