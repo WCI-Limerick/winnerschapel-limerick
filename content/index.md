@@ -24,7 +24,7 @@ actions:
 ---
 
 #title
-Winners Chapel International Limerick
+<span class="bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">Winners Chapel International Limerick</span>
 
 #description
 Liberating the world through the preaching of the Word of Faith
@@ -99,9 +99,9 @@ Liberating the world through the preaching of the Word of Faith
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <h2 class="font-extrabold text-4xl text-center lg:text-5xl text-gray-600">
+          <span class="font-extrabold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">
             What is unique about this <br> church?
-          </h2>
+          </span>
           <p class="text-gray-500">
             Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
           </p>
@@ -185,7 +185,7 @@ Liberating the world through the preaching of the Word of Faith
 <section class="bg-gray-100 rounded-xl shadow-xl">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <h2 class="text-5xl font-extrabold text-gray-900">Worship with Us</h2>
+            <span class="text-5xl font-extrabold text-gray-900 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">Worship with Us</span>
             <p class="mt-4 text-lg text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="mt-16 lg:mt-20">
