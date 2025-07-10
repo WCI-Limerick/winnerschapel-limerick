@@ -57,9 +57,9 @@ Liberating the world through the preaching of the Word of Faith
     </div>
     <div class="mx-auto px-4 sm:px-6 lg:px-8">
       <div class="sm:text-center">
-        <h2 class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">
           Service Times
-        </h2>
+        </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
       </div>
 
