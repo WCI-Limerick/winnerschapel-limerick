@@ -314,7 +314,7 @@ actions:
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div class="rounded-xl shadow-xl overflow-hidden">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11672.945750644447!2d-122.42107853750231!3d37.7730507907087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858070cc2fbd55%3A0xa71491d736f62d5c!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1619524992238!5m2!1sen!2sus"
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19359.921860543483!2d-8.63089!3d52.660154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b5c63917759ed%3A0x701125369c33f748!2s84%20O&#39;Connell%20St%2C%20Prior&#39;s-Land%2C%20Limerick%2C%20V94%20D597%2C%20Ireland!5e0!3m2!1sen!2sus!4v1752178444253!5m2!1sen!2sus"
                         width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                 </div>
                 <div>
