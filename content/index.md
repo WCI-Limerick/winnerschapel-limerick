@@ -109,7 +109,7 @@ actions:
             What is unique about this church?
          </span>
           <p class="block text-gray-500 text-center">
-            This Church is a home of signs and wonders:
+            This Church is a home of signs and wonders
           </p>
         </div>
         <!-- End Title -->
@@ -122,7 +122,7 @@ actions:
     </span>
     <div class="grow">
       <span class="text-md sm:text-base text-gray-500">
-        where <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-sky-500">God</span> stops the tears of men and women
+       <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500">God</span>stops the tears of men and women here
       </span>
     </div>
   </li>
@@ -133,7 +133,7 @@ actions:
     </span>
     <div class="grow">
       <span class="text-md sm:text-base text-gray-500">
-        where <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-sky-500">God</span> confers breakthrough in all areas
+        <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500">God</span>confers breakthroughs in all areas here
       </span>
     </div>
   </li>
@@ -144,7 +144,7 @@ actions:
     </span>
     <div class="grow">
       <span class="text-md sm:text-base text-gray-500">
-        where <span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-sky-500">God</span> decorates destinys
+        Our turnaround<span class="font-bold underline decoration-dotted underline underline-offset-4 underline decoration-rose-500">God</span> decorates destinys here
       </span>
     </div>
   </li>
