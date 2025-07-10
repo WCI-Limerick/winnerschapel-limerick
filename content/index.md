@@ -105,7 +105,7 @@ Winners Chapel International Limerick
       <div class="space-y-6 sm:space-y-8">
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
-          <span class="font-extrabold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">
+          <span class="font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">
             What is unique about this church?
           </span>
           <p class="text-gray-500">
@@ -191,7 +191,7 @@ Winners Chapel International Limerick
 <section class="bg-gray-100 rounded-xl shadow-xl">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-5xl font-extrabold text-gray-900 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">Worship with Us</span>
+            <span class="text-5xl font-bold text-gray-900 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">Worship with Us</span>
             <p class="mt-4 text-lg text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="mt-16 lg:mt-20">
