@@ -41,7 +41,7 @@ Winners Chapel International Limerick
   <div class="px-4 sm:px-6 lg:px-8">
     <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl filter saturate-150">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 bg-blur-md bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
+        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-lg bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-medium mb-2">Praise Night</h2>
     <p class="mb-0">July 2025</p>
   </div>
@@ -63,7 +63,7 @@ Winners Chapel International Limerick
     </div>
     <div class="mx-auto px-4 sm:px-6 lg:px-8">
       <div class="sm:text-center">
-        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-gradient-to-r from-indigo-400 to-pink-600 saturate-150 bg-clip-text text-transparent">
           Service Times
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
@@ -106,7 +106,7 @@ Winners Chapel International Limerick
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
           <span class="font-bold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">
-            What is unique about this church?
+            What is unique about <br> this church?
           </span>
           <p class="text-gray-500">
             Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
@@ -161,28 +161,143 @@ Winners Chapel International Limerick
 
 
 
-<div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-  <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
-    <div class="space-y-2">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1540575861501-7cf05a4b125a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1668906093328-99601a1aa584?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1567016526105-22da7c13161a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-    </div>
-    <div class="space-y-2">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1668584054131-d5721c515211?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1664574654529-b60630f33fdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-    </div>
-    <div class="space-y-2">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1586232702178-f044c5f4d4b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1542125387-c71274d94f0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-    </div>
-    <div class="space-y-2">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1668869713519-9bcbb0da7171?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
-      <img class="w-full h-auto object-cover rounded-xl shadow-xl" src="https://images.unsplash.com/photo-1668584054035-f5ba7d426401?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Gallery Masonry Image">
+<section class="ezy__portfolio9 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white">
+  <div class="container px-4">
+    <div class="grid grid-cols-12 gap-6 lg:gap-12">
+      <div class="col-span-12 md:col-span-4 md:mt-6 lg:mt-12 md:pt-6 lg:pt-12">
+        <div class="xl:my-12 xl:py-12">
+          <div class="mb-6 md:my-12 lg:py-12">
+            <h2 class="text-3xl leading-none md:text-[45px] mb-6">My Latest Works</h2>
+            <p class="text-lg leading-8 mb-2">
+              It’s easier to reach your savings goals when you have the right savings account. It’s easier to reach
+              your savings goals when you have the right savings account.
+            </p>
+            <div class="col-span-12 mt-6">
+              <button class="m-1 bg-blue-600 text-white rounded px-3 py-1.5">All</button>
+              <button class="m-1 hover:bg-blue-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
+                Branding
+              </button>
+              <button class="m-1 hover:bg-blue-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
+                Code
+              </button>
+              <button class="m-1 hover:bg-blue-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
+                Marketing
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio32.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Marketing</h5>
+            <p class="mb-0">Digital Marketing</p>
+          </div>
+        </div>
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio31.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Management</h5>
+            <p class="mb-0">Content Writing</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-span-12 md:col-span-4 md:mt-6 md:pt-6 lg:mt-12 lg:pt-12">
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio30.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Branding</h5>
+            <p class="mb-0">Product Design</p>
+          </div>
+        </div>
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio29.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Web Portal Dev</h5>
+            <p class="mb-0">UI/UX Design</p>
+          </div>
+        </div>
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio28.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Web Portal Dev</h5>
+            <p class="mb-0">UI/UX Design</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-span-12 md:col-span-4">
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio27.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Customaization</h5>
+            <p class="mb-0">Theme Development</p>
+          </div>
+        </div>
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio26.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Web Portal Dev</h5>
+            <p class="mb-0">UI/UX Design</p>
+          </div>
+        </div>
+        <div class="group rounded-xl overflow-hidden relative mt-6">
+          <img
+            src="https://cdn.easyfrontend.com/pictures/portfolio/portfolio25.jpg"
+            alt=""
+            class="max-w-full h-auto w-full"
+          />
+          <div
+            class="absolute left-4 right-4 top-1/2 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 bg-blur-sm bg-saturate-200 -translate-y-1/2 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
+          >
+            <h5 class="font-medium text-xl">Development</h5>
+            <p class="mb-0">Editor Expert</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
 
 
 
@@ -191,7 +306,7 @@ Winners Chapel International Limerick
 <section class="bg-gray-100 rounded-xl shadow-xl">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-5xl font-bold text-gray-900 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">Worship with Us</span>
+            <span class="text-4xl font-bold text-gray-900 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent saturate-150">Worship with us</span>
             <p class="mt-4 text-lg text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="mt-16 lg:mt-20">
