@@ -24,10 +24,10 @@ actions:
 ---
 
 #title
-<span class="<font-black">Winners Chapel International Limerick</span>
+<span class="<font-black text-7xl">Winners Chapel International Limerick</span>
 
 #description
-<span class="bg-gradient-to-r from-amber-400 to-pink-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
+<span class="bg-pink-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
   
