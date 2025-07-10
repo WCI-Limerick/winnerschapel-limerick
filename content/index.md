@@ -42,13 +42,14 @@ Winners Chapel International Limerick
     <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-xl filter saturate-100">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 bg-blur-xl bg-saturate-200 shadow-xl translate-y-16 text-center p-6">
-    <h5 class="text-xl font-medium mb-2">Photography</h5>
-    <p class="mb-0">Cinematography</p>
+    <h2 class="text-xl font-medium mb-2">Praise Night</h2>
+    <p class="mb-0">2025</p>
   </div>
       </div>
     </div>
   </div>
   <!-- End Hero -->
+---
 
   <section class="relative overflow-hidden bg-gray-100 py-12 sm:py-16 lg:py-20">
     <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
