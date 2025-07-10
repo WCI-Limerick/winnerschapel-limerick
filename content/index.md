@@ -100,7 +100,7 @@ Liberating the world through the preaching of the Word of Faith
         <!-- Title -->
         <div class="space-y-2 md:space-y-4">
           <span class="font-extrabold text-4xl text-center lg:text-5xl text-gray-600 bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">
-            What is unique about this <br> church?
+            What is unique about this church?
           </span>
           <p class="text-gray-500">
             Besides working with start-up enterprises as a partner for digitalization, we have built enterprise products for common pain points that we have encountered in various products and projects.
