@@ -95,10 +95,11 @@ actions:
     <div class="grid grid-cols-12">
       <!--  heading-->
       <div class="col-span-12 md:col-span-8">
-        <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">What is Unique About this Church</span>
-        </div>
-<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+        <div class="mb-12">
+          <h1 class="text-center bg-rose-600 saturate-150 bg-clip-text text-transparent text-3xl font-bold leading-tight md:text-[45px] mb-4">
+            You'll dominion his under hath
+          </h1>
+          <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
           <p class="text-lg opacity-80 leading-7">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
             quod perferendis nihil cupiditate aliquid qui exercitationem
