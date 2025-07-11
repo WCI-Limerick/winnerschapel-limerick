@@ -95,9 +95,9 @@ actions:
 <section class="py-10 bg-gray-50 sm:py-16 lg:py-24">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center">
-            <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">130+ Handcoded Blocks</p>
+            <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">Home of Signs and Wonders</p>
 
-  <h2 class="mt-6 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">Celebration helps you build beautiful website</h2>
+  <h2 class="mt-6 text-3xl font-extrabold leading-tight text-black sm:text-4xl lg:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">What is Unique About This Church</h2>
         </div>
 
   <div class="grid items-center grid-cols-1 mt-12 gap-y-10 lg:grid-cols-5 sm:mt-20 gap-x-4">
@@ -155,7 +155,7 @@ actions:
       <div class="col-span-12 md:col-span-4 md:mt-6 lg:mt-12 md:pt-6 lg:pt-12">
         <div class="xl:my-12 xl:py-12">
           <div class="mb-6 md:my-12 lg:py-12">
-            <h2 class="text-3xl leading-none md:text-[45px] mb-6">My Latest Works</h2>
+            <h2 class="text-3xl leading-none md:text-[45px] mb-6 text-center bg-rose-600 saturate-150 bg-clip-text text-transparent">My Latest Works</h2>
             <p class="text-lg leading-8 mb-2">
               It’s easier to reach your savings goals when you have the right savings account. It’s easier to reach
               your savings goals when you have the right savings account.
