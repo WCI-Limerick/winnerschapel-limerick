@@ -97,9 +97,9 @@ actions:
         <div class="max-w-xl mx-auto text-center">
             <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">Home of Signs and Wonders</p>
 
-  <h2 class="mt-6 text-3xl font-extrabold leading-tight text-black sm:text-4xl lg:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">What is Unique About This Church</h2>
+  <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">What is Unique About This Church</span>
         </div>
-
+<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
   <div class="grid items-center grid-cols-1 mt-12 gap-y-10 lg:grid-cols-5 sm:mt-20 gap-x-4">
             <div class="space-y-8 lg:pr-16 xl:pr-24 lg:col-span-2 lg:space-y-12">
                 <div class="flex items-start">
