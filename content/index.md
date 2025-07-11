@@ -92,7 +92,7 @@ actions:
 <br>
 
 
-<section class="py-10 bg-gray-50 sm:py-16 lg:py-24 rounded-2xl shadow-xl filter saturate-150">
+<section class="py-10 bg-gray-50 sm:py-16 lg:py-24 filter saturate-150">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center">
             <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">Home of Signs and Wonders</p>
@@ -138,7 +138,7 @@ actions:
             </div>
 
   <div class="lg:col-span-3">
-                <img class="w-full rounded-lg shadow-xl" src="https://cdn.rareblocks.xyz/collection/celebration/images/features/7/dashboard-screenshot.png" alt="" />
+                <img class="w-full rounded-xl shadow-xl filter saturate-50" src="/public\20250705_191624.jpg" alt="" />
             </div>
         </div>
     </div>
@@ -151,7 +151,7 @@ actions:
 
 
 
-<section class="bg-gray-100 rounded-xl shadow-xl">
+<section class="bg-gray-100">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
             <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">Worship with Us</span>
