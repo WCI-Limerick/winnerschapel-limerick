@@ -112,10 +112,10 @@ actions:
       <div class="col-span-12 lg:col-span-6 text-center lg:order-2">
         <div
           class="bg-center bg-no-repeat bg-cover rounded-xl shadow-xl h-full min-h-[400px] lg:min-h-[550px]"
-          style="
-            background-image: /20250705_191624.jpg;
-          "
-        ></div>
+          <img
+          src="/20250705_191624.jpg"
+          alt=""
+        />
       </div>
       <!-- cards -->
       <div
