@@ -114,7 +114,7 @@ actions:
 
   ::card
   ---
-  img: /Picture2 (1).png
+  img: /Picture3.png
   ---
   #title
   Covenant Hour of Prayer 
