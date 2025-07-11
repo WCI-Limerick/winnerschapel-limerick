@@ -96,14 +96,14 @@ actions:
 
 <div class="grid grid-cols-1 gap-6 mt-8 sm:grid-cols-3 md:mt-16 lg:gap-x-12">
             <div>
-                <img class="w-full" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/6/team-member-1.jpg" alt="" />
+                <img class="w-full" src="/WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg" alt="" />
             </div>
 
 <div>
                 <img class="w-full" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/6/team-member-2.jpg" alt="" />
             </div>
             <div>
-                <img class="w-full" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/6/team-member-3.jpg" alt="" />
+                <img class="w-full" src="/Picture3.png" alt="" />
             </div>
         </div>
         <div class="mt-8 text-center md:mt-16">
