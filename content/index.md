@@ -87,6 +87,17 @@ actions:
 
 <br>
 
+::card
+---
+img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+---
+#title
+Sunday Service - Time: 11.30am
+
+#content
+Covenant Day of Marital Breakthroughs
+::
+
 
 <section
   class="ezy__featured46 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
