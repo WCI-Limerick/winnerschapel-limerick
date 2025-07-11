@@ -102,7 +102,7 @@ actions:
 
   ::card
   ---
-  img: /Picture1 (1).png
+  img: /Picture1.png
   ---
   #title
   Mid-Week Communion Service
@@ -114,7 +114,7 @@ actions:
 
   ::card
   ---
-  img: /Picture2.png
+  img: /Picture2 (1).png
   ---
   #title
   Covenant Hour of Prayer 
