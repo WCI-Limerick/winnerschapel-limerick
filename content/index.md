@@ -55,7 +55,7 @@ actions:
 <br>
 <br>
 
-  <section class="relative overflow-hidden bg-gray-100 py-12 sm:py-16 lg:py-20 rounded-2xl shadow-xl filter saturate-150">
+  <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter saturate-150">
     <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
       <div class="absolute h-60 w-60 rounded-2xl border-4 border-rose-600"></div>
       <div class="absolute h-60 w-60 translate-x-3 translate-y-3 rounded-2xl border-4 border-rose-600"></div>
@@ -92,7 +92,7 @@ actions:
 <br>
 
 
-<section class="py-10 bg-gray-50 sm:py-16 lg:py-24 filter saturate-150">
+<section class="py-10 bg-white sm:py-16 lg:py-24 filter saturate-150">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center">
             <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">Home of Signs and Wonders</p>
@@ -138,7 +138,7 @@ actions:
             </div>
 
   <div class="lg:col-span-3">
-                <img class="w-full rounded-xl shadow-xl filter saturate-50" src="/public\20250705_191624.jpg" alt="" />
+                <img class="w-full rounded-xl shadow-xl filter saturate-50" src="/20250705_191624.jpg" alt="" />
             </div>
         </div>
     </div>
@@ -151,7 +151,7 @@ actions:
 
 
 
-<section class="bg-gray-100">
+<section class="bg-white">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
             <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">Worship with Us</span>
