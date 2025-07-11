@@ -96,31 +96,31 @@ actions:
   Covenant Day of Marital Breakthroughs
 
   #content
-  Join us this Sunday - 11.30am
+  Join us this Sunday 13 July 2025 - 11.30am
   ::
 
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+  img: /Picture1.png
   ---
   #title
-  Covenant Day of Marital Breakthroughs
+  Mid-Week Communion Service
 
   #content
-  Join us this Sunday - 11.30am
+  Join us this Wednesday 16 July 2025 - 6.30am
   ::
 
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+  img: /Picture2.png
   ---
   #title
-  Covenant Day of Marital Breakthroughs
+  Covenant Hour of Prayer 
 
   #content
-  Join us this Sunday - 11.30am
+  Join us Monday to Saturday - 5.30am
   ::
 ::  
 
