@@ -96,11 +96,11 @@ actions:
       <!--  heading-->
       <div class="col-span-12 md:col-span-8">
         <div class="mb-12">
-          <h1 class="text-center bg-rose-600 saturate-150 bg-clip-text text-transparent text-3xl font-bold leading-tight md:text-[45px] mb-4">
+          <h1 class="block text-center bg-rose-600 saturate-150 bg-clip-text text-transparent text-3xl font-bold leading-tight md:text-[45px] mb-4">
             What is Unique About this Church
           </h1>
           <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
-          <p class="text-lg opacity-80 leading-7">
+          <p class="block text-lg opacity-80 leading-7">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
             quod perferendis nihil cupiditate aliquid qui exercitationem
             labore veritatis eaque nobis libero earum, ab sapiente
@@ -113,7 +113,7 @@ actions:
         <div
           class="bg-center bg-no-repeat bg-cover rounded-xl shadow-xl h-full min-h-[400px] lg:min-h-[550px]"
           style="
-            background-image: /public/20250705_191624.jpg;
+            background-image: /20250705_191624.jpg;
           "
         ></div>
       </div>
