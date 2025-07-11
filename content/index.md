@@ -89,7 +89,7 @@ actions:
 
 ::card
 ---
-img: <img :src="/WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg" class="max-w-xs rounded-md" />
+img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg <div class="max-w-xs"/div>
 ---
 #title
 Sunday Service - Time: 11.30am
