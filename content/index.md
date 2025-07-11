@@ -30,7 +30,7 @@ actions:
 <span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
-  
+  <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_70%,transparent_100%)]"></div></div>
 
 <!-- Page Wrapper with Background Pattern -->
 <div class="relative min-h-screen bg-white">
