@@ -87,16 +87,30 @@ actions:
 
 <br>
 
-::card
----
-img: <img src="/WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg" alt="Welcome Mat Image" class="w-1/3 mx-auto rounded-md" /> 
----
-#title
-Sunday Service - Time: 11.30am
+::card-group
+  ::card
+  ---
+  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+  ---
+  #title
+  Covenant Day of Marital Breakthroughs
 
-#content
-Covenant Day of Marital Breakthroughs
-::
+  #content
+  Join us this Sunday - 11.30am
+  ::
+
+
+  ::card
+  ---
+  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+  ---
+  #title
+  Covenant Day of Marital Breakthroughs
+
+  #content
+  Join us this Sunday - 11.30am
+  ::
+::  
 
 
 <section
