@@ -89,97 +89,91 @@ actions:
 
 
 <section
-  class="ezy__featured45 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
+  class="ezy__featured46 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
 >
   <div class="container px-4 mx-auto">
-    <div class="grid grid-cols-12">
-      <!--  heading-->
-      <div class="col-span-12 md:col-span-8">
-        <div class="mb-12">
-          <h1 class="block text-center bg-rose-600 saturate-150 bg-clip-text text-transparent text-3xl font-bold leading-tight md:text-[45px] mb-4">
-            What is Unique About this Church
-          </h1>
-          <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
-          <p class="block text-lg opacity-80 leading-7">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-            quod perferendis nihil cupiditate aliquid qui exercitationem
-            labore veritatis eaque nobis libero earum, ab sapiente
-            voluptates a consequuntur.
-          </p>
-        </div>
+    <div class="sm:text-center">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
+          Service Times
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+        <p class="text-lg opacity-80 leading-7">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+          ut ratione voluptatem blanditiis, voluptas illum tempore magni
+          quam veniam provident porro voluptate nulla corporis consequuntur
+          ab possimus. Modi quia nam repellendus.
+        </p>
       </div>
-      <!-- img -->
-      <div class="col-span-12 lg:col-span-6 text-center lg:order-2">
+    </div>
+    <div class="grid grid-cols-12 pt-12">
+      <div class="col-span-12 lg:col-span-4 lg:order-2">
         <div
-          class="bg-center bg-no-repeat bg-cover rounded-xl shadow-xl h-full min-h-[400px] lg:min-h-[550px]"
-          <img
-          src="/20250705_191624.jpg"
-          alt=""
-        />
+          class="bg-center bg-no-repeat bg-cover rounded-2xl h-full min-h-[200px]"
+          style="
+            background-image: url(https://cdn.easyfrontend.com/pictures/portfolio/portfolio22.jpg);
+          "
+        ></div>
       </div>
-      <!-- cards -->
-      <div
-        class="col-span-12 lg:col-span-6 flex flex-col justify-center xl:mr-20"
-      >
-        <!-- card starts -->
-        <div class="flex justify-center p-6">
-          <div
-            class="bg-rose-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
-          >
-            <i class="fa-solid fa-camera"></i>
-          </div>
-          <div class="p-4">
-            <h5 class="text-xl font-bold mb-4">
-              Do you allow Mastercard or Paypal?
-            </h5>
-            <p class="text-base font-light leading-snug">
-              Assumenda non repellendus distinctio nihil dicta sapiente,
-              quibusdam maiores, illum at, aliquid blanditiis eligendi qui.
+      <div class="col-span-12 md:col-span-6 lg:col-span-4">
+        <div class="p-4 mt-4 lg:mt-0">
+          <div class="text-center p-6">
+            <div
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+            >
+              <i class="fas fa-cannabis"></i>
+            </div>
+            <h4 class="text-2xl font-medium mb-4">Product Design</h4>
+            <p class="opacity-80">
+              You first land evening beast won't had bring first void meat.
             </p>
           </div>
         </div>
-        <!-- card ends -->
-        <!-- card starts -->
-        <div class="flex justify-center p-6">
-          <div
-            class="bg-rose-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
-          >
-            <i class="fa-solid fa-random"></i>
-          </div>
-          <div class="p-4">
-            <h5 class="text-xl font-bold mb-4">
-              What is the return policy of yours?
-            </h5>
-            <p class="text-base font-light leading-snug">
-              Banks likewise put away cash to develop their hold of cash.
-              What they do is directed by laws. Those laws vary in various
-              nations.
+        <div class="p-4 mt-4 lg:mt-0">
+          <div class="text-center p-6">
+            <div
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+            >
+              <i class="fas fa-random"></i>
+            </div>
+            <h4 class="text-2xl font-medium mb-4">Branding</h4>
+            <p class="opacity-80">
+              Whose living for moving female seas heaven unto winged.
             </p>
           </div>
         </div>
-        <!-- card ends -->
-        <!-- card starts -->
-        <div class="flex justify-center p-6">
-          <div
-            class="bg-rose-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
-          >
-            <i class="fa-solid fa-message"></i>
-          </div>
-          <div class="p-4">
-            <h5 class="text-xl font-bold mb-4">
-              What Shipping Options do you have?
-            </h5>
-            <p class="text-base font-light leading-snug">
-              Partner removes the hassle and confusion that comes from
-              managing your tax burden effectively.
+      </div>
+      <div class="col-span-12 md:col-span-6 lg:col-span-4 lg:order-3">
+        <div class="p-4 mt-4 lg:mt-0">
+          <div class="text-center p-6">
+            <div
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+            >
+              <i class="fas fa-camera"></i>
+            </div>
+            <h4 class="text-2xl font-medium mb-4">Digital Marketing</h4>
+            <p class="opacity-80">
+              Moving seasons, tree you're creeping third behold may be.
             </p>
           </div>
         </div>
-        <!-- card ends -->
+        <div class="p-4 mt-4 lg:mt-0">
+          <div class="text-center p-6">
+            <div
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+            >
+              <i class="fas fa-yin-yang"></i>
+            </div>
+            <h4 class="text-2xl font-medium mb-4">SEO Analytics</h4>
+            <p class="opacity-80">
+              Third abundantly us after cattle won't is land heaven us.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </section>
+
 
 
 
