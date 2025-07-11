@@ -114,7 +114,7 @@ actions:
 
   ::card
   ---
-  img: /Picture3.png
+  img: /Orange Modern Good Bye April (Poster) (Flyers) (Flyer (A4)).png
   ---
   #title
   Covenant Hour of Prayer 
