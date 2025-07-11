@@ -94,7 +94,7 @@ actions:
   <div class="container px-4 mx-auto">
     <div class="sm:text-center">
         <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
-          Service Times
+          What is Unique About this Church ?
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="text-lg opacity-80 leading-7">
@@ -118,7 +118,7 @@ actions:
         <div class="p-4 mt-4 lg:mt-0">
           <div class="text-center p-6">
             <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
             >
               <i class="fas fa-cannabis"></i>
             </div>
@@ -131,7 +131,7 @@ actions:
         <div class="p-4 mt-4 lg:mt-0">
           <div class="text-center p-6">
             <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
             >
               <i class="fas fa-random"></i>
             </div>
@@ -146,7 +146,7 @@ actions:
         <div class="p-4 mt-4 lg:mt-0">
           <div class="text-center p-6">
             <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
             >
               <i class="fas fa-camera"></i>
             </div>
@@ -159,7 +159,7 @@ actions:
         <div class="p-4 mt-4 lg:mt-0">
           <div class="text-center p-6">
             <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-blue-600 text-white mb-6"
+              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
             >
               <i class="fas fa-yin-yang"></i>
             </div>
