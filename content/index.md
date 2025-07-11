@@ -155,20 +155,21 @@ actions:
       <div class="col-span-12 md:col-span-4 md:mt-6 lg:mt-12 md:pt-6 lg:pt-12">
         <div class="xl:my-12 xl:py-12">
           <div class="mb-6 md:my-12 lg:py-12">
-            <h2 class="text-3xl leading-none md:text-[45px] mb-6 text-center bg-rose-600 saturate-150 bg-clip-text text-transparent">My Latest Works</h2>
+            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">Gallery</span>
+        </div>
+<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
             <p class="text-lg leading-8 mb-2">
               It’s easier to reach your savings goals when you have the right savings account. It’s easier to reach
               your savings goals when you have the right savings account.
             </p>
             <div class="col-span-12 mt-6">
-              <button class="m-1 bg-blue-600 text-white rounded px-3 py-1.5">All</button>
-              <button class="m-1 hover:bg-blue-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
+              <button class="m-1 hover:bg-rose-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
                 Branding
               </button>
-              <button class="m-1 hover:bg-blue-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
+              <button class="m-1 hover:bg-rose-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
                 Code
               </button>
-              <button class="m-1 hover:bg-blue-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
+              <button class="m-1 hover:bg-rose-600 hover:text-white rounded transition duration-300 px-3 py-1.5">
                 Marketing
               </button>
             </div>
@@ -294,7 +295,9 @@ actions:
 <section class="bg-gray-100 rounded-xl shadow-xl">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-4xl font-bold text-gray-900 bg-rose-600 bg-clip-text text-transparent saturate-150">Worship with us</span>
+            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">Worship with us</span>
+        </div>
+<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
             <p class="mt-4 text-lg text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         </div>
         <div class="mt-16 lg:mt-20">
