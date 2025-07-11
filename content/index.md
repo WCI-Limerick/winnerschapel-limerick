@@ -88,57 +88,98 @@ actions:
 <br>
 
 
-<section class="py-10 bg-white sm:py-16 lg:py-24 filter saturate-150">
-    <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
-        <div class="max-w-xl mx-auto text-center">
-            <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">Home of Signs and Wonders</p>
-
-  <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">What is Unique About This Church</span>
+<section
+  class="ezy__featured45 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
+>
+  <div class="container px-4 mx-auto">
+    <div class="grid grid-cols-12">
+      <!--  heading-->
+      <div class="col-span-12 md:col-span-8">
+        <div class="mb-12">
+          <h1 class="text-3xl font-bold leading-tight md:text-[45px] mb-4">
+            You'll dominion his under hath
+          </h1>
+          <p class="text-lg opacity-80 leading-7">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
+            quod perferendis nihil cupiditate aliquid qui exercitationem
+            labore veritatis eaque nobis libero earum, ab sapiente
+            voluptates a consequuntur.
+          </p>
         </div>
-<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
-  <div class="grid items-center grid-cols-1 mt-12 gap-y-10 lg:grid-cols-5 sm:mt-20 gap-x-4">
-            <div class="space-y-8 lg:pr-16 xl:pr-24 lg:col-span-2 lg:space-y-12">
-                <div class="flex items-start">
-                    <svg class="flex-shrink-0 text-green-500 w-9 h-9" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
-                    </svg>
-                    <div class="ml-5">
-                        <h3 class="text-xl font-semibold text-black">Simply Copy & Paste</h3>
-                        <p class="mt-3 text-base text-gray-600">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-                    </div>
-                </div>
-
-  <div class="flex items-start">
-                    <svg class="flex-shrink-0 text-blue-600 w-9 h-9" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                    
-  </svg>
-                    <div class="ml-5">
-                        <h3 class="text-xl font-semibold text-black">Easy to Customize</h3>
-                        <p class="mt-3 text-base text-gray-600">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-                    </div>
-                </div>
-
-<div class="flex items-start">
-                    <svg class="flex-shrink-0 text-red-500 w-9 h-9" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
-</svg>
-                    <div class="ml-5">
-                        <h3 class="text-xl font-semibold text-black">Made with TailwindCSS</h3>
-                        <p class="mt-3 text-base text-gray-600">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.</p>
-                    </div>
-                </div>
-            </div>
-
-  <div class="lg:col-span-3">
-                <img class="w-full rounded-xl shadow-xl filter saturate-100" src="/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.jpg" alt="" />
-            </div>
+      </div>
+      <!-- img -->
+      <div class="col-span-12 lg:col-span-6 text-center lg:order-2">
+        <div
+          class="bg-center bg-no-repeat bg-cover rounded-xl h-full min-h-[400px] lg:min-h-[550px]"
+          style="
+            background-image: url(https://cdn.easyfrontend.com/pictures/portfolio/portfolio32.jpg);
+          "
+        ></div>
+      </div>
+      <!-- cards -->
+      <div
+        class="col-span-12 lg:col-span-6 flex flex-col justify-center xl:mr-20"
+      >
+        <!-- card starts -->
+        <div class="flex justify-center p-6">
+          <div
+            class="bg-blue-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
+          >
+            <i class="fa-solid fa-camera"></i>
+          </div>
+          <div class="p-4">
+            <h5 class="text-xl font-bold mb-4">
+              Do you allow Mastercard or Paypal?
+            </h5>
+            <p class="text-base font-light leading-snug">
+              Assumenda non repellendus distinctio nihil dicta sapiente,
+              quibusdam maiores, illum at, aliquid blanditiis eligendi qui.
+            </p>
+          </div>
         </div>
+        <!-- card ends -->
+        <!-- card starts -->
+        <div class="flex justify-center p-6">
+          <div
+            class="bg-blue-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
+          >
+            <i class="fa-solid fa-random"></i>
+          </div>
+          <div class="p-4">
+            <h5 class="text-xl font-bold mb-4">
+              What is the return policy of yours?
+            </h5>
+            <p class="text-base font-light leading-snug">
+              Banks likewise put away cash to develop their hold of cash.
+              What they do is directed by laws. Those laws vary in various
+              nations.
+            </p>
+          </div>
+        </div>
+        <!-- card ends -->
+        <!-- card starts -->
+        <div class="flex justify-center p-6">
+          <div
+            class="bg-blue-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
+          >
+            <i class="fa-solid fa-message"></i>
+          </div>
+          <div class="p-4">
+            <h5 class="text-xl font-bold mb-4">
+              What Shipping Options do you have?
+            </h5>
+            <p class="text-base font-light leading-snug">
+              Partner removes the hassle and confusion that comes from
+              managing your tax burden effectively.
+            </p>
+          </div>
+        </div>
+        <!-- card ends -->
+      </div>
     </div>
+  </div>
 </section>
+
 
 
 
