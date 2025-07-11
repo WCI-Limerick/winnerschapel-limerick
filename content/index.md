@@ -35,7 +35,7 @@ actions:
 
   <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-150">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-white/70 backdrop-blur-lg bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-medium mb-2">Praise Night</h2>
@@ -134,7 +134,7 @@ actions:
             </div>
 
   <div class="lg:col-span-3">
-                <img class="w-full rounded-xl shadow-xl filter saturate-50" src="/20250705_191624.jpg" alt="" />
+                <img class="w-full rounded-xl shadow-xl filter saturate-100" src="/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.jpg" alt="" />
             </div>
         </div>
     </div>
@@ -144,41 +144,6 @@ actions:
 
 <br>
 
-<section
-  class="ezy__featured26 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white overflow-hidden"
->
-  <div class="container px-4 mx-auto relative">
-    <div
-      class="grid grid-cols-12 gap-6 lg:gap-12 items-center justify-between"
-    >
-      <div
-        class="col-span-12 lg:col-span-5 xl:pr-12 text-center lg:text-start"
-      >
-        <h2 class="text-2xl leading-none md:text-[45px] font-bold mb-6">
-          Get Choose Your lovely Products
-        </h2>
-        <p class="text-[22px] leading-normal opacity-80">
-          It’s easier to reach your savings goals when you have the right
-          savings account. Take a look and find the right one for you!
-        </p>
-        <div class="mt-4 md:mt-12">
-          <a
-            href=""
-            class="bg-blue-600 hover:bg-opacity-90 text-white border border-blue-600 rounded transition py-4 px-8 font-normal mb-6 sm:mb-0"
-            >Explore more <i class="fas fa-arrow-right ml-1"></i
-          ></a>
-        </div>
-      </div>
-      <div class="col-span-12 lg:col-span-6 lg:col-start-8">
-        <img
-          src="https://cdn.easyfrontend.com/pictures/featured/featured_11.png"
-          alt=""
-          class="rounded max-w-full h-auto mt-4"
-        />
-      </div>
-    </div>
-  </div>
-</section>
 
 
 
