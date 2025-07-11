@@ -102,7 +102,7 @@ actions:
 
   ::card
   ---
-  img: /Picture1.png
+  img: /Picture1 (1).png
   ---
   #title
   Mid-Week Communion Service
