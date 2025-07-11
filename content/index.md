@@ -97,7 +97,7 @@ actions:
       <div class="col-span-12 md:col-span-8">
         <div class="mb-12">
           <h1 class="text-center bg-rose-600 saturate-150 bg-clip-text text-transparent text-3xl font-bold leading-tight md:text-[45px] mb-4">
-            You'll dominion his under hath
+            What is Unique About this Church
           </h1>
           <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
           <p class="text-lg opacity-80 leading-7">
@@ -111,9 +111,9 @@ actions:
       <!-- img -->
       <div class="col-span-12 lg:col-span-6 text-center lg:order-2">
         <div
-          class="bg-center bg-no-repeat bg-cover rounded-xl h-full min-h-[400px] lg:min-h-[550px]"
+          class="bg-center bg-no-repeat bg-cover rounded-xl shadow-xl h-full min-h-[400px] lg:min-h-[550px]"
           style="
-            background-image: url(https://cdn.easyfrontend.com/pictures/portfolio/portfolio32.jpg);
+            background-image: /public/20250705_191624.jpg;
           "
         ></div>
       </div>
@@ -124,7 +124,7 @@ actions:
         <!-- card starts -->
         <div class="flex justify-center p-6">
           <div
-            class="bg-blue-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
+            class="bg-rose-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
           >
             <i class="fa-solid fa-camera"></i>
           </div>
@@ -142,7 +142,7 @@ actions:
         <!-- card starts -->
         <div class="flex justify-center p-6">
           <div
-            class="bg-blue-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
+            class="bg-rose-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
           >
             <i class="fa-solid fa-random"></i>
           </div>
@@ -161,7 +161,7 @@ actions:
         <!-- card starts -->
         <div class="flex justify-center p-6">
           <div
-            class="bg-blue-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
+            class="bg-rose-600 text-white min-w-[60px] h-12 rounded-xl text-lg flex justify-center items-center mb-6"
           >
             <i class="fa-solid fa-message"></i>
           </div>
