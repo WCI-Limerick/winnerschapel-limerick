@@ -37,7 +37,7 @@ actions:
   <div class="px-4 sm:px-6 lg:px-8">
     <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white bg-white/70 backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
+        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-medium mb-2">Praise Night</h2>
     <p class="mb-0">July 2025</p>
   </div>
