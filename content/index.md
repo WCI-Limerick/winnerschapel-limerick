@@ -92,7 +92,7 @@ actions:
 <br>
 
 
-<section class="py-10 bg-gray-50 sm:py-16 lg:py-24">
+<section class="py-10 bg-gray-50 sm:py-16 lg:py-24 rounded-2xl shadow-xl filter saturate-150">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div class="max-w-xl mx-auto text-center">
             <p class="text-sm font-semibold tracking-widest text-blue-600 uppercase">Home of Signs and Wonders</p>
