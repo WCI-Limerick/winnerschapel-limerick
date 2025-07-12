@@ -24,7 +24,7 @@ actions:
 ---
 
 #title
-<span class="<font-black text-5xl">Winners Chapel International Limerick</span>
+<span class="font-black text-5xl lg:text-7xl">Winners Chapel International Limerick</span>
 
 #description
 <span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
@@ -102,7 +102,7 @@ actions:
 
   ::card
   ---
-  img: /Picture5.png
+  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
   ---
   #title
   Mid-Week Communion Service
@@ -113,7 +113,7 @@ actions:
 
   ::card
   ---
-  img: /Picture4.png
+  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
   ---
   #title
   Covenant Hour of Prayer
@@ -217,6 +217,38 @@ actions:
 
 
 <br>
+
+::card-group{:cols="3"}
+  ::card
+  ---
+  title: Announcements
+  icon: lucide:megaphone
+  to: https://nuxt.com/docs/api/components/client-only.md
+  target: _blank
+  ---
+  Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place. - 2Chr. 7:15
+  ::
+
+  ::card
+  ---
+  title: Prophetic Focus for July
+  icon: lucide:book-open-text
+  to: https://nuxt.com/docs/api/composables/use-app-config.md
+  target: _blank
+  ---
+  Set your mind on things above, not on things on the earth. - Col. 3:2
+  ::
+
+  ::card
+  ---
+  title: Winners Satellite Fellowship
+  icon: lucide:house
+  to: https://nuxt.com/docs/api/utils/dollarfetch.md
+  target: _blank
+  ---
+  For where two or three are gathered together in My name, I am there in the midst of them. - Matt. 18:20
+  ::
+::
 
 
 
