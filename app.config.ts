@@ -86,20 +86,20 @@ export default defineAppConfig({
           {
             icon: 'lucide:church',
             title: 'Altar Ministers',
-            to: 'mailto:info@esw.com',
+            to: '/docs',
             target: '_self',
           },
           {
             icon: 'lucide:music-4',
             title: 'Choir',
-            to: 'tel:+1234567890',
+            to: '/docs',
             target: '_self',
           },
           {
             icon: 'lucide:brush-cleaning',
             title: 'Sanctuary Keepers',
-            to: 'https://eswapis.vercel.app',
-            target: '_blank',
+            to: '/docs',
+            target: '_self',
           },
           {
             icon: 'lucide:shield',
