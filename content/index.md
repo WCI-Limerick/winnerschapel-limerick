@@ -87,7 +87,7 @@ actions:
 
 <br>
 
-::card-group
+::card-group{:cols="3"}
   ::card
   ---
   img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
