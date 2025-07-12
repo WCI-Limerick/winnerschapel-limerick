@@ -15,7 +15,7 @@ fullpage: true
   <!-- Grid -->
   <div class="mt-5 lg:mt-16 grid lg:grid-cols-3 gap-8 lg:gap-12">
     <div class="sm:text-center">
-        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
           I am New!
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
