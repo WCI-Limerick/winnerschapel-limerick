@@ -142,74 +142,54 @@ actions:
         </p>
       </div>
     </div>
-    <div class="grid grid-cols-12 pt-12">
-      <div class="col-span-12 lg:col-span-4 lg:order-2">
-        <div
-          class="bg-center bg-no-repeat bg-cover rounded-2xl h-full min-h-[200px]"
-          style="
-            background-image: url(https://cdn.easyfrontend.com/pictures/portfolio/portfolio22.jpg);
-          "
-        ></div>
-      </div>
-      <div class="col-span-12 md:col-span-6 lg:col-span-4">
-        <div class="p-4 mt-4 lg:mt-0">
-          <div class="text-center p-6">
-            <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
-            >
-              <i class="fas fa-cannabis"></i>
-            </div>
-            <h4 class="text-2xl font-medium mb-4">Text here</h4>
-            <p class="opacity-80">
-              placeholder here
-            </p>
-          </div>
-        </div>
-        <div class="p-4 mt-4 lg:mt-0">
-          <div class="text-center p-6">
-            <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
-            >
-              <i class="fas fa-random"></i>
-            </div>
-            <h4 class="text-2xl font-medium mb-4">Placeholder text here</h4>
-            <p class="opacity-80">
-              Placeholder here.
-            </p>
-          </div>
+    <!-- Slider -->
+<div data-hs-carousel='{
+    "isAutoHeight": true,
+    "loadingClasses": "opacity-0",
+    "dotsItemClasses": "hs-carousel-active:bg-blue-700 hs-carousel-active:border-blue-700 size-3 border border-gray-400 rounded-full cursor-pointer"
+  }' class="relative">
+  <div class="hs-carousel relative overflow-hidden w-full bg-white rounded-lg">
+    <div class="hs-carousel-body flex flex-nowrap overflow-hidden transition-[height,transform] duration-700 opacity-0">
+      <div class="hs-carousel-slide h-80 lg:h-96">
+        <div class="flex justify-center h-full bg-gray-100 p-6">
+          <span class="self-center text-4xl text-gray-800 transition duration-700">First slide</span>
         </div>
       </div>
-      <div class="col-span-12 md:col-span-6 lg:col-span-4 lg:order-3">
-        <div class="p-4 mt-4 lg:mt-0">
-          <div class="text-center p-6">
-            <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
-            >
-              <i class="fas fa-camera"></i>
-            </div>
-            <h4 class="text-2xl font-medium mb-4">Placeholder</h4>
-            <p class="opacity-80">
-              Placeholder text here.
-            </p>
-          </div>
+      <div class="hs-carousel-slide h-80">
+        <div class="flex justify-center h-full bg-gray-200 p-6">
+          <span class="self-center text-4xl text-gray-800 transition duration-700">Second slide</span>
         </div>
-        <div class="p-4 mt-4 lg:mt-0">
-          <div class="text-center p-6">
-            <div
-              class="w-16 h-16 rounded-xl text-2xl inline-flex items-center justify-center bg-rose-600 text-white mb-6"
-            >
-              <i class="fas fa-yin-yang"></i>
-            </div>
-            <h4 class="text-2xl font-medium mb-4">Placeholder text</h4>
-            <p class="opacity-80">
-              placeholder text
-            </p>
-          </div>
+      </div>
+      <div class="hs-carousel-slide h-80 lg:h-64">
+        <div class="flex justify-center h-full bg-gray-300 p-6">
+          <span class="self-center text-4xl text-gray-800 transition duration-700">Third slide</span>
         </div>
       </div>
     </div>
   </div>
-</section>
+
+  <button type="button" class="hs-carousel-prev hs-carousel-disabled:opacity-50 hs-carousel-disabled:pointer-events-none absolute inset-y-0 start-0 inline-flex justify-center items-center w-11.5 h-full text-gray-800 hover:bg-gray-800/10 focus:outline-hidden focus:bg-gray-800/10 rounded-s-lg">
+    <span class="text-2xl" aria-hidden="true">
+      <svg class="shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 18-6-6 6-6"></path>
+      
+  </svg>
+    </span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <button type="button" class="hs-carousel-next hs-carousel-disabled:opacity-50 hs-carousel-disabled:pointer-events-none absolute inset-y-0 end-0 inline-flex justify-center items-center w-11.5 h-full text-gray-800 hover:bg-gray-800/10 focus:outline-hidden focus:bg-gray-800/10 rounded-e-lg">
+    <span class="sr-only">Next</span>
+    <span class="text-2xl" aria-hidden="true">
+      <svg class="shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m9 18 6-6-6-6"></path>
+      
+  </svg>
+    </span>
+  </button>
+
+  <div class="hs-carousel-pagination flex justify-center absolute bottom-3 start-0 end-0 flex gap-x-2"></div>
+</div>
+<!-- End Slider -->
 
 
 
