@@ -14,16 +14,12 @@ fullpage: true
 
   <!-- Grid -->
   <div class="mt-5 lg:mt-16 grid lg:grid-cols-3 gap-8 lg:gap-12">
-    <div class="lg:col-span-1">
-      <h2 class="font-bold text-2xl md:text-3xl text-gray-800">
-        I am New
-      </h2>
-      <p class="mt-2 md:mt-4 text-gray-500">
-        Are you new or planning to visit us? Here are some frequently asked questions and answers. <br>
-        You are free to call any of the numbers listed here to speak to someone or to have someone agree with you in prayer: <br>
-        +353
-      </p>
-    </div>
+    <div class="sm:text-center">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
+          I am New!
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+      </div>
     <!-- End Col -->
 
 <div class="lg:col-span-2">
