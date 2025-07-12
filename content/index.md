@@ -135,10 +135,10 @@ actions:
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="text-lg opacity-80 leading-7">
-          **This Church is a home of signs and wonders**. <br>
+          <span class="text-indigo-600 font-bold">This Church is a home of signs and wonders.</span> <br>
           Our turn around God has been at work in this commission for over four decades,
           Surprising every members of this church with unimaginable testimonies as they
-          believe. <br> **If you will endeavour to abide in this church and commit to following every instructions that you receive here in the next three month**, the Lord God will bless you openingly as He did to obededom.
+          believe. <br> <span class="text-indigo-600 font-bold">If you will endeavour to abide in this church and commit to following every instructions that you receive here in the next three months</span>, the Lord God will bless you openingly as He did to obededom.
         </p>
       </div>
     </div>
@@ -223,11 +223,10 @@ actions:
                 <span
                     class="py-1 px-4 bg-indigo-100 rounded-full text-xs font-medium text-indigo-600 text-center">Features</span>
                 <h2 class="text-4xl text-center font-bold text-gray-900 py-5">
-                    Revolutionary Features
+                    Spiritual Growth
                 </h2>
                 <p class="text-lg font-normal text-gray-500 max-w-md md:max-w-2xl mx-auto">
-                    Provides advanced features like time tracking, integrating with
-                    third party apps (calendar / Google drive), creating subtasks.
+                    If the foundations be destroyed, what can the righteous do? Psa. 11:3
                 </p>
             </div>
             <div
@@ -242,10 +241,10 @@ actions:
   </svg>
                     </div>
                     <h4 class="text-lg font-medium text-gray-900 mb-3 capitalize">
-                        Revolutionary Projectview
+                        Announcements
                     </h4>
                     <p class="text-sm font-normal text-gray-500">
-                        plan and structure work how you want. Quickly organizing tasks.
+                        Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place. - 2Chr. 7:15.
                     </p>
                 </div>
                 <div class="relative w-full text-center max-md:max-w-sm max-md:mx-auto group md:w-2/5 lg:w-1/4">
@@ -267,11 +266,10 @@ actions:
   </svg>
                     </div>
                     <h4 class="text-lg font-medium text-gray-900 mb-3 capitalize">
-                        App Integrations
+                        Prophetic Focus for July
                     </h4>
                     <p class="text-sm font-normal text-gray-500">
-                        Bring all your tools and data together. Also join with hundreds of
-                        other apps.
+                        Set your mind on things above, not on things on the earth. - Col. 3:2 2Chr. 7:15
                     </p>
                 </div>
                 <div class="relative w-full text-center max-md:max-w-sm max-md:mx-auto group md:w-2/5 lg:w-1/4">
@@ -284,11 +282,10 @@ actions:
   </svg>
                     </div>
                     <h4 class="text-lg font-medium text-gray-900 mb-3 capitalize">
-                        Data Reporting
+                        Prophetic Focus for July
                     </h4>
                     <p class="text-sm font-normal text-gray-500">
-                        Get real time insight into progress and allows teams to track
-                        their work habits
+                        Set your mind on things above, not on things on the earth. - Col. 3:2 2Chr. 7:15
                     </p>
                 </div>
                 <div class="relative w-full text-center max-md:max-w-sm max-md:mx-auto group md:w-2/5 lg:w-1/4">
@@ -301,73 +298,16 @@ actions:
   </svg>
                     </div>
                     <h4 class="text-lg font-medium text-gray-900 mb-3 capitalize">
-                        Workflow Builder
+                        Winners Satellite Fellowship
                     </h4>
                     <p class="text-sm font-normal text-gray-500">
-                        Automated processes to coordinate your teams and increase
-                        communication.
+                        For where two or three are gathered together in My name, I am there in the midst of them. - Matt. 18:20
                     </p>
                 </div>
             </div>
         </div>
     </section>
                                             
-
-<!-- Icon Blocks -->
-<div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-  <div class="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-2">
-
-
-<!-- Icon Block -->
-  <a class="group flex flex-col justify-center hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 rounded-xl p-4 md:p-7" href="#">
-      <div class="flex justify-center items-center size-12 bg-rose-600 rounded-xl">
-        <svg class="shrink-0 size-6 text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7h-9"/><path d="M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/></svg>
-      </div>
-      <div class="mt-5">
-        <h3 class="group-hover:text-gray-600 text-lg font-semibold text-gray-800">Winners Satellite Fellowship</h3>
-        <p class="mt-1 text-gray-600">For where two or three are gathered together in My name, I am there in the midst of them. - Matt. 18:20</p>
-        <span class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium">
-          Learn more
-          <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
-        </span>
-      </div>
-    </a>
-    <!-- End Icon Block -->
-
-  <!-- Icon Block -->
-  <a class="group flex flex-col justify-center hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 rounded-xl p-4 md:p-7" href="#">
-      <div class="flex justify-center items-center size-12 bg-rose-600 rounded-xl">
-        <svg class="shrink-0 size-6 text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
-      </div>
-      <div class="mt-5">
-        <h3 class="group-hover:text-gray-600 text-lg font-semibold text-gray-800">Prophetic Focus for July</h3>
-        <p class="mt-1 text-gray-600">Set your mind on things above, not on things on the earth. - Col. 3:2 2Chr. 7:15</p>
-        <span class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium">
-          Learn more
-          <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
-        </span>
-      </div>
-    </a>
-    <!-- End Icon Block -->
-
-  <!-- Icon Block -->
-<a class="group flex flex-col justify-center hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 rounded-xl p-4 md:p-7" href="#">
-      <div class="flex justify-center items-center size-12 bg-rose-600 rounded-xl">
-        <svg class="shrink-0 size-6 text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9a2 2 0 0 1-2 2H6l-4 4V4c0-1.1.9-2 2-2h8a2 2 0 0 1 2 2v5Z"/><path d="M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"/></svg>
-      </div>
-      <div class="mt-5">
-        <h3 class="group-hover:text-gray-600 text-lg font-semibold text-gray-800">Announcements</h3>
-        <p class="mt-1 text-gray-600">Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place. - 2Chr. 7:15</p>
-        <span class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium">
-          Learn more
-          <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
-        </span>
-      </div>
-    </a>
-    <!-- End Icon Block -->
-  </div>
-</div>
-<!-- End Icon Blocks -->
 
 
 
@@ -388,13 +328,12 @@ actions:
                     <div class="max-w-full mx-auto rounded-lg overflow-hidden">
                         <div class="px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Our Address</h3>
-                            <p class="mt-1 text-gray-600">123 Main St, San Francisco, CA 94105</p>
+                            <p class="mt-1 text-gray-600">84 O'Connell Street <br> Limerick <br> V94 D597</p>
                         </div>
                         <div class="border-t border-gray-200 px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Hours</h3>
-                            <p class="mt-1 text-gray-600">Monday - Friday: 9am - 5pm</p>
-                            <p class="mt-1 text-gray-600">Saturday: 10am - 4pm</p>
-                            <p class="mt-1 text-gray-600">Sunday: Closed</p>
+                            <p class="mt-1 text-gray-600">Wednesdays: 6.30pm</p>
+                            <p class="mt-1 text-gray-600">Sundays: 11.30am</p>
                         </div>
                         <div class="border-t border-gray-200 px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Contact</h3>
