@@ -30,7 +30,7 @@ actions:
 
   <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
@@ -46,7 +46,7 @@ actions:
 <br>
 <br>
 
-  <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter saturate-150">
+  <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter">
     <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
       <div class="absolute h-60 w-60 rounded-2xl border-4 border-rose-600"></div>
       <div class="absolute h-60 w-60 translate-x-3 translate-y-3 rounded-2xl border-4 border-rose-600"></div>
@@ -126,7 +126,7 @@ actions:
 >
   <div class="container px-4 mx-auto">
     <div class="sm:text-center">
-        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
           What is Unique About this Church ?
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
@@ -146,25 +146,25 @@ actions:
 	<div class="py-4 px-2 mx-auto max-w-screen-xl sm:py-4 lg:px-6">
 		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-4 h-full">
 			<div class="col-span-2 sm:col-span-1 md:col-span-2 bg-gray-50 h-auto md:h-full flex flex-col">
-				<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl saturate-150 px-4 pb-4 pt-40 flex-grow">
+				<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl px-4 pb-4 pt-40 flex-grow">
 					<img src="/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.jpg" alt="" class="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out">
 					<div class="absolute inset-0 bg-gradient-to-b from-gray-900/25 to-gray-900/5"></div>
 					<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl"></h3>
 				</a>
 			</div>
 			<div class="col-span-2 sm:col-span-1 md:col-span-2 bg-stone-50">
-				<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl saturate-150 px-4 pb-4 pt-40 mb-4">
+				<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl px-4 pb-4 pt-40 mb-4">
 					<img src="/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg" alt="" class="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out">
 					<div class="absolute inset-0 bg-gradient-to-b from-gray-900/25 to-gray-900/5"></div>
 					<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl"></h3>
 				</a>
 				<div class="grid gap-4 grid-cols-2 sm:grid-cols-2 lg:grid-cols-2">
-					<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl saturate-150 px-4 pb-4 pt-40">
+					<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl px-4 pb-4 pt-40">
 						<img src="/WhatsApp Image 2025-07-06 at 14.26.51_55bea7ae.jpg" alt="" class="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out">
 						<div class="absolute inset-0 bg-gradient-to-b from-gray-900/25 to-gray-900/5"></div>
 						<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl"></h3>
 					</a>
-					<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl saturate-150 px-4 pb-4 pt-40">
+					<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl px-4 pb-4 pt-40">
 						<img src="/IMG-20240919-WA0006.jpg" alt="" class="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out">
 						<div class="absolute inset-0 bg-gradient-to-b from-gray-900/25 to-gray-900/5"></div>
 						<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl"></h3>
@@ -172,7 +172,7 @@ actions:
 				</div>
 			</div>
 			<div class="col-span-2 sm:col-span-1 md:col-span-1 bg-sky-50 h-auto md:h-full flex flex-col">
-				<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl saturate-150 px-4 pb-4 pt-40 flex-grow">
+				<a href="" class="group relative flex flex-col overflow-hidden rounded-xl shadow-xl px-4 pb-4 pt-40 flex-grow">
 					<img src="/20250705_191624.jpg" alt="" class="absolute inset-0 h-full w-full object-cover group-hover:scale-105 transition-transform duration-500 ease-in-out">
 					<div class="absolute inset-0 bg-gradient-to-b from-gray-900/25 to-gray-900/5"></div>
 					<h3 class="z-10 text-2xl font-medium text-white absolute top-0 left-0 p-4 xs:text-xl md:text-3xl"></h3>
