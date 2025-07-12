@@ -87,30 +87,42 @@ actions:
 
 <br>
 
-<section class="py-10 bg-white sm:py-16 lg:py-24">
-    <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-        <div class="max-w-3xl mx-auto text-center">
-            <h2 class="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">People who made it successful</h2>
-            <p class="max-w-2xl mx-auto mt-4 text-xl text-gray-600">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis.</p>
-        </div>
+::card-group
+  ::card
+  ---
+  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+  ---
+  #title
+  Covenant Day of Marital Breakthroughs
 
-<div class="grid grid-cols-1 gap-6 mt-8 sm:grid-cols-3 md:mt-16 lg:gap-x-12">
-            <div>
-                <img class="w-full" src="/WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg" alt="" />
-            </div>
+  #content
+  Join us Sunday 13 July 2025 - 11.30am
+  ::
 
-<div>
-                <img class="w-full" src="https://cdn.rareblocks.xyz/collection/celebration/images/team/6/team-member-2.jpg" alt="" />
-            </div>
-            <div>
-                <img class="w-full" src="/Picture3.png" alt="" />
-            </div>
-        </div>
-        <div class="mt-8 text-center md:mt-16">
-            <a href="#" title="" class="inline-flex items-center justify-center py-4 font-semibold text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md px-14 hover:bg-blue-700 focus:bg-blue-700" role="button"> Join our team </a>
-        </div>
-    </div>
-</section>
+
+  ::card
+  ---
+  img: /Picture5.png
+  ---
+  #title
+  Mid-Week Communion Service
+
+  #content
+  Join us this Wednesday 16 July 2025 - 6.30am
+  ::
+
+  ::card
+  ---
+  img: /Picture4.png
+  ---
+  #title
+  Covenant Hour of Prayer
+
+  #content
+  Join our Teams link Monday to Saturday - 5.30am
+  ::
+::  
+
 
 
 

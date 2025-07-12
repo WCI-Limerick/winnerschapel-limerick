@@ -26,7 +26,7 @@ export default defineAppConfig({
       border: true,
     },
     header: {
-      title: 'Winners Chapel International Limerick',
+      title: 'WCI Limerick',
       showTitle: true,
       logo: {
         light: '/Winners-Logo.png',
@@ -209,50 +209,6 @@ export default defineAppConfig({
     },
     footer: {
       credits: '2025 © WCI-Limerick',
-      links: [
-        {
-          icon: 'lucide:users',
-          title: 'About us ',
-          to: 'https://esw.com/about-us/',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:package-open',
-          title: 'Products & Services',
-          to: 'https://esw.com/product-and-services/',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:factory',
-          title: 'Industry expertise',
-          to: 'https://esw.com/industry-expertise/',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:arrow-right-from-line',
-          title: 'Talk to an expert',
-          to: 'https://esw.com/talk-to-an-expert/',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:headset',
-          title: 'Customer service',
-          to: 'https://service.esw.com/',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:file-lock',
-          title: 'Trust Centre',
-          to: 'https://trust.esw.com/',
-          target: '_blank',
-        },
-        {
-          icon: 'lucide:globe-lock',
-          title: 'Privacy Policy',
-          to: 'https://esw.com/privacy-policy/',
-          target: '_blank',
-        },
-      ],
     },
     toc: {
       enable: true,
