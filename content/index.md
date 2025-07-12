@@ -135,10 +135,10 @@ actions:
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="text-lg opacity-80 leading-7">
-          <span class="text-indigo-600 font-bold">This Church is a home of signs and wonders.</span> <br>
+          <span class="text-rose-600 font-bold">This Church is a home of signs and wonders.</span> <br>
           Our turn around God has been at work in this commission for over four decades,
           Surprising every members of this church with unimaginable testimonies as they
-          believe. <br> <span class="text-indigo-600 font-bold">If you will endeavour to abide in this church and commit to following every instructions that you receive here in the next three months</span>, the Lord God will bless you openingly as He did to obededom.
+          believe. <br> <span class="text-rose-600 font-bold">If you will endeavour to abide in this church and commit to following every instructions that you receive here in the next three months</span>, the Lord God will bless you openingly as He did to obededom.
         </p>
       </div>
     </div>
@@ -213,18 +213,15 @@ actions:
 
 
 
-
-
-<br>
-
 <section class="py-24">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div class="mb-14 text-center">
                 <span
                     class="py-1 px-4 bg-indigo-100 rounded-full text-xs font-medium text-indigo-600 text-center">Features</span>
-                <h2 class="text-4xl text-center font-bold text-gray-900 py-5">
-                    Spiritual Growth
-                </h2>
+                <span class="text-3xl font-extrabold text-center text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
+          Spiritual Growth
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
                 <p class="text-lg font-normal text-gray-500 max-w-md md:max-w-2xl mx-auto">
                     If the foundations be destroyed, what can the righteous do? Psa. 11:3
                 </p>
