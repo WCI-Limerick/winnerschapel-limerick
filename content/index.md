@@ -11,14 +11,10 @@ announcement:
 actions:
   - name: I am New!
     to: /new
-  - name: Giving Channels
-    variant: ghost
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt.md
-    leftIcon: 'lucide:hand-coins'
   - name: Testimonies
     variant: outline
     target: _blank
-    to: https://ko-fi.com/ztl_uwu.md
+    to: /new.md
     leftIcon: 'lucide:hand-heart'
 ---
 

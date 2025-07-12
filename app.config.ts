@@ -3,7 +3,7 @@ export default defineAppConfig({
     site: {
       name: 'Winners Chapel International Limerick',
       description: 'Winners Chapel International Limerick is a vibrant community dedicated to spiritual growth and fellowship. Join us for services, events, and resources that inspire and uplift.',
-      ogImage: '/Screenshot 2025-07-04 144755.png',
+      ogImage: '/Screenshot 2025-07-12 112109.png',
       ogImageComponent: 'ShadcnDocs',
       ogImageColor: 'light',
       umami: {
@@ -127,21 +127,7 @@ export default defineAppConfig({
         target: '_self',
         icon: 'lucide:mail',
         showLinkIcon: false,
-      },
-      links: [
-        {
-          icon: 'https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000',
-          title: 'Instagram',
-          to: '/login',
-          target: '_blank',
-        },
-        {
-          icon: 'https://img.icons8.com/?size=100&id=118562&format=png&color=000000',
-          title: 'Facebook',
-          to: '/logout',
-          target: '_blank',
-        },
-      ],
+      }
     },
     aside: {
       useLevel: true,
