@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'Knowledge Centre',
-      description: 'ESW Knowledge Centre',
+      name: 'Winners Chapel International Limerick',
+      description: 'Winners Chapel International Limerick is a vibrant community dedicated to spiritual growth and fellowship. Join us for services, events, and resources that inspire and uplift.',
       ogImage: '/Screenshot 2025-07-04 144755.png',
       ogImageComponent: 'ShadcnDocs',
       ogImageColor: 'light',
@@ -20,17 +20,17 @@ export default defineAppConfig({
       radius: 0.5,
     },
     banner: {
-      enable: true,
+      enable: false,
       showClose: true,
       content: 'Welcome to **Winners Chapel International Limerick**',
       border: true,
     },
     header: {
-      title: 'Knowledge Centre',
+      title: 'Winners Chapel International Limerick',
       showTitle: true,
       logo: {
-        light: '/logo.svg',
-        dark: '/ESW-Logo-Light.svg',
+        light: '/Winners-Logo.png',
+        dark: '/Winners-Logo.png',
       },
       darkModeToggle: false,
       languageSwitcher: {
