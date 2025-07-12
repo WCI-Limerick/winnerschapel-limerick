@@ -20,7 +20,7 @@ fullpage: true
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="mt-2 md:mt-4 text-gray-500">
-        Are you new or planning to visit us? Here are some frequently asked questions and answers. <br>
+        Are you new or planning to worship with us? Here are some frequently asked questions and answers. <br>
         You are free to call any of the numbers listed here to speak to someone or to have someone agree with you in prayer: <br>
         +353
       </p>
