@@ -215,11 +215,11 @@ actions:
 
 <section class="py-24">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <div class="mb-14 text-center">
+            <div class="sm:text-center">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">
           Spiritual Growth
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
-                <p class="text-lg font-normal text-rose-500 max-w-md md:max-w-2xl mx-auto">
                     If the foundations be destroyed, what can the righteous do? Psa. 11:3
                 </p>
             </div>
