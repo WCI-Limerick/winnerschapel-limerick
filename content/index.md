@@ -30,7 +30,7 @@ actions:
 
   <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
@@ -46,7 +46,7 @@ actions:
 <br>
 <br>
 
-  <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter">
+  <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20">
     <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
       <div class="absolute h-60 w-60 rounded-2xl border-4 border-rose-600"></div>
       <div class="absolute h-60 w-60 translate-x-3 translate-y-3 rounded-2xl border-4 border-rose-600"></div>
@@ -280,7 +280,7 @@ actions:
 <section class="bg-white">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 saturate-150 bg-clip-text text-transparent">Worship with Us</span>
+            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">Worship with Us</span>
         </div>
 <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <div class="mt-16 lg:mt-20">
@@ -319,19 +319,19 @@ actions:
 <div class="py-14">
   <div class="max-w-screen-xl mx-auto px-4 md:px-8">
     <h3 class="font-semibold text-sm text-gray-600 text-center">
-      TRUSTED BY TEAMS FROM AROUND THE WORLD
+      STAY IN TOUCH
     </h3>
     <div class="mt-6">
       <ul class="flex gap-y-6 flex-wrap items-center justify-center [&>*]:px-12 lg:divide-x">
 
   <!-- Instagram Icon -->
   <li class="flex-none">
-          <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" alt="Instagram Icon" class="w-20 h-auto" />
+          <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" alt="Instagram Icon" class="w-20 h-20" />
         </li>
 
   <!-- Facebook Icon -->
   <li class="flex-none">
-          <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="Facebook Icon" class="w-20 h-auto" />
+          <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="Facebook Icon" class="w-20 h-20" />
         </li>
       </ul>
     </div>
