@@ -319,23 +319,24 @@ actions:
 <div class="py-14">
   <div class="max-w-screen-xl mx-auto px-4 md:px-8">
     <h3 class="font-semibold text-sm text-gray-600 text-center">
-      STAY IN TOUCH
+      TRUSTED BY TEAMS FROM AROUND THE WORLD
     </h3>
     <div class="mt-6">
-      <ul class="flex gap-y-6 flex-wrap items-center justify-center [&>*]:px-12 lg:divide-x">
+      <ul class="list-none flex gap-y-6 flex-wrap items-center justify-center [&>*]:px-12 lg:divide-x">
 
   <!-- Instagram Icon -->
   <li class="flex-none">
-          <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" alt="Instagram Icon" class="w-20 h-20" />
+          <img src="https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000" alt="Instagram Icon" class="w-20 h-auto" />
         </li>
 
   <!-- Facebook Icon -->
   <li class="flex-none">
-          <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="Facebook Icon" class="w-20 h-20" />
+          <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="Facebook Icon" class="w-20 h-auto" />
         </li>
       </ul>
     </div>
   </div>
 </div>
+
 
 
