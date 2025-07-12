@@ -1,5 +1,4 @@
 ---
-title: Home
 navigation: false
 ---
 
@@ -38,7 +37,7 @@ actions:
     <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
-    <h2 class="text-xl font-medium mb-2">Praise Night</h2>
+    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
     <p class="mb-0">July 2025</p>
   </div>
       </div>
@@ -136,10 +135,10 @@ actions:
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="text-lg opacity-80 leading-7">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-          ut ratione voluptatem blanditiis, voluptas illum tempore magni
-          quam veniam provident porro voluptate nulla corporis consequuntur
-          ab possimus. Modi quia nam repellendus.
+          **This Church is a home of signs and wonders**. <br>
+          Our turn around God has been at work in this commission for over four decades,
+          Surprising every members of this church with unimaginable testimonies as they
+          believe. <br> **If you will endeavour to abide in this church and commit to following every instructions that you receive here in the next three month**, the Lord God will bless you openingly as He did to obededom.
         </p>
       </div>
     </div>
@@ -160,9 +159,9 @@ actions:
             >
               <i class="fas fa-cannabis"></i>
             </div>
-            <h4 class="text-2xl font-medium mb-4">Product Design</h4>
+            <h4 class="text-2xl font-medium mb-4">Text here</h4>
             <p class="opacity-80">
-              You first land evening beast won't had bring first void meat.
+              placeholder here
             </p>
           </div>
         </div>
@@ -173,9 +172,9 @@ actions:
             >
               <i class="fas fa-random"></i>
             </div>
-            <h4 class="text-2xl font-medium mb-4">Branding</h4>
+            <h4 class="text-2xl font-medium mb-4">Placeholder text here</h4>
             <p class="opacity-80">
-              Whose living for moving female seas heaven unto winged.
+              Placeholder here.
             </p>
           </div>
         </div>
@@ -188,9 +187,9 @@ actions:
             >
               <i class="fas fa-camera"></i>
             </div>
-            <h4 class="text-2xl font-medium mb-4">Digital Marketing</h4>
+            <h4 class="text-2xl font-medium mb-4">Placeholder</h4>
             <p class="opacity-80">
-              Moving seasons, tree you're creeping third behold may be.
+              Placeholder text here.
             </p>
           </div>
         </div>
@@ -201,9 +200,9 @@ actions:
             >
               <i class="fas fa-yin-yang"></i>
             </div>
-            <h4 class="text-2xl font-medium mb-4">SEO Analytics</h4>
+            <h4 class="text-2xl font-medium mb-4">Placeholder text</h4>
             <p class="opacity-80">
-              Third abundantly us after cattle won't is land heaven us.
+              placeholder text
             </p>
           </div>
         </div>
@@ -218,38 +217,63 @@ actions:
 
 <br>
 
-::card-group{:cols="3"}
-  ::card
-  ---
-  title: Announcements
-  icon: lucide:megaphone
-  to: https://nuxt.com/docs/api/components/client-only.md
-  target: _blank
-  ---
-  Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place. - 2Chr. 7:15
-  ::
 
-  ::card
-  ---
-  title: Prophetic Focus for July
-  icon: lucide:book-open-text
-  to: https://nuxt.com/docs/api/composables/use-app-config.md
-  target: _blank
-  ---
-  Set your mind on things above, not on things on the earth. - Col. 3:2
-  ::
 
-  ::card
-  ---
-  title: Winners Satellite Fellowship
-  icon: lucide:house
-  to: https://nuxt.com/docs/api/utils/dollarfetch.md
-  target: _blank
-  ---
-  For where two or three are gathered together in My name, I am there in the midst of them. - Matt. 18:20
-  ::
-::
+<!-- Icon Blocks -->
+<div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+  <div class="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-2">
 
+
+<!-- Icon Block -->
+  <a class="group flex flex-col justify-center hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 rounded-xl p-4 md:p-7" href="#">
+      <div class="flex justify-center items-center size-12 bg-rose-600 rounded-xl">
+        <svg class="shrink-0 size-6 text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7h-9"/><path d="M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/></svg>
+      </div>
+      <div class="mt-5">
+        <h3 class="group-hover:text-gray-600 text-lg font-semibold text-gray-800">Winners Satellite Fellowship</h3>
+        <p class="mt-1 text-gray-600">For where two or three are gathered together in My name, I am there in the midst of them. - Matt. 18:20</p>
+        <span class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium">
+          Learn more
+          <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        </span>
+      </div>
+    </a>
+    <!-- End Icon Block -->
+
+  <!-- Icon Block -->
+  <a class="group flex flex-col justify-center hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 rounded-xl p-4 md:p-7" href="#">
+      <div class="flex justify-center items-center size-12 bg-rose-600 rounded-xl">
+        <svg class="shrink-0 size-6 text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      </div>
+      <div class="mt-5">
+        <h3 class="group-hover:text-gray-600 text-lg font-semibold text-gray-800">Prophetic Focus for July</h3>
+        <p class="mt-1 text-gray-600">Set your mind on things above, not on things on the earth. - Col. 3:2 2Chr. 7:15</p>
+        <span class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium">
+          Learn more
+          <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        </span>
+      </div>
+    </a>
+    <!-- End Icon Block -->
+
+  <!-- Icon Block -->
+<a class="group flex flex-col justify-center hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 rounded-xl p-4 md:p-7" href="#">
+      <div class="flex justify-center items-center size-12 bg-rose-600 rounded-xl">
+        <svg class="shrink-0 size-6 text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9a2 2 0 0 1-2 2H6l-4 4V4c0-1.1.9-2 2-2h8a2 2 0 0 1 2 2v5Z"/><path d="M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"/></svg>
+      </div>
+      <div class="mt-5">
+        <h3 class="group-hover:text-gray-600 text-lg font-semibold text-gray-800">Announcements</h3>
+        <p class="mt-1 text-gray-600">Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place. - 2Chr. 7:15</p>
+        <span class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium">
+          Learn more
+          <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        </span>
+      </div>
+    </a>
+    <!-- End Icon Block -->
+  </div>
+</div>
+<!-- End Icon Blocks -->
 
 
 
