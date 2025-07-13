@@ -28,22 +28,29 @@ navigation: false
                 <a href="#"
                     class="rounded-md bg-lime-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-lime-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-600">I am New!
                 </a>
-                <a href="/content/new" class="text-sm font-semibold leading-6 text-gray-900">
+                <NuxtLink to="/new" class="text-sm font-semibold leading-6 text-gray-900">
                     Learn more
                     <span>→</span>
-                </a>
+                </NuxtLink>
             </div>
         </div>
-        <div class="mt-10 flow-root sm:mt-20">
-            <div
-                class="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
-                <!-- Photo by '@tvick' on Unsplash -->
-                <img src="/20250705_193525.jpg" width="1080" height="1080" class="rounded-md shadow-2xl ring-1 ring-gray-900/10">
-            </div>
         </div>
     </div>
 </div>
 
+<div class="group relative text-center">
+  <img
+    src="public\20250705_193525.jpg"
+    alt="Portfolio Image"
+    class="max-w-full w-full h-auto rounded-xl"
+  />
+  <div
+    class="absolute left-4 right-4 bottom-4 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-sm backdrop-saturate-200 transition-transform duration-300 group-hover:translate-y-0 translate-y-16 p-6"
+  >
+    <h5 class="text-xl font-medium mb-2">Photography</h5>
+    <p class="mb-0">Cinematography</p>
+  </div>
+</div>
 
 
 <br>
