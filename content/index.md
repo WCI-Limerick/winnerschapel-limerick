@@ -30,7 +30,7 @@ actions:
   <img
     src="/20250705_193525.jpg"
     alt="Portfolio Image"
-    class="max-w-md mx-auto w-full h-auto rounded-xl"
+    class="max-w-lg mx-auto w-full h-auto rounded-xl"
   />
   <div
     class="absolute left-4 right-4 bottom-4 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-sm backdrop-saturate-200 transition-transform duration-300 group-hover:translate-y-0 translate-y-16 p-6"
