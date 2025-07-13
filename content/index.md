@@ -26,21 +26,24 @@ actions:
 <span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
-<div class="group relative text-center">
-  <img
-    src="/20250705_193525.jpg"
-    alt="Portfolio Image"
-    class="max-w-full max-h-80 mx-auto w-full h-auto rounded-xl"
-  />
-  <div
-    class="absolute left-4 right-4 bottom-4 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-sm backdrop-saturate-200 transition-transform duration-300 group-hover:translate-y-0 translate-y-16 p-6"
-  >
-    <h5 class="text-xl font-medium mb-2">Praise Night</h5>
+ <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_70%,transparent_100%)]"></div></div>
+
+
+  <!-- Hero -->
+  <div class="px-4 sm:px-6 lg:px-8">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
+      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
+        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
+    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
     <p class="mb-0">July 2025</p>
   </div>
-</div>
+      </div>
+    </div>
+  </div>
+  <!-- End Hero -->
 
-
+<br>
+<br>
 <br>
 <br>
 
