@@ -5,6 +5,48 @@ navigation: false
 fullpage: true
 ---
 
+<div class="py-12 sm:py-24">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mb-8 flex justify-center">
+            <p
+                class="relative rounded-full px-4 py-1.5 text-sm leading-6 text-gray-600 ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
+                <span class="hidden md:inline">Cachet is back.</span>
+                <a href="#" target="_blank" class="font-semibold text-lime-600">
+                    <span class="absolute inset-0" ></span> Read
+                    the update <span>→</span>
+                </a>
+            </p>
+        </div>
+        <div class="mx-auto max-w-2xl text-center">
+            <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+                SecureCloud Backup Solution
+            </h1>
+            <p class="mt-6 text-lg leading-8 text-gray-600">
+                Introducing our cutting-edge SecureCloud Backup Solution, the ultimate safeguard for your critical data.
+                In today's rapidly evolving IT landscape, data security and disaster recovery have never been more
+                crucial.
+            </p>
+            <div class="mt-10 flex items-center justify-center gap-x-6">
+                <a href="#"
+                    class="rounded-md bg-lime-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-lime-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-600">Check
+                    out the demo
+                </a>
+                <a href="#" class="text-sm font-semibold leading-6 text-gray-900">
+                    Learn more
+                    <span>→</span>
+                </a>
+            </div>
+        </div>
+        <div class="mt-10 flow-root sm:mt-20">
+            <div
+                class="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
+                <!-- Photo by '@tvick' on Unsplash -->
+                <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxiYWNrdXB8ZW58MHwwfHx8MTY5MjAwMjg2M3ww&ixlib=rb-4.0.3&q=80&w=1080" width="2432" height="1442" class="rounded-md shadow-2xl ring-1 ring-gray-900/10">
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Features -->
 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
   <div class="aspect-w-16 aspect-h-7">

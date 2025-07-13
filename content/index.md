@@ -2,13 +2,6 @@
 navigation: false
 ---
 
-<!-- Animated Background -->
-  <div class="fixed inset-0 overflow-hidden -z-10 grid-pattern">
-        <div class="absolute inset-0 bg-gradient-to-br from-void-dark via-void-DEFAULT to-void-light opacity-90"></div>
-        <div class="absolute top-1/4 -left-40 w-96 h-96 bg-cosmic-DEFAULT rounded-full opacity-10 blur-3xl"></div>
-        <div class="absolute bottom-1/4 -right-40 w-96 h-96 bg-nebula rounded-full opacity-10 blur-3xl"></div>
-    </div>
-
 
 ::hero
 ---
