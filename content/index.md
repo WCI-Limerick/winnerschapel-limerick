@@ -2,6 +2,26 @@
 navigation: false
 ---
 
+<!-- Hero Section with Sliding Background -->
+  <section class="hero-container">
+        <!-- Background Slides -->
+        <div class="hero-slide active" style="background-image: url('https://images.unsplash.com/photo-1445116572660-236099ec97a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80');"></div>
+        <div class="hero-slide" style="background-image: url('https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');"></div>
+        <div class="hero-slide" style="background-image: url('https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80');"></div>
+        <div class="hero-slide" style="background-image: url('https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');"></div>
+        <div class="hero-slide" style="background-image: url('https://images.unsplash.com/photo-1558160074-4d7d8bdf4256?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');"></div>
+        
+  <!-- Hero Content -->
+  <div class="hero-content flex items-center justify-center h-full text-center text-white py-32 px-6">
+            <div class="container mx-auto">
+                <h1 class="font-cursive text-5xl md:text-7xl mb-6">Coffee & Tea</h1>
+                <p class="text-xl md:text-2xl mb-8">Artisanal Coffee & Premium Tea Blends</p>
+                <a href="#menu" class="bg-amber-700 hover:bg-amber-600 text-white px-8 py-3 rounded-lg text-lg font-semibold">View Our Menu</a>
+            </div>
+        </div>
+    </section>
+
+
 ::hero
 ---
 announcement:
