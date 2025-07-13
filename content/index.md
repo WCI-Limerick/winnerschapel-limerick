@@ -38,19 +38,20 @@ navigation: false
     </div>
 </div>
 
-<div class="group relative text-center">
+<div class="group cursor-pointer rounded-xl overflow-hidden relative mt-6">
   <img
     src="/20250705_193525.jpg"
-    alt="Portfolio Image"
-    class="max-w-full w-full h-auto rounded-xl"
+    alt="Branding"
+    class="w-full h-auto rounded-xl"
   />
   <div
-    class="absolute left-4 right-4 bottom-4 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-40 backdrop-blur-sm backdrop-saturate-200 transition-transform duration-300 group-hover:translate-y-0 translate-y-16 p-6"
+    class="absolute left-4 right-4 top-1/2 -translate-y-1/2 z-10 rounded-xl bg-white bg-opacity-70 dark:bg-black dark:bg-opacity-70 backdrop-blur-sm backdrop-saturate-200 opacity-0 transition duration-300 group-hover:opacity-100 text-center p-6 lg:py-12"
   >
-    <h5 class="text-xl font-medium mb-2">Photography</h5>
-    <p class="mb-0">Cinematography</p>
+    <h5 class="font-medium text-xl">Branding</h5>
+    <p class="mb-0">Product Design</p>
   </div>
 </div>
+
 
 
 <br>
