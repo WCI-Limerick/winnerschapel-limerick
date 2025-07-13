@@ -8,10 +8,10 @@ navigation: false
         <div class="mb-8 flex justify-center">
             <p
                 class="relative rounded-full px-4 py-1.5 text-sm leading-6 text-gray-600 ring-1 ring-inset ring-gray-900/10 hover:ring-gray-900/20">
-                <span class="hidden md:inline">Cachet is back.</span>
+                <span class="hidden md:inline">Announcements.</span>
                 <a href="#" target="_blank" class="font-semibold text-lime-600">
                     <span class="absolute inset-0" ></span> Read
-                    the update <span>→</span>
+                    the updates <span>→</span>
                 </a>
             </p>
         </div>
@@ -26,10 +26,9 @@ navigation: false
             </p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
                 <a href="#"
-                    class="rounded-md bg-lime-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-lime-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-600">Check
-                    out the demo
+                    class="rounded-md bg-lime-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-lime-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-600">I am New!
                 </a>
-                <a href="#" class="text-sm font-semibold leading-6 text-gray-900">
+                <a href="/new" class="text-sm font-semibold leading-6 text-gray-900">
                     Learn more
                     <span>→</span>
                 </a>
@@ -39,25 +38,13 @@ navigation: false
             <div
                 class="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
                 <!-- Photo by '@tvick' on Unsplash -->
-                <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxiYWNrdXB8ZW58MHwwfHx8MTY5MjAwMjg2M3ww&ixlib=rb-4.0.3&q=80&w=1080" width="2432" height="1442" class="rounded-md shadow-2xl ring-1 ring-gray-900/10">
+                <img src="/20250705_193525.jpg" width="2432" height="1442" class="rounded-md shadow-2xl ring-1 ring-gray-900/10">
             </div>
         </div>
     </div>
 </div>
 
 
-  <!-- Hero -->
-  <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
-      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
-    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
-    <p class="mb-0">July 2025</p>
-  </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Hero -->
 
 <br>
 <br>
