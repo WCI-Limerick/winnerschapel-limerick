@@ -28,7 +28,7 @@ navigation: false
                 <a href="#"
                     class="rounded-md bg-lime-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-lime-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-600">I am New!
                 </a>
-                <a href="/new" class="text-sm font-semibold leading-6 text-gray-900">
+                <a href="/content/new" class="text-sm font-semibold leading-6 text-gray-900">
                     Learn more
                     <span>→</span>
                 </a>
