@@ -21,7 +21,7 @@ actions:
 
 #title
 <span class="font-black text-5xl lg:text-7xl">Winners Chapel International Limerick</span>
-<span class="bg-[image:linear-gradient(to_right,_#e2e8f0_1px,_transparent_1px),_linear-gradient(to_bottom,_#e2e8f0_1px,_transparent_1px)] bg-[length:70px_70px] [mask-image:radial-gradient(circle,#000_10%,transparent_70%)]"></span>
+
 
 #description
 <span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
