@@ -26,7 +26,7 @@ actions:
 <span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
- <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_70%,transparent_100%)]"></div></div>
+ <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full bg-[image:linear-gradient(to_right,_#e2e8f0_1px,_transparent_1px),_linear-gradient(to_bottom,_#e2e8f0_1px,_transparent_1px)] bg-[length:70px_70px] [mask-image:radial-gradient(circle,#000_10%,transparent_70%)]"></div></div>
 
 
   <!-- Hero -->
