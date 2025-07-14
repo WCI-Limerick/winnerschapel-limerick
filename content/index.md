@@ -281,91 +281,78 @@ actions:
 
 ---
                                             
-<section class="relative z-10 py-16 md:py-24 px-6 md:px-12 lg:px-24">
-  <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-    <!-- Left Column: Text Content -->
-    <div class="space-y-8">
-      <div class="inline-flex items-center px-4 py-2 rounded-full bg-primary-light/20 border border-primary-light/30 text-primary-dark font-medium">
-        <span class="relative flex h-3 w-3 mr-2">
-          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary-dark opacity-75"></span>
-          <span class="relative inline-flex rounded-full h-3 w-3 bg-primary-dark"></span>
-        </span>
-        <span>Winners Kidz</span>
+<section
+  class="ezy__howitworks9 light py-14 md:py-24 bg-white"
+>
+  <div class="container px-4">
+    <div class="grid grid-cols-12">
+      <div class="col-span-12">
+        <div class="text-center">
+          <h2
+            class="text-3xl leading-snug text-rose font-bold capitalize md:text-5xl mb-2"
+          >
+            Children's Church
+          </h2>
+          <p class="text-[17px] leading-normal opacity-80">
+            'Behold, children are a heritage from the Lord, The fruit of the womb is a reward. <br> Psa. 127:3
+          </p>
+        </div>
       </div>
-      
-
-  <h1 class="text-4xl md:text-5xl lg:text-6xl font-display font-bold tracking-tight text-gray-900">
-        Teens and<span class="bg-clip-text text-transparent bg-gradient-to-r from-primary-dark to-secondary-dark">Children's</span> Church
-      </h1>
-
-<p class="text-lg md:text-xl text-gray-600 max-w-2xl">
-        Our text here Our text here Our text hereOur text here Our text here Our text here Our text here Our text here
-      </p>
-
-  <div class="flex flex-col sm:flex-row gap-4 pt-4">
-        <button class="px-8 py-4 rounded-xl bg-primary-dark text-white font-medium hover:bg-primary-darker transition-colors shadow-lg shadow-primary-light/50 hover:shadow-primary-light/70 flex items-center justify-center">
-          Get started
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-</svg>
-        </button>
-        <button class="px-8 py-4 rounded-xl border-2 border-gray-200 bg-white text-gray-700 font-medium hover:bg-gray-50 transition-colors flex items-center justify-center">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-gray-500" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
-</svg>
-          Watch video
-        </button>
+      <!-- card start's -->
+      <div class="col-span-12 md:col-span-4 mt-8 md:mt-16">
+        <div class="flex flex-col text-center h-full p-6 md:p-12">
+          <div class="grow">
+            <img
+              src="https://cdn.easyfrontend.com/pictures/icons/one.png"
+              alt=""
+              class="w-24 h-24 mx-auto"
+            />
+            <h4 class="my-4 font-bold text-2xl">Presenting the gospel</h4>
+            <p class="opacity-75 mb-2">
+              Presenting the gospel to the children at their level of understanding.
+            </p>
+          </div>
+        </div>
       </div>
-    </div>
-
-<!-- Right Column: Image -->
-  <div class="hidden lg:block">
-      <img
-        src="/your-image-path.jpg"
-        alt="AI Illustration"
-        class="w-full h-auto rounded-xl shadow-xl"
-      />
+      <!-- card end's -->
+      <!-- card start's -->
+      <div class="col-span-12 md:col-span-4 mt-8 md:mt-16">
+        <div class="flex flex-col text-center h-full p-6 md:p-12">
+          <div class="grow">
+            <img
+              src="https://cdn.easyfrontend.com/pictures/icons/two.png"
+              alt=""
+              class="w-24 h-24 mx-auto"
+            />
+            <h4 class="my-4 font-bold text-2xl">Teaching and sharing of the word</h4>
+            <p class="opacity-75 mb-2">
+              Teaching and sharing of the word in accordance with the theme of the month.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- card end's -->
+      <!-- card start's -->
+      <div class="col-span-12 md:col-span-4 mt-8 md:mt-16">
+        <div class="flex flex-col text-center h-full p-6 md:p-12">
+          <div class="grow">
+            <img
+              src="https://cdn.easyfrontend.com/pictures/icons/three.png"
+              alt=""
+              class="w-24 h-24 mx-auto"
+            />
+            <h4 class="my-4 font-bold text-2xl">Bible activities</h4>
+            <p class="opacity-75 mb-2">
+              Bible quiz and much more.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- card end's -->
     </div>
   </div>
 </section>
 
-
-
-<section class="bg-white">
-    <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
-        <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
-            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">Worship with Us</span>
-        </div>
-<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
-        <div class="mt-16 lg:mt-20">
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div class="rounded-xl shadow-xl overflow-hidden">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19359.921860543483!2d-8.63089!3d52.660154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b5c63917759ed%3A0x701125369c33f748!2s84%20O&#39;Connell%20St%2C%20Prior&#39;s-Land%2C%20Limerick%2C%20V94%20D597%2C%20Ireland!5e0!3m2!1sen!2sus!4v1752178444253!5m2!1sen!2sus"
-                        width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                </div>
-                <div>
-                    <div class="max-w-full mx-auto rounded-lg overflow-hidden">
-                        <div class="px-6 py-4">
-                            <h3 class="text-lg font-medium text-gray-900">Our Address</h3>
-                            <p class="mt-1 text-gray-600">84 O'Connell Street <br> Limerick <br> V94 D597</p>
-                        </div>
-                        <div class="border-t border-gray-200 px-6 py-4">
-                            <h3 class="text-lg font-medium text-gray-900">Hours</h3>
-                            <p class="mt-1 text-gray-600">Wednesdays: 6.30pm</p>
-                            <p class="mt-1 text-gray-600">Sundays: 11.30am</p>
-                        </div>
-                        <div class="border-t border-gray-200 px-6 py-4">
-                            <h3 class="text-lg font-medium text-gray-900">Contact</h3>
-                            <p class="mt-1 text-gray-600">Email: info@example.com</p>
-                            <p class="mt-1 text-gray-600">Phone: +1 23494 34993</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 
 <br>
