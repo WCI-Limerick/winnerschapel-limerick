@@ -278,7 +278,56 @@ actions:
             </div>
         </div>
     </section>
+
+---
                                             
+<section class="relative z-10 py-16 md:py-24 px-6 md:px-12 lg:px-24">
+  <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+    <!-- Left Column: Text Content -->
+    <div class="space-y-8">
+      <div class="inline-flex items-center px-4 py-2 rounded-full bg-primary-light/20 border border-primary-light/30 text-primary-dark font-medium">
+        <span class="relative flex h-3 w-3 mr-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary-dark opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-3 w-3 bg-primary-dark"></span>
+        </span>
+        <span>Winners Kidz</span>
+      </div>
+      
+
+  <h1 class="text-4xl md:text-5xl lg:text-6xl font-display font-bold tracking-tight text-gray-900">
+        Teens and<span class="bg-clip-text text-transparent bg-gradient-to-r from-primary-dark to-secondary-dark">Children's</span> Church
+      </h1>
+
+<p class="text-lg md:text-xl text-gray-600 max-w-2xl">
+        Our text here Our text here Our text hereOur text here Our text here Our text here Our text here Our text here
+      </p>
+
+  <div class="flex flex-col sm:flex-row gap-4 pt-4">
+        <button class="px-8 py-4 rounded-xl bg-primary-dark text-white font-medium hover:bg-primary-darker transition-colors shadow-lg shadow-primary-light/50 hover:shadow-primary-light/70 flex items-center justify-center">
+          Get started
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+</svg>
+        </button>
+        <button class="px-8 py-4 rounded-xl border-2 border-gray-200 bg-white text-gray-700 font-medium hover:bg-gray-50 transition-colors flex items-center justify-center">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 text-gray-500" viewBox="0 0 20 20" fill="currentColor">
+            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+</svg>
+          Watch video
+        </button>
+      </div>
+    </div>
+
+<!-- Right Column: Image -->
+  <div class="hidden lg:block">
+      <img
+        src="/your-image-path.jpg"
+        alt="AI Illustration"
+        class="w-full h-auto rounded-xl shadow-xl"
+      />
+    </div>
+  </div>
+</section>
 
 
 
