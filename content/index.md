@@ -285,23 +285,8 @@ actions:
   class="ezy__howitworks9 light py-14 md:py-24 bg-white"
 >
 
-<!-- shape one -->
-  <div class="absolute top-12 left-7">
-    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract1.png" alt="" class="max-w-full h-auto" />
-  </div>
-  <!-- shape two -->
-  <div class="absolute top-12 right-[5%]">
-    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract2.png" alt="" class="max-w-full h-auto" />
-  </div>
-  <!-- shape three -->
-  <div class="absolute bottom-2.5 left-1/4">
-    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract3.png" alt="" class="max-w-full h-auto" />
-  </div>
-  <!-- shape four -->
-  <div class="absolute bottom-5 right-[5%]">
-    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract4.png" alt="" class="max-w-full h-auto" />
-  </div>
-  
+
+
   <div class="container px-4">
     <div class="grid grid-cols-12">
       <div class="col-span-12">
@@ -370,7 +355,22 @@ actions:
   </div>
 </section>
 
-
+<!-- shape one -->
+  <div class="absolute top-12 left-7">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract1.png" alt="" class="max-w-full h-auto" />
+  </div>
+  <!-- shape two -->
+  <div class="absolute top-12 right-[5%]">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract2.png" alt="" class="max-w-full h-auto" />
+  </div>
+  <!-- shape three -->
+  <div class="absolute bottom-2.5 left-1/4">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract3.png" alt="" class="max-w-full h-auto" />
+  </div>
+  <!-- shape four -->
+  <div class="absolute bottom-5 right-[5%]">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract4.png" alt="" class="max-w-full h-auto" />
+  </div>
 
 <section class="bg-white">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
