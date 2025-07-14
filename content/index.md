@@ -284,12 +284,30 @@ actions:
 <section
   class="ezy__howitworks9 light py-14 md:py-24 bg-white"
 >
+
+<!-- shape one -->
+  <div class="absolute top-12 left-7">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract1.png" alt="" class="max-w-full h-auto" />
+  </div>
+  <!-- shape two -->
+  <div class="absolute top-12 right-[5%]">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract2.png" alt="" class="max-w-full h-auto" />
+  </div>
+  <!-- shape three -->
+  <div class="absolute bottom-2.5 left-1/4">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract3.png" alt="" class="max-w-full h-auto" />
+  </div>
+  <!-- shape four -->
+  <div class="absolute bottom-5 right-[5%]">
+    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract4.png" alt="" class="max-w-full h-auto" />
+  </div>
+  
   <div class="container px-4">
     <div class="grid grid-cols-12">
       <div class="col-span-12">
         <div class="text-center">
           <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
-          Children's Church ?
+          Children's Church
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
           <p class="text-[17px] leading-normal opacity-80">
