@@ -288,11 +288,10 @@ actions:
     <div class="grid grid-cols-12">
       <div class="col-span-12">
         <div class="text-center">
-          <h2
-            class="text-3xl leading-snug text-rose font-bold capitalize md:text-5xl mb-2"
-          >
-            Children's Church
-          </h2>
+          <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
+          Children's Church ?
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
           <p class="text-[17px] leading-normal opacity-80">
             'Behold, children are a heritage from the Lord, The fruit of the womb is a reward. <br> Psa. 127:3
           </p>
@@ -353,6 +352,43 @@ actions:
   </div>
 </section>
 
+
+
+<section class="bg-white">
+    <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
+        <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
+            <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">Worship with Us</span>
+        </div>
+<hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+        <div class="mt-16 lg:mt-20">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="rounded-xl shadow-xl overflow-hidden">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19359.921860543483!2d-8.63089!3d52.660154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b5c63917759ed%3A0x701125369c33f748!2s84%20O&#39;Connell%20St%2C%20Prior&#39;s-Land%2C%20Limerick%2C%20V94%20D597%2C%20Ireland!5e0!3m2!1sen!2sus!4v1752178444253!5m2!1sen!2sus"
+                        width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                <div>
+                    <div class="max-w-full mx-auto rounded-lg overflow-hidden">
+                        <div class="px-6 py-4">
+                            <h3 class="text-lg font-medium text-gray-900">Our Address</h3>
+                            <p class="mt-1 text-gray-600">84 O'Connell Street <br> Limerick <br> V94 D597</p>
+                        </div>
+                        <div class="border-t border-gray-200 px-6 py-4">
+                            <h3 class="text-lg font-medium text-gray-900">Hours</h3>
+                            <p class="mt-1 text-gray-600">Wednesdays: 6.30pm</p>
+                            <p class="mt-1 text-gray-600">Sundays: 11.30am</p>
+                        </div>
+                        <div class="border-t border-gray-200 px-6 py-4">
+                            <h3 class="text-lg font-medium text-gray-900">Contact</h3>
+                            <p class="mt-1 text-gray-600">Email: info@example.com</p>
+                            <p class="mt-1 text-gray-600">Phone: +1 23494 34993</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <br>
