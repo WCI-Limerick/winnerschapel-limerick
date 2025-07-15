@@ -5,7 +5,11 @@ navigation: false
 fullpage: true
 ---
 
+<div align="center">
+
 ::tabs{variant="card"}
+
+
   ::div{label="Bishop David Oyedepo"}
 
   test
@@ -25,3 +29,5 @@ fullpage: true
   ::
 
 ::
+
+</div>
