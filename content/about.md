@@ -10,18 +10,18 @@ fullpage: true
 
   test
 
-   ::
-  
+  ::
+
   ::div{label="12 Pillars" icon="lucide:atom"}
 
   Test
 
   ::
-  
+
   ::div{label="Mandate"}
 
   test
 
-   ::
+  ::
 
 ::
