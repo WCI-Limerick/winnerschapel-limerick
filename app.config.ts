@@ -40,7 +40,7 @@ export default defineAppConfig({
       },
       nav: [{
         title: 'About',
-        to: '/',
+        to: '/about',
         target: '_self',
         showLinkIcon: false,
         description: 'Learn more about us',
