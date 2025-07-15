@@ -5,9 +5,9 @@ navigation: false
 fullpage: true
 ---
 
-<div align="center">
 
-::tabs{variant="card"}
+
+::tabs{variant="card class="border flex min-h-[200px] w-full justify-center p-10 items-center rounded-lg shadow-xs"}
 
 
   ::div{label="Bishop David Oyedepo"}
@@ -29,5 +29,3 @@ fullpage: true
   ::
 
 ::
-
-</div>
