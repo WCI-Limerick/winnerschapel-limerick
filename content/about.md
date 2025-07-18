@@ -7,6 +7,8 @@ fullpage: true
 
 
 
+<div align="center">
+
 ::tabs{variant="line"}
 
 ::div{label="Bishop David Oyedepo" icon="emojione:church"}
@@ -22,6 +24,8 @@ test
 ::
 
 ::
+
+</div>
 
 
 
