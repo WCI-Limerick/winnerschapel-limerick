@@ -43,7 +43,6 @@ fullpage: true
 
 
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
 <div style="max-width: 600px; margin: 0 auto;">
 
@@ -57,7 +56,7 @@ test
 Test
 ::
 
-::div{label="Mandate" icon="noto:scroll"}
+::div{label="Mission Statement" icon="noto:scroll"}
 test
 ::
 
