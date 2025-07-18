@@ -6,10 +6,11 @@ fullpage: true
 ---
 
 
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
-<div align="center">
+<div style="max-width: 600px; margin: 0 auto;">
 
-::tabs{variant="line"}
+::tabs{variant="line" style="justify-content: center;"}
 
 ::div{label="Bishop David Oyedepo" icon="emojione:church"}
 test
@@ -24,6 +25,8 @@ test
 ::
 
 ::
+
+</div>
 
 </div>
 
