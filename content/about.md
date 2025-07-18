@@ -7,25 +7,23 @@ fullpage: true
 
 
 
-::tabs{variant="card class="border flex min-h-[200px] w-full justify-center p-10 items-center rounded-lg shadow-xs"}
+::tabs{variant="line"}
 
+::div{label="Bishop David Oyedepo" icon="emojione:church"}
+test
+::
 
-  ::div{label="Bishop David Oyedepo"}
+::div{label="12 Pillars" icon="icon-park:blocks-and-arrows"}
+Test
+::
 
-  test
-
-  ::
-
-  ::div{label="12 Pillars" icon="lucide:atom"}
-
-  Test
-
-  ::
-
-  ::div{label="Mandate"}
-
-  test
-
-  ::
+::div{label="Mandate" icon="noto:scroll"}
+test
+::
 
 ::
+
+
+
+
+
