@@ -46,7 +46,7 @@ fullpage: true
 
 <div style="max-width: 600px; margin: 0 auto;">
 
-::tabs{variant="line" style="justify-content: center;" labelStyle="font-size: 1.25em; font-weight: bold;"}
+::tabs{variant="line" font-weight: extrabold;"}
 
 ::div{label="Bishop David Oyedepo" icon="emojione:church"}
 test
