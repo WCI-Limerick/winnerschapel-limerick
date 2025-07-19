@@ -91,21 +91,18 @@ fullpage: true
 
   - Construction of **100,000-seat stadium sanctuary** began: **March 25, 2021** – *ongoing with speed and divine backing*
 
+  ::alert{type="secondary" icon="emojione:light-bulb"}
+    Every step above represents a divine milestone in the life and ministry of God's servant, marked by obedience, faith, and supernatural speed.
+  ::
+
+  ::tab{label="12 Pillars" icon="icon-park:blocks-and-arrows"}
+  Test
+  ::
+
+  ::tab{label="Mission Statement" icon="noto:scroll"}
+  test
+  ::
 ::
-
-::alert{type="secondary" icon="emojione:light-bulb"}
-Every step above represents a divine milestone in the life and ministry of God's servant, marked by obedience, faith, and supernatural speed.
-::end-alert
-
-::tab{label="12 Pillars" icon="icon-park:blocks-and-arrows"}
-Test
-::
-
-::tab{label="Mission Statement" icon="noto:scroll"}
-test
-::
-
-::end-tabs::
 
 
 
