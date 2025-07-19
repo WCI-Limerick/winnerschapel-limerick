@@ -123,16 +123,16 @@ export default defineAppConfig({
       }],
     links: {
       home: {
-        title: 'Home',
+        title: 'Instagram',
         to: '/',
-        target: '_self',
-        icon: 'lucide:home',
+        target: '_blank',
+        icon: 'skill-icons:instagram',
       },
         contact: {
           title: 'Contact Us',
           to: '/',
-          target: '_self',
-          icon: 'lucide:mail',
+          target: '_blank',
+          icon: 'devicon:facebook',
           showLinkIcon: false,
         }
       }
