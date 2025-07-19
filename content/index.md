@@ -354,18 +354,37 @@ actions:
   </div>
 </section>
 
+
+<section class="relative max-w-screen-xl mx-auto py-4 px-4 md:px-8">
+    <div class="absolute top-0 left-0 w-full h-full bg-white opacity-40"></div>
+    <div class="relative z-10 gap-5 items-center lg:flex">
+        <div class="flex-1 max-w-lg py-5 sm:mx-auto sm:text-center lg:max-w-max lg:text-left">
+            <h3 class="text-3xl text-gray-800 font-semibold md:text-4xl">
+                Youth <span class="text-indigo-600">Alive</span>
+            </h3>
+            <p class="text-gray-500 leading-relaxed mt-3">
+                Kingdom Giants!
+            </p>
+            <a class="mt-5 px-4 py-2 text-indigo-600 font-medium bg-indigo-50 rounded-full inline-flex items-center" href="javascript:void()">
+                Read More
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-1 duration-150" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    
+  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+                </svg>
+            </a>
+        </div>
+        <div class="flex-1 mt-5 mx-auto sm:w-9/12 lg:mt-0 lg:w-auto">
+            <img src="/istockphoto-1142146990-612x612.jpg" alt="" class="w-full" />
+        </div>
+    </div>
+</section>
+
 <!-- shape one -->
   <div class="absolute top-12 left-7">
     <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract1.png" alt="" class="max-w-full h-auto" />
   </div>
-  <!-- shape two -->
-  <div class="absolute top-12 right-[5%]">
-    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract2.png" alt="" class="max-w-full h-auto" />
-  </div>
-  <!-- shape three -->
-  <div class="absolute bottom-2.5 left-1/4">
-    <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract3.png" alt="" class="max-w-full h-auto" />
-  </div>
+  
+  
   <!-- shape four -->
   <div class="absolute bottom-5 right-[5%]">
     <img src="https://cdn.easyfrontend.com/pictures/hero/header38-abstract4.png" alt="" class="max-w-full h-auto" />
