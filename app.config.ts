@@ -121,7 +121,7 @@ export default defineAppConfig({
           },
         ],
       }],
-      links : {
+    links : {
       home: {
         title: 'Home',
         to: '/',
