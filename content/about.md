@@ -98,7 +98,7 @@ fullpage: true
   
   ::tab{label="12 Pillars" icon="icon-park:blocks-and-arrows"}
   ::steps
-  ### :smart-icon{name="mdi:pillar" :size="32"} The 12 Pillars of Living Faith Church
+  ### :smart-icon{name="vscode-icons:file-type-rome" :size="32"} Our 12 Pillars
 
   1. **Faith** – 1 John 5:4
   2. **The Word** – John 1:1-12
@@ -117,13 +117,13 @@ fullpage: true
 
   ::tab{label="Mission Statement" icon="noto:scroll"}
   ::steps
-  ### :smart-icon{name="material-symbols:flag" :size="32"} Our Mandate
+  ### :smart-icon{name="emojione-v1:scroll" :size="32"} Our Mandate
 
   The Mandate received by Bishop David Oyedepo from God:
 
   > “The hour has come to liberate the world from all oppressions of the devil through the preaching of the Word of faith, and I am sending you to undertake this task.”
 
-  ### :smart-icon{name="fluent-mdl2:globe" :size="32"} Mission
+  ### :smart-icon{name="emojione:world-map" :size="32"} Mission
 
   - To preach the Word of Faith.
   - To teach biblical success and the supernatural.
