@@ -120,7 +120,7 @@ export default defineAppConfig({
             target: '_self',
           },
         ],
-      }],
+      }], // <-- Add comma here to separate nav array from links object
     links : {
       home: {
         title: 'Home',
