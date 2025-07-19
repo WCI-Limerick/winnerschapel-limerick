@@ -31,22 +31,7 @@ fullpage: true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="max-width: 600px; margin: 0 auto;">
-
-::tabs{variant="line" font-weight: extrabold;"}
+::tabs{variant="line" fontWeight="extrabold"}
 
 ::div{label="Bishop David Oyedepo" icon="emojione:church"}
 test
@@ -62,9 +47,7 @@ test
 
 ::
 
-</div>
 
-</div>
 
 
 
