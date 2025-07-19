@@ -33,8 +33,8 @@ fullpage: true
 
 ::tabs{variant="line" fontWeight="extrabold"}
 
-::tab{label="Bishop David Oyedepo" icon="emojione:church"}
-::steps
+  ::tab{label="Bishop David Oyedepo" icon="emojione:church"}
+  ::steps
   ### :smart-icon{name="streamline-ultimate-color:laptop-user" :size="40"} Early Life & Salvation
 
   - Born on **September 27, 1954**
@@ -92,16 +92,51 @@ fullpage: true
   - Construction of **100,000-seat stadium sanctuary** began: **March 25, 2021** – *ongoing with speed and divine backing*
 
   ::alert{type="secondary" icon="emojione:light-bulb"}
-    Every step above represents a divine milestone in the life and ministry of God's servant, marked by obedience, faith, and supernatural speed.
+  Every step above represents a divine milestone in the life and ministry of God's servant, marked by obedience, faith, and supernatural speed.
   ::
-
+  ::
+  
   ::tab{label="12 Pillars" icon="icon-park:blocks-and-arrows"}
-  Test
+  ::steps
+  ### :smart-icon{name="mdi:pillar" :size="32"} The 12 Pillars of Living Faith Church
+
+  1. **Faith** – 1 John 5:4
+  2. **The Word** – John 1:1-12
+  3. **The Supernatural** – Psalm 82:5-7
+  4. **Praise** – 2 Chronicles 20:20-22
+  5. **The Holy Spirit** – Acts 1:1-8
+  6. **Prosperity** – 3 John 2, Psalm 35:27
+  7. **Vision** – Proverbs 29:18
+  8. **Prayer** – 1 John 5:14
+  9. **Healing** – Isaiah 53:3-4, Jeremiah 8:22
+  10. **Wisdom** – Proverbs 24:3-4, Isaiah 33:6
+  11. **Success** – Joshua 1:8-10
+  12. **Consecration** – Hebrews 12:14, 2 Timothy 2:19
+  ::
   ::
 
-::tab{label="Mission Statement" icon="noto:scroll"}
-test
+  ::tab{label="Mission Statement" icon="noto:scroll"}
+  ::steps
+  ### :smart-icon{name="material-symbols:flag" :size="32"} Our Mandate
+
+  The Mandate received by Bishop David Oyedepo from God:
+
+  > “The hour has come to liberate the world from all oppressions of the devil through the preaching of the Word of faith, and I am sending you to undertake this task.”
+
+  ### :smart-icon{name="fluent-mdl2:globe" :size="32"} Mission
+
+  - To preach the Word of Faith.
+  - To teach biblical success and the supernatural.
+  - To raise a people of exploits through the application of the Word.
+  - To plant churches across the globe.
+  - To build a people of purpose, power, prosperity, and purity.
+
+  ###
+  Our mission is to **liberate mankind in all facets of human existence**—spiritually, economically, socially, and mentally—through the knowledge of biblical principles.
+  ::
 ::
+
+
 
 
 
