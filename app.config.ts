@@ -128,12 +128,13 @@ export default defineAppConfig({
         target: '_self',
         icon: 'lucide:home',
       },
-      contact: {
-        title: 'Contact Us',
-        to: '/',
-        target: '_self',
-        icon: 'lucide:mail',
-        showLinkIcon: false,
+        contact: {
+          title: 'Contact Us',
+          to: '/',
+          target: '_self',
+          icon: 'lucide:mail',
+          showLinkIcon: false,
+        }
       }
     },
     aside: {
