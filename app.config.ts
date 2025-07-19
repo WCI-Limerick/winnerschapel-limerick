@@ -121,7 +121,7 @@ export default defineAppConfig({
           },
         ],
       }], // <-- Add comma here to separate nav array from links object
-    links : {
+    links: {
       home: {
         title: 'Home',
         to: '/',
