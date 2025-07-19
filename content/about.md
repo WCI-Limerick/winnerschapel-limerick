@@ -99,9 +99,8 @@ fullpage: true
   Test
   ::
 
-  ::tab{label="Mission Statement" icon="noto:scroll"}
-  test
-  ::
+::tab{label="Mission Statement" icon="noto:scroll"}
+test
 ::
 
 
