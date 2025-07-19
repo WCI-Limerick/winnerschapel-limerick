@@ -121,6 +121,13 @@ export default defineAppConfig({
           },
         ],
       }],
+      links : {
+      home: {
+        title: 'Home',
+        to: '/',
+        target: '_self',
+        icon: 'lucide:home',
+      },
       contact: {
         title: 'Contact Us',
         to: '/',
