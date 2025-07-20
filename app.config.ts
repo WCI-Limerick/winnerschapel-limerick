@@ -134,7 +134,13 @@ export default defineAppConfig({
           target: '_blank',
           icon: 'devicon:facebook',
           showLinkIcon: false,
-        }
+        },
+      github: {
+        title: 'WhatsApp',
+        to: 'https://wa.me/1234567890',
+        target: '_blank',
+        icon: 'logos:whatsapp-icon',
+        showLinkIcon: false,
       }
     },
     aside: {
