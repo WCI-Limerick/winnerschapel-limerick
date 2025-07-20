@@ -121,6 +121,7 @@ export default defineAppConfig({
           },
         ],
       }],
+    },
     links: {
       home: {
         title: 'Instagram',
