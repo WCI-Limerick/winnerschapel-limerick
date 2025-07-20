@@ -128,11 +128,17 @@ export default defineAppConfig({
         target: '_blank',
         icon: 'skill-icons:instagram',
       },
-        contact: {
-          title: 'Contact Us',
-          to: '/',
-          target: '_blank',
-          icon: 'devicon:facebook',
+      docs: {
+        title: 'Facebook',
+        to: '/',
+        target: '_blank',
+        icon: 'logos:whatsapp-icon',
+      },
+      contact: {
+        title: 'Contact Us',
+        to: '/',
+        target: '_blank',
+        icon: 'devicon:facebook',
           showLinkIcon: false,
         },
         about: {
