@@ -134,6 +134,12 @@ export default defineAppConfig({
           target: '_blank',
           icon: 'devicon:facebook',
           showLinkIcon: false,
+        },
+        about: {
+          title: 'About Us',
+          to: '/',
+          target: '_blank',
+          icon: 'devicon:info',
         }
       }
     },
