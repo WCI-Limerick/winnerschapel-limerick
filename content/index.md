@@ -423,3 +423,45 @@ actions:
             </div>
         </div>
     </section>
+
+
+<section class="relative py-28 px-4 sm:px-6 lg:px-8 bg-black overflow-hidden">
+  <!-- Glitch effect background text -->
+  <div class="absolute inset-0 flex items-center justify-center opacity-5">
+    <p class="text-[12rem] md:text-[25rem] font-mono font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-purple-900 to-cyan-900 select-none">404</p>
+  </div>
+  
+  <!-- Floating geometric shapes -->
+  <div class="absolute top-20 left-10 w-40 h-40 rounded-full bg-purple-800 opacity-20 blur-3xl"></div>
+  <div class="absolute bottom-20 right-10 w-60 h-60 bg-cyan-600 opacity-10 blur-3xl"></div>
+  <div class="absolute top-1/2 right-1/4 w-32 h-32 rotate-45 bg-white opacity-5"></div>
+
+  <div class="relative max-w-6xl mx-auto text-center">
+    <!-- Glitch-styled main heading -->
+    <h1 class="text-5xl md:text-8xl font-extrabold mb-8">
+      <span class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-cyan-400">
+        Winners Chapel
+      </span>
+      <span class="block text-4xl md:text-6xl text-white mt-4">International Limerick</span>
+    </h1>
+    
+  <!-- Pixel-inspired divider -->
+  <div class="relative my-12 h-1.5 bg-gradient-to-r from-transparent via-purple-500 to-transparent mx-auto w-1/2"></div>
+    
+  <!-- Supporting text with terminal-like UI -->
+  <div class="inline-block px-6 py-4 bg-gray-900 border border-gray-800 rounded-lg shadow-lg">
+      <p class="text-xl text-gray-300 font-mono">
+        <span class="text-cyan-400">$</span> 
+        <span class="text-purple-400">call Me </span> 
+        <span class="text-white">Kuldeep</span>
+      </p>
+    </div>
+    
+  <!-- Glowing CTA button -->
+  <div class="mt-12">
+      <a href="kuldeepprajapati.netlify.app" class="px-10 py-4 bg-gradient-to-r from-purple-600 to-cyan-600 text-white font-bold rounded-lg hover:shadow-lg hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105">
+        Contact Us
+      </a>
+    </div>
+  </div>
+</section>    
