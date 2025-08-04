@@ -199,7 +199,6 @@ actions:
                     <p> If the foundations be destroyed, what can the righteous do? Psa. 11:3
                 </p>
             </div></div>
-</section>
 
 
 ::card-group{:cols="3"}
