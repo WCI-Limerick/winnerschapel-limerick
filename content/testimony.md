@@ -9,20 +9,22 @@ toc: true
 
 We share your testimonies with other people on how God turned your situation around. Testimony is an acknowledgement of the faithfulness of God and a form of bearing witness, praise and honour to Jesus Christ.
 
-```sh
-And when he saw them, he said unto them, Go shew yourselves unto the priests. 
-And it came to pass, that, as they went, they were cleansed Luke 17:14
-```
+::alert{type="danger" icon="lucide:lightbulb"}
+  And when he saw them, he said unto them, Go shew yourselves unto the priests. 
+  And it came to pass, that, as they went, they were cleansed 
+  Luke 17:14.
+::
+
 
 We also use it as a way to encourage others, that the same God that intervene in your life can do so for them. Know every time you overcome trials and sufferings in life, that’s an opportunity to share a testimony of how God worked in your life and made you stronger. <br>
 
 God bless you as you share!
 
-### Document your testimonies
+### Document your Testimonies
 
-Please speak to an usher and they would direct accordingly
+To document your testimonies, please speak to an usher and they would direct accordingly
 
-### Written testimonies 
+### Written Testimonies 
 
 ::card-group{:cols="3"}
   ::card

@@ -9,7 +9,10 @@ toc: true
 
 **Acts 2:46 (King James Version KJV)** <br>
 
-`And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart.`
+::alert{type="example" icon="lucide:lightbulb"}
+  And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart.
+::
+
 
 The advent of megachurches and the busyness of the times have resulted in a church with faceless members where people are being taught but not being touched. The Church has consequently become a large ocean with drowning members.
 
