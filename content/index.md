@@ -278,6 +278,44 @@ actions:
         </div>
     </section>
 
+
+::card-group{:cols="3"}
+  ::card
+  ---
+  title: Components
+  icon: lucide:box
+  to: https://nuxt.com/docs/api/components/client-only
+  target: _blank
+  ---
+  Explore Nuxt built-in components for pages, layouts, head, and more.
+  ::
+
+  ::card
+  ---
+  title: Composables
+  icon: lucide:arrow-right-left
+  to: https://nuxt.com/docs/api/composables/use-app-config
+  target: _blank
+  ---
+  Discover Nuxt composable functions for data-fetching, head management and more.
+  ::
+
+  ::card
+  ---
+  title: Utils
+  icon: lucide:scissors
+  to: https://nuxt.com/docs/api/utils/dollarfetch
+  target: _blank
+  ---
+  Learn about Nuxt utility functions for navigation, error handling and more.
+  ::
+::
+
+
+::div{class="border rounded-lg shadow-md"}
+  :iframe{src="https://checkout.lodgify.com/olamide-toyinbo/701376/reservation?currency=EUR&adults=3" height="800" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
+::
+
 ---
                                             
 <section
@@ -450,7 +488,7 @@ actions:
             <div class="relative">
                 <div class="lg:w-2/3">
                     <p class="text-sm font-normal tracking-widest text-gray-300 uppercase">A Hub for Designers, Developers & Marketers</p>
-                    <h1 class="mt-6 text-4xl font-normal text-white sm:mt-10 sm:text-5xl lg:text-6xl xl:text-8xl"><span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500">Winners Chapel International</span> Limerick</h1>
+                    <h1 class="mt-6 text-4xl font-normal text-white sm:mt-10 sm:text-5xl lg:text-6xl xl:text-8xl"><span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500">Winners Chapel Intl.</span> Limerick</h1>
                     <p class="max-w-lg mt-4 text-xl font-normal text-gray-400 sm:mt-8">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.</p>
                     <div class="relative inline-flex items-center justify-center mt-8 sm:mt-12 group">
                         <div class="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:shadow-lg group-hover:shadow-cyan-500/50"></div>
