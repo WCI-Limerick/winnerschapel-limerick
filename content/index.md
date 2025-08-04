@@ -14,8 +14,8 @@ actions:
     to: /new
   - name: Testimonies
     variant: outline
-    target: _blank
-    to: /new.md
+    target: _self
+    to: /testimony
     leftIcon: 'lucide:hand-heart'
 ---
 

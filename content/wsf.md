@@ -15,7 +15,7 @@ The advent of megachurches and the busyness of the times have resulted in a chur
 
 ### The Winners Satellite Fellowship (WSF) 
 
-The WSF is set to create a forum for a caring fellowship where every member of the Church is adequately cared for. **We are the Church in The Home!.** We as a church:
+The WSF is set to create a forum for a caring fellowship where every member of the Church is adequately cared for. **We are the Church in The Home!** We:
  - Fellowship together
  - Pray together
  - Search the scriptures together

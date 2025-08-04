@@ -54,7 +54,7 @@ export default defineAppConfig({
         icon: 'lucide:users',
       }, {
         title: 'Testimonies',
-        to: '/docs',
+        to: '/testimony',
         target: '_self',
         showLinkIcon: false,
         description: 'Share your testimonies',
