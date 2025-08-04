@@ -460,7 +460,7 @@ actions:
                             <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg"><path d="M13 7.00003H21M21 7.00003V15M21 7.00003L13 15L9 11L3 17" stroke="url(#a)" stroke-linecap="round" stroke-linejoin="round" /><defs><linearGradient id="a" x1="3" y1="7.00003" x2="22.2956" y2="12.0274" gradientUnits="userSpaceOnUse"><stop offset="0%" style="stop-color: var(--color-cyan-500)" /><stop offset="100%" style="stop-color: var(--color-purple-500)" /></linearGradient></defs></svg><span class="ml-2 text-base font-normal text-white"> 42 new design inspiration was added last week </span>
                         </div>
                     </div>
-                </div><div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-[-6rem]">
+                </div><div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-[-4rem]">
                     <img class="w-full max-w-xs mx-auto lg:max-w-lg xl:max-w-xl" src="/20250705_193525.png" alt="" />
                 </div>
             </div>
