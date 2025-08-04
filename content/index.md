@@ -210,12 +210,6 @@ actions:
                         
   </svg>
                     </div>
-                    <h4 class="text-lg font-medium text-gray-900 mb-3 capitalize">
-                        Announcements
-                    </h4>
-                    <p class="text-sm font-normal text-gray-500">
-                        Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place. - 2Chr. 7:15.
-                    </p>
                 </div>
 </section>
 
@@ -224,7 +218,8 @@ actions:
   ::card
   ---
   title: Prophetic Focus
-  icon: lucide:box
+  icon: noto:memo
+  icon-size: 50 
   to: https://nuxt.com/docs/api/components.md
   target: _blank
   ---
@@ -234,8 +229,9 @@ actions:
   ::card
   ---
   title: Winners Satellite Fellowship
-  icon: lucide:arrow-right-left
-  to: https://nuxt.com/docs/api/composables/use-app-config
+  icon: noto:houses
+  icon-size: 50 
+  to: https://nuxt.com/docs/api/composables/use-app-config.md
   target: _blank
   ---
   Discover Nuxt composable functions for data-fetching, head management and more.
@@ -244,17 +240,13 @@ actions:
   ::card
   ---
   title: Kingdom Covenant Care
-  icon: lucide:scissors
-  to: https://nuxt.com/docs/api/utils/dollarfetch
+  icon: noto:wrapped-gift
+  icon-size: 50
+  to: https://nuxt.com/docs/api/utils/dollarfetch.md
   target: _blank
   ---
   Learn about Nuxt utility functions for navigation, error handling and more.
   ::
-::
-
-
-::div{class="border rounded-lg shadow-md"}
-  :iframe{src="https://checkout.lodgify.com/olamide-toyinbo/701376/reservation?currency=EUR&adults=3" height="800" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
 ::
                                             
 <section
