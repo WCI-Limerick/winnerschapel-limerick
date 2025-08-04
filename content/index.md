@@ -465,3 +465,39 @@ actions:
     </div>
   </div>
 </section>    
+
+
+<div id="auto-play" data-carousel='{ "loadingClasses": "opacity-0", "isAutoPlay": true, "speed": 1000 }' class="relative w-full" >
+  <div class="carousel h-80">
+    <div class="carousel-body opacity-0 h-full">
+      <!-- Slide 1 -->
+      <div class="carousel-slide">
+        <div class="bg-base-200/60 flex h-full justify-center p-6">
+          <span class="self-center text-2xl sm:text-4xl">First slide</span>
+        </div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="carousel-slide">
+        <div class="bg-base-200/80 flex h-full justify-center p-6">
+          <span class="self-center text-2xl sm:text-4xl">Second slide</span>
+        </div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="carousel-slide">
+        <div class="bg-base-200 flex h-full justify-center p-6">
+          <span class="self-center text-2xl sm:text-4xl">Third slide</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Previous Slide -->
+  <button type="button" class="carousel-prev start-5 max-sm:start-3 carousel-disabled:opacity-50 size-9.5 bg-base-100 flex items-center justify-center rounded-full shadow-base-300/20 shadow-sm">
+    <span class="icon-[tabler--chevron-left] size-5 cursor-pointer"></span>
+    <span class="sr-only">Previous</span>
+  </button>
+  <!-- Next Slide -->
+   <button type="button" class="carousel-next end-5 max-sm:end-3 carousel-disabled:opacity-50 size-9.5 bg-base-100 flex items-center justify-center rounded-full shadow-base-300/20 shadow-sm">
+    <span class="icon-[tabler--chevron-right] size-5"></span>
+    <span class="sr-only">Next</span>
+  </button>
+</div>
