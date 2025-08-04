@@ -315,8 +315,6 @@ actions:
 ::div{class="border rounded-lg shadow-md"}
   :iframe{src="https://checkout.lodgify.com/olamide-toyinbo/701376/reservation?currency=EUR&adults=3" height="800" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
 ::
-
----
                                             
 <section
   class="ezy__howitworks9 light py-14 md:py-24 bg-white"
