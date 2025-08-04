@@ -43,7 +43,7 @@ Time: 5:00pm – 6:00pm
 
 Join us today at `5pm` in any of the WSF centers at your convenience.
 
-::card-group{:cols="6"}
+::card-group{:cols="3"}
   ::card
   ---
   title: Dooradoyle, Raheen and Environs
