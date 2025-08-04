@@ -20,8 +20,7 @@ actions:
 ---
 
 #title
-<section class="py-12 bg-black sm:pb-16 lg:pb-20 xl:pb-24">
-<span class="font-white text-5xl lg:text-7xl">Winners Chapel International Limerick</span>
+<span class="font-black text-5xl lg:text-7xl">Winners Chapel International Limerick</span>
 
 
 #description
@@ -42,7 +41,6 @@ actions:
       </div>
     </div>
   </div>
-  </section>
   <!-- End Hero -->
 
 
