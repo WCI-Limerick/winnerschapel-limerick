@@ -311,29 +311,41 @@ actions:
 </section>
 
 
-<section class="relative max-w-screen-xl mx-auto py-4 px-4 md:px-8">
-    <div class="absolute top-0 left-0 w-full h-full bg-white opacity-40"></div>
-    <div class="relative z-10 gap-5 items-center lg:flex">
-        <div class="flex-1 max-w-lg py-5 sm:mx-auto sm:text-center lg:max-w-max lg:text-left">
-            <h3 class="text-3xl text-gray-800 font-semibold md:text-4xl">
-                Youth <span class="text-indigo-600">Alive</span>
-            </h3>
-            <p class="text-gray-500 leading-relaxed mt-3">
-                Kingdom Giants!
-            </p>
-            <a class="mt-5 px-4 py-2 text-indigo-600 font-medium bg-indigo-50 rounded-full inline-flex items-center" href="javascript:void()">
-                Read More
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-1 duration-150" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    
-  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
-                </svg>
-            </a>
-        </div>
-        <div class="flex-1 mt-5 mx-auto sm:w-9/12 lg:mt-0 lg:w-auto">
-            <img src="/istockphoto-1142146990-612x612.jpg" alt="" class="w-full" />
-        </div>
-    </div>
-</section>
+<section class="w-full flex bg-gray-50">
+    <div class="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
+        <div class="text-center space-y-5">
+            <h2 class="text-base font-semibold text-pink-400 tracking-wide uppercase">Get started now</h2><p class="mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl">Discover
+                your
+                potential
+                <span class="px-2 py-1 relative inline-block">
+                    <svg class="stroke-current bottom-0 absolute text-rose-300 -translate-x-2" viewBox="0 0 410 18"
+                        xmlns="http://www.w3.org/2000/svg"><path d="M6 6.4c16.8 16.8 380.8-11.2 397.6 5.602" stroke-width="12" fill="none"
+                            fill-rule="evenodd" stroke-linecap="round"></path></svg>
+                    <span class="relative">with us</span>
+                </span>
+            </p><p class="max-w-3xl mt-5 mx-auto text-xl text-gray-500">
+                Sign up now and experience the difference in just
+                one week</p><div class="flex flex-col sm:flex-row space-y-2.5 sm:space-y-0 sm:space-x-2.5 items-center justify-center">
+                <!-- Sign up with Email -->
+                <a href="#" class="w-full sm:w-auto">
+                    <button type="button"
+                        class="flex items-center justify-center px-4 py-3 w-full  shadow-sm font-medium rounded-full border border-rose-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-rose-200 transition duration-250 ease-in-out">
+                        <span class="text-base">Sign up with Email</span>
+                    </button>
+                </a><!-- Sign up with Google --><a href="#" class="w-full sm:w-auto sm:mt-0 mt-2 sm:ml-0 ml-2">
+                    <button type="button"
+                        class="flex items-center justify-center gap-4 px-4 py-3 w-full border border-rose-400 shadow-sm font-medium rounded-full  focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-rose-200 transition duration-250 ease-in-out">
+                        <!-- Google Logo -->
+                        <svg class="w-6" xmlns="http://www.w3.org/2000/svg"
+                            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-0.5 0 48 48" version="1.1"><g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Color-" transform="translate(-401.000000, -860.000000)"><g id="Google" transform="translate(401.000000, 860.000000)"><path
+                                            d="M9.82727273,24 C9.82727273,22.4757333 10.0804318,21.0144 10.5322727,19.6437333 L2.62345455,13.6042667 C1.08206818,16.7338667 0.213636364,20.2602667 0.213636364,24 C0.213636364,27.7365333 1.081,31.2608 2.62025,34.3882667 L10.5247955,28.3370667 C10.0772273,26.9728 9.82727273,25.5168 9.82727273,24"
+                                            id="Fill-1" fill="#FBBC05"></path><path
+                                            d="M23.7136364,10.1333333 C27.025,10.1333333 30.0159091,11.3066667 32.3659091,13.2266667 L39.2022727,6.4 C35.0363636,2.77333333 29.6954545,0.533333333 23.7136364,0.533333333 C14.4268636,0.533333333 6.44540909,5.84426667 2.62345455,13.6042667 L10.5322727,19.6437333 C12.3545909,14.112 17.5491591,10.1333333 23.7136364,10.1333333"
+                                            id="Fill-2" fill="#EB4335"></path><path
+                                            d="M23.7136364,37.8666667 C17.5491591,37.8666667 12.3545909,33.888 10.5322727,28.3562667 L2.62345455,34.3946667 C6.44540909,42.1557333 14.4268636,47.4666667 23.7136364,47.4666667 C29.4455,47.4666667 34.9177955,45.4314667 39.0249545,41.6181333 L31.5177727,35.8144 C29.3995682,37.1488 26.7323182,37.8666667 23.7136364,37.8666667"
+                                            id="Fill-3" fill="#34A853"></path><path
+                                            d="M46.1454545,24 C46.1454545,22.6133333 45.9318182,21.12 45.6113636,19.7333333 L23.7136364,19.7333333 L23.7136364,28.8 L36.3181818,28.8 C35.6879545,31.8912 33.9724545,34.2677333 31.5177727,35.8144 L39.0249545,41.6181333 C43.3393409,37.6138667 46.1454545,31.6490667 46.1454545,24"
+                                            id="Fill-4" fill="#4285F4"></path></g></g></g></svg><span class="text-base">Sign up with Google</span></button></a></div></div></div></section>
 
 <!-- shape one -->
   <div class="absolute top-12 left-7">
@@ -398,106 +410,3 @@ actions:
   </li>
 </ul>
 
-
-
-
-<section class="py-12 bg-black sm:pb-16 lg:pb-20 xl:pb-24">
-        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-            <div class="relative">
-                <div class="lg:w-2/3">
-                    <p class="text-sm font-normal tracking-widest text-gray-300 uppercase">A Hub for Designers, Developers & Marketers</p>
-                    <h1 class="mt-6 text-4xl font-normal text-white sm:mt-10 sm:text-5xl lg:text-6xl xl:text-8xl"><span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500">Winners Chapel Intl.</span> Limerick</h1>
-                    <p class="max-w-lg mt-4 text-xl font-normal text-gray-400 sm:mt-8">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.</p>
-                    <div class="relative inline-flex items-center justify-center mt-8 sm:mt-12 group">
-                        <div class="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:shadow-lg group-hover:shadow-cyan-500/50"></div>
-                        <a href="#" title="" class="relative inline-flex items-center justify-center px-8 py-3 text-base font-normal text-white bg-black border border-transparent rounded-full" role="button"> Start Exploring Inspiration </a>
-                    </div><div>
-                        <div class="inline-flex items-center pt-6 mt-8 border-t border-gray-800 sm:pt-10 sm:mt-14">
-                            <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke-width="1.5" xmlns="http://www.w3.org/2000/svg"><path d="M13 7.00003H21M21 7.00003V15M21 7.00003L13 15L9 11L3 17" stroke="url(#a)" stroke-linecap="round" stroke-linejoin="round" /><defs><linearGradient id="a" x1="3" y1="7.00003" x2="22.2956" y2="12.0274" gradientUnits="userSpaceOnUse"><stop offset="0%" style="stop-color: var(--color-cyan-500)" /><stop offset="100%" style="stop-color: var(--color-purple-500)" /></linearGradient></defs></svg><span class="ml-2 text-base font-normal text-white"> 42 new design inspiration was added last week </span>
-                        </div>
-                    </div>
-                </div>
-                <div class="mt-8 md:absolute md:mt-0 md:top-32 lg:top-0 md:right-[-7rem]">
-                    <img class="w-full max-w-xs mx-auto lg:max-w-lg xl:max-w-xl" src="/20250705_193525.png" alt="" />
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-<section class="relative py-28 px-4 sm:px-6 lg:px-8 bg-black overflow-hidden">
-  <!-- Glitch effect background text -->
-  <div class="absolute inset-0 flex items-center justify-center opacity-5">
-    <p class="text-[12rem] md:text-[25rem] font-mono font-bold tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-purple-900 to-cyan-900 select-none">404</p>
-  </div>
-  
-  <!-- Floating geometric shapes -->
-  <div class="absolute top-20 left-10 w-40 h-40 rounded-full bg-purple-800 opacity-20 blur-3xl"></div>
-  <div class="absolute bottom-20 right-10 w-60 h-60 bg-cyan-600 opacity-10 blur-3xl"></div>
-  <div class="absolute top-1/2 right-1/4 w-32 h-32 rotate-45 bg-white opacity-5"></div>
-
-  <div class="relative max-w-6xl mx-auto text-center">
-    <!-- Glitch-styled main heading -->
-    <h1 class="text-5xl md:text-8xl font-extrabold mb-8">
-      <span class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-cyan-400">
-        Winners Chapel
-      </span>
-      <span class="block text-4xl md:text-6xl text-white mt-4">International Limerick</span>
-    </h1>
-    
-  <!-- Pixel-inspired divider -->
-  <div class="relative my-12 h-1.5 bg-gradient-to-r from-transparent via-purple-500 to-transparent mx-auto w-1/2"></div>
-    
-  <!-- Supporting text with terminal-like UI -->
-  <div class="inline-block px-6 py-4 bg-gray-900 border border-gray-800 rounded-lg shadow-lg">
-      <p class="text-xl text-gray-300 font-mono">
-        <span class="text-cyan-400">$</span> 
-        <span class="text-purple-400">call Me </span> 
-        <span class="text-white">Kuldeep</span>
-      </p>
-    </div>
-    
-  <!-- Glowing CTA button -->
-  <div class="mt-12">
-      <a href="kuldeepprajapati.netlify.app" class="px-10 py-4 bg-gradient-to-r from-purple-600 to-cyan-600 text-white font-bold rounded-lg hover:shadow-lg hover:shadow-purple-500/30 transition-all duration-300 hover:scale-105">
-        Contact Us
-      </a>
-    </div>
-  </div>
-</section>    
-
-
-<div id="auto-play" data-carousel='{ "loadingClasses": "opacity-0", "isAutoPlay": true, "speed": 1000 }' class="relative w-full" >
-  <div class="carousel h-80">
-    <div class="carousel-body opacity-0 h-full">
-      <!-- Slide 1 -->
-      <div class="carousel-slide">
-        <div class="bg-base-200/60 flex h-full justify-center p-6">
-          <span class="self-center text-2xl sm:text-4xl">First slide</span>
-        </div>
-      </div>
-      <!-- Slide 2 -->
-      <div class="carousel-slide">
-        <div class="bg-base-200/80 flex h-full justify-center p-6">
-          <span class="self-center text-2xl sm:text-4xl">Second slide</span>
-        </div>
-      </div>
-      <!-- Slide 3 -->
-      <div class="carousel-slide">
-        <div class="bg-base-200 flex h-full justify-center p-6">
-          <span class="self-center text-2xl sm:text-4xl">Third slide</span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Previous Slide -->
-  <button type="button" class="carousel-prev start-5 max-sm:start-3 carousel-disabled:opacity-50 size-9.5 bg-base-100 flex items-center justify-center rounded-full shadow-base-300/20 shadow-sm">
-    <span class="icon-[tabler--chevron-left] size-5 cursor-pointer"></span>
-    <span class="sr-only">Previous</span>
-  </button>
-  <!-- Next Slide -->
-   <button type="button" class="carousel-next end-5 max-sm:end-3 carousel-disabled:opacity-50 size-9.5 bg-base-100 flex items-center justify-center rounded-full shadow-base-300/20 shadow-sm">
-    <span class="icon-[tabler--chevron-right] size-5"></span>
-    <span class="sr-only">Next</span>
-  </button>
-</div>
