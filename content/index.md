@@ -218,10 +218,10 @@ actions:
   title: Winners Satellite Fellowship
   icon: noto:houses
   icon-size: 50 
-  to: https://nuxt.com/docs/api/composables/use-app-config.md
-  target: _blank
+  to: /wsf
+  target: _self
   ---
-  Discover Nuxt composable functions for data-fetching, head management and more.
+  Creating A Forum For A Caring Christian Fellowship
   ::
 
   ::card

@@ -223,14 +223,14 @@ export default defineAppConfig({
       title: 'On this page',
       links: [
         {
-          title: 'Login',
-          icon: 'lucide:log-in',
+          title: 'Shiloh 2025',
+          icon: 'emojione:church',
           showLinkIcon: true,
         },
         {
-          title: 'API Reference',
-          icon: 'lucide:file-json',
-          to: 'https://eswapis.vercel.app/',
+          title: 'The Ark Legacy Project',
+          icon: 'noto-v1:stadium',
+          to: 'https://davidoyedepo.org/theark',
           target: '_blank',
           showLinkIcon: true,
         },
