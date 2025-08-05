@@ -21,7 +21,7 @@ actions:
 
 #title
 
-<span class="font-black text-5xl lg:text-7xl relative overflow-hidden before:absolute before:top-0 before:start-1/2 before:bg-[url('https://preline.co/assets/svg/examples/squared-bg-element.svg')] before:bg-no-repeat before:bg-top before:size-full before:-z-1 before:transform before:-translate-x-1/2">Winners Chapel International Limerick</span>
+<span class="font-black text-5xl lg:text-7xl">Winners Chapel International Limerick</span>
 
 
 #description
