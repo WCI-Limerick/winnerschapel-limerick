@@ -393,6 +393,52 @@ actions:
     </section>
 
 
+
+<!-- Tailwind CSS -->
+<link href="https://cdn.tailwindcss.com" rel="stylesheet">
+<script>
+tailwind.config = {
+  theme: {
+    extend: {
+      animation: {
+        float: 'float 6s ease-in-out infinite',
+        'slide-up': 'slideUp 0.8s ease-out forwards',
+        pulse: 'pulse 2s infinite'
+      },
+      keyframes: {
+        float: {
+          '0%, 100%': { transform: 'translateY(0)' },
+          '50%': { transform: 'translateY(-20px)' }
+        },
+        slideUp: {
+          '0%': { transform: 'translateY(40px)', opacity: '0' },
+          '100%': { transform: 'translateY(0)', opacity: '1' }
+        }
+      },
+      colors: {
+        art: {
+          cream: '#FFF8F0',
+          coral: '#FF6B6B',
+          gold: '#FFD93D',
+          deep: '#1E1E2F'
+        }
+      }
+    }
+  }
+}
+</script>
+
+<!-- Page Body -->
+<div class="bg-art-cream text-art-deep overflow-x-hidden">
+  <!-- Background Shapes -->
+  <div class="fixed inset-0 -z-10 opacity-10">
+    <div class="absolute w-72 h-72 bg-art-coral rounded-full top-1/4 -left-24 animate-float"></div>
+    <div class="absolute w-56 h-56 bg-art-gold rounded-full bottom-1/4 -right-16 animate-float delay-200"></div>
+  </div>
+</div>
+
+
+
   <!-- Hero Section -->
   <section class="min-h-screen pt-24 pb-16 px-6 md:px-12 flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto">
     <div class="lg:w-1/2 animate-slide-up">
