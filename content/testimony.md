@@ -33,7 +33,8 @@ To document your testimonies, please speak to an usher and they would direct acc
   icon: openmoji:passport-control
   ---
   In November 2020, I attended a court hearing for my immigration case. Within three days, I received a call that changed my life and that of my daughter. They had granted our residence permit for both of us. Praise God!
-  - Sandra
+  
+  > Sandra
   ::
 
   ::card
@@ -42,7 +43,8 @@ To document your testimonies, please speak to an usher and they would direct acc
   icon: twemoji:wine-glass
   ---
    I partook of the communion, a shot of the anointing oil and rubbed it on my stomach and the pain ceased. Till date I feel no pain in my stomach. I give God all the glory.
-   - Mercy Percy
+   
+   > Mercy Percy
   ::
 
   ::card
@@ -51,7 +53,8 @@ To document your testimonies, please speak to an usher and they would direct acc
   icon: emojione-v1:door
   ---
   As I kept engaging in kingdom advancement endeavours, the doors of favours opened! God gave me another job that is better than the one I lost with international access for my family.
-  - Oladeji Olanrewaju
+  
+  >Oladeji Olanrewaju
   ::
 ::
 

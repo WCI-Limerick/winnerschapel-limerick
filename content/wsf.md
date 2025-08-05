@@ -33,7 +33,7 @@ img: /wsf.png
 Meeting Times
 
 #content
-Date: Every Saturday of the month
+Date: Every Saturday of the month <br>
 
 Time: 5:00pm – 6:00pm
 
