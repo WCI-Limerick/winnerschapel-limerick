@@ -370,7 +370,7 @@ actions:
                     <h2 class="text-3xl font-bold text-coffee-800 mb-6">Our Story</h2>
                     <p class="text-coffee-700 mb-4">Founded in 2010, Brew Haven began as a small passion project between two coffee enthusiasts who wanted to share their love for specialty coffee with their community.</p>
                     <p class="text-coffee-700 mb-4">We source our beans directly from ethical farms around the world, ensuring fair compensation for farmers and the highest quality for our customers.</p>
-                    <p class="text-coffee-700">Every cup is carefully crafted by our trained baristas who take pride in their art. We're not just serving coffee - we're creating experiences.</p>
+                    <p class="text-coffee-700">Every cup is carefully crafted by our trained baristas who take pride in their art. We're not just serving coffee - we're creating experiences</p>
                 </div>
                 <div class="md:w-1/2">
                     <div class="grid grid-cols-2 gap-4">
