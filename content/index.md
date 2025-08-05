@@ -362,3 +362,32 @@ actions:
   </li>
 </ul>
 
+ <!-- About Section -->
+  <section id="about" class="py-20 bg-coffee-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="md:flex items-center">
+                <div class="md:w-1/2 mb-10 md:mb-0 md:pr-10">
+                    <h2 class="text-3xl font-bold text-coffee-800 mb-6">Our Story</h2>
+                    <p class="text-coffee-700 mb-4">Founded in 2010, Brew Haven began as a small passion project between two coffee enthusiasts who wanted to share their love for specialty coffee with their community.</p>
+                    <p class="text-coffee-700 mb-4">We source our beans directly from ethical farms around the world, ensuring fair compensation for farmers and the highest quality for our customers.</p>
+                    <p class="text-coffee-700">Every cup is carefully crafted by our trained baristas who take pride in their art. We're not just serving coffee - we're creating experiences.</p>
+                </div>
+                <div class="md:w-1/2">
+                    <div class="grid grid-cols-2 gap-4">
+                        <img src="https://images.unsplash.com/photo-1517705008128-361805f42e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" 
+                             alt="Coffee shop interior" 
+                             class="rounded-lg shadow-lg h-64 w-full object-cover">
+                        <img src="https://images.unsplash.com/photo-1461023058943-07fcbe16d735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80" 
+                             alt="Barista making coffee" 
+                             class="rounded-lg shadow-lg h-64 w-full object-cover">
+                        <img src="https://images.unsplash.com/photo-1442512595331-e89e73853f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" 
+                             alt="Coffee beans" 
+                             class="rounded-lg shadow-lg h-64 w-full object-cover">
+                        <img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" 
+                             alt="People enjoying coffee" 
+                             class="rounded-lg shadow-lg h-64 w-full object-cover">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
