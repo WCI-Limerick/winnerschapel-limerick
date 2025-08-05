@@ -404,7 +404,7 @@ actions:
 
 <div class="mt-10 flow-root sm:mt-20">
   <div
-    class="max-w-full sm:max-w-3/4 lg:max-w-1/2 mx-auto -m-2 rounded-md bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-md lg:p-4">
+    class="-m-2 rounded-md bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-md lg:p-4">
     <!-- Photo by '@tvick' on Unsplash -->
     <img 
       src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxiYWNrdXB8ZW58MHwwfHx8MTY5MjAwMjg2M3ww&ixlib=rb-4.0.3&q=80&w=1080" 
@@ -413,4 +413,5 @@ actions:
       class="w-full sm:w-3/4 lg:w-1/2 mx-auto rounded-md shadow-2xl ring-1 ring-gray-900/10">
   </div>
 </div>
+
 
