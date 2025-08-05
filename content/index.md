@@ -3,49 +3,6 @@ navigation: false
 ---
 
 
-::hero
----
-announcement:
-  title: 'Announcements'
-  icon: 'openmoji:megaphone'
-  to: /blog/v1-1
-actions:
-  - name: I am New!
-    to: /new
-  - name: Testimonies
-    variant: outline
-    target: _self
-    to: /testimony
-    leftIcon: 'lucide:hand-heart'
----
-
-#title
-
-<span class="font-black text-5xl lg:text-7xl">Winners Chapel International Limerick</span>
-
-
-#description
-<span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
-::
-
- <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full"></div></div>
-
-
-  <!-- Hero -->
-  <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
-      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
-    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
-    <p class="mb-0">July 2025</p>
-  </div>
-      </div>
-    </div>
-  </div>
-  <!-- End Hero -->
-
----
-
 <div class="flex h-screen justify-center items-center dark:bg-slate-800">
     <div class="mx-auto mt-10 flex justify-center px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8">
         <div class="text-center ">
@@ -83,6 +40,24 @@ actions:
         </div>
     </div>
 </div>
+
+
+
+
+  <!-- Hero -->
+  <div class="px-4 sm:px-6 lg:px-8">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
+      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
+        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
+    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
+    <p class="mb-0">July 2025</p>
+  </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Hero -->
+
+
 
 <br>
 <br>
