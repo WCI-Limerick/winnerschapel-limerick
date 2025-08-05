@@ -7,7 +7,7 @@ navigation: false
 ---
 announcement:
   title: 'Announcements'
-  icon: 'lucide:megaphone'
+  icon: 'openmoji:megaphone'
   to: /blog/v1-1
 actions:
   - name: I am New!
