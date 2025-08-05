@@ -32,7 +32,7 @@ To document your testimonies, please speak to an usher and they would direct acc
   title: 13 Years immigration challenge settled in 3 days.
   icon: openmoji:passport-control
   ---
-  In November 2020, I attended a court hearing for my immigration case. Within three days, I received a call that changed my life and that of my daughter. They had granted our residence permit for both of us. Praise God!
+  In November 2020, I attended a court hearing for my immigration case. Within three days, I received a call that changed my life and that of my daughter. They had granted our residence permit for both of us. Praise God! <br>
   
   > Sandra
   ::
@@ -42,7 +42,7 @@ To document your testimonies, please speak to an usher and they would direct acc
   title: Healing via the mystery of the Communion
   icon: twemoji:wine-glass
   ---
-   I partook of the communion, a shot of the anointing oil and rubbed it on my stomach and the pain ceased. Till date I feel no pain in my stomach. I give God all the glory.
+   I partook of the communion, a shot of the anointing oil and rubbed it on my stomach and the pain ceased. Till date I feel no pain in my stomach. I give God all the glory. <br>
    
    > Mercy Percy
   ::
@@ -52,9 +52,9 @@ To document your testimonies, please speak to an usher and they would direct acc
   title: Doors of favour via Kingdom advancement engagement!
   icon: emojione-v1:door
   ---
-  As I kept engaging in kingdom advancement endeavours, the doors of favours opened! God gave me another job that is better than the one I lost with international access for my family.
+  As I kept engaging in kingdom advancement endeavours, the doors of favours opened! God gave me another job that is better than the one I lost with international access for my family. <br>
   
-  >Oladeji Olanrewaju
+  > Oladeji Olanrewaju
   ::
 ::
 
