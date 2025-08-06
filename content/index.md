@@ -395,33 +395,94 @@ actions:
 
 
 
-<section class="bg-zinc-50 overflow-hidden">
- <div class="max-w-screen-xl 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto py-12 lg:py-24 space-y-24 h-svh flex flex-col justify-center">
-  <div class="flex flex-col sm:flex-row mx-auto">
-   <!--- Starts component --> <a href="#_"> <img src="https://images.unsplash.com/photo-1530035415911-95194de4ebcc?q=80&amp;w=2670&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="rounded-xl  rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" alt="#_"> </a><a href="#_"> <img src="https://images.unsplash.com/photo-1487180144351-b8472da7d491?q=80&amp;w=2672&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D " class="rounded-xl  -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" alt="#_"> </a><a href="#_"> <img src="https://images.unsplash.com/photo-1586996292898-71f4036c4e07?q=80&amp;w=2670&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="rounded-xl  rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" alt="#_"> </a><a href="#_"> <img src="https://images.unsplash.com/photo-1522775417749-29284fb89f43?q=80&amp;w=2574&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="rounded-xl  -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" alt="#_"> </a>
-   <!--- Ends component -->
-  </div> <!-- Starts links to tutorial -->
-  <div class="pointer-events-none fixed inset-x-0 bottom-0 sm:flex sm:justify-center sm:px-6 sm:pb-5 lg:px-8">
-   <div class="pointer-events-auto flex w-full max-w-md divide-x divide-neutral-200 rounded-lg bg-white shadow-lg ring-1 ring-black ring-opacity-5">
-    <div class="flex w-0 flex-1 items-center p-4">
-     <div class="w-full">
-      <p class="text-sm font-medium text-neutral-900">Tutorial</p>
-      <p class="mt-1 text-sm text-neutral-500">
-       How to create animated image cards with Tailwind CSS and Astrojs
-      </p>
-      <p class="mt-2 text-xs text-orange-500 underline"> <a href="https://lexingtonthemes.com">
-        by © Lexington Themes</a> </p>
-     </div>
-    </div>
-    <div class="flex">
-     <div class="flex flex-col divide-y divide-neutral-200">
-      <div class="flex h-0 flex-1"> <a target="_blank" href="https://lexingtonthemes.com/tutorials/how-to-create-animated-images-with-tailwind-css-and-astro-js/" type="button" class="flex w-full items-center justify-center rounded-none rounded-tr-lg border border-transparent px-4 py-3 text-sm font-medium text-orange-600 hover:text-orange-500 focus:z-10 focus:outline-none focus:ring-2 focus:ring-orange-500">Tutorial</a> </div>
-      <div class="flex h-0 flex-1"> <a target="_blank" href="https://github.com/UnwrappedDesign/lexington-tutorials/tree/main/src/pages/simplified-cards" class="flex w-full items-center justify-center rounded-none rounded-br-lg border border-transparent px-4 py-3 text-sm font-medium text-neutral-700 hover:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-orange-500">Get the code</a> </div>
-     </div>
-    </div>
-   </div>
-  </div> <!-- Ends links to tutorial -->
- </div>
-</section>
+<div class="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
+    <div class="grid grid-cols-1 md:grid-cols-4 sm:grid-cols-2 gap-5">
+
+<div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+            style="height: 450px; background-image:url(https://media.gettyimages.com/photos/at-the-the-network-tolo-televised-debate-dr-abdullah-abdullah-with-picture-id1179614034?k=6&amp;m=1179614034&amp;s=612x612&amp;w=0&amp;h=WwIX3RMsOQEn5DovD9J3e859CZTdxbHHD3HRyrgU3A8=);">
+            <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+            </div>
+            <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                <a href="#"
+                    class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Politics</a>
+                <div class="text-white font-regular flex flex-col justify-start">
+                    <span class="text-3xl leading-0 font-semibold">25</span>
+                    <span class="-mt-3">May</span>
+                </div>
+            </div>
+            <main class="p-5 z-10">
+                <a href="#"
+                    class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">Dr.
+                    Abdullah Abdullah's Presidential Election Campaign
+                </a>
+            </main>
+
+  </div>
+
+  <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+            style="height: 450px; background-image:url(https://media.gettyimages.com/photos/ashraf-ghani-afghanistans-president-speaks-at-the-council-on-foreign-picture-id850794338?k=6&amp;m=850794338&amp;s=612x612&amp;w=0&amp;h=b_XBw5S38Cioslqr6VL3e36cWQU205IsInqDXZpDOD4=);">
+            <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+            </div>
+            <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                <a href="#"
+                    class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Politics</a>
+                <div class="text-white font-regular flex flex-col justify-start">
+                    <span class="text-3xl leading-0 font-semibold">10</span>
+                    <span class="-mt-3">Mar</span>
+                </div>
+            </div>
+            <main class="p-5 z-10">
+                <a href="#"
+                    class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">Afghanistan's
+                    President Ashraf Ghani Speaks At The Council
+                </a>
+            </main>
+
+  </div>
+
+  <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+            style="height: 450px; background-image:url(https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-arrives-to-the-welcoming-ceremony-the-picture-id694155252?k=6&amp;m=694155252&amp;s=612x612&amp;w=0&amp;h=IIJPetzJL-hAgPkE4hm2wUKvO4YOav8jJp484CgLEUs=);">
+            <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+            </div>
+            <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                <a href="#"
+                    class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Politics</a>
+                <div class="text-white font-regular flex flex-col justify-start">
+                    <span class="text-3xl leading-0 font-semibold">20</span>
+                    <span class="-mt-3">Jan</span>
+                </div>
+            </div>
+            <main class="p-5 z-10">
+                <a href="#"
+                    class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">Middle
+                    East Participants Gather In Warsaw
+                </a>
+            </main>
+
+  </div>
+
+  <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+            style="height: 450px; background-image:url(https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-speaks-during-a-gathering-in-jalalabad-picture-id1205021905?k=6&amp;m=1205021905&amp;s=612x612&amp;w=0&amp;h=nwAH1XuZxF_H4f6LfHv-lgqtZe0h1tVFXfzhpMwFqao=);">
+            <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+            </div>
+            <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                <a href="#"
+                    class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Politics</a>
+                <div class="text-white font-regular flex flex-col justify-start">
+                    <span class="text-3xl leading-0 font-semibold">25</span>
+                    <span class="-mt-3">May</span>
+                </div>
+            </div>
+            <main class="p-5 z-10">
+                <a href="#"
+                    class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">Afghan
+                    President Ashraf Ghani Visits Jalalabad
+                </a>
+            </main>
+
+  </div>
+
+  </div>
+</div>
 
 
