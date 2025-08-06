@@ -37,7 +37,7 @@ actions:
       style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
+        <a href="#" class="text-xs bg-rose-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">25</span>
           <span class="-mt-3">May</span>
@@ -54,7 +54,7 @@ actions:
       style="height: 450px; background-image:url('/20250705_191624.jpg');">
       <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
+        <a href="#" class="text-xs bg-rose-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">10</span>
           <span class="-mt-3">Mar</span>
@@ -71,7 +71,7 @@ actions:
       style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
+        <a href="#" class="text-xs bg-rose-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">20</span>
           <span class="-mt-3">Jan</span>
@@ -88,16 +88,16 @@ actions:
       style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
+        <span class="text-xs bg-rose-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</span>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">25</span>
           <span class="-mt-3">May</span>
         </div>
       </div>
       <main class="p-5 z-10">
-        <a href="#" class="text-md font-medium leading-7 text-white">
+        <span class="text-md font-medium leading-7 text-white">
           Afghan President Ashraf Ghani Visits Jalalabad
-        </a>
+        </span>
       </main>
     </div>
 
