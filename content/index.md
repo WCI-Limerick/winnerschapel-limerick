@@ -32,7 +32,7 @@ actions:
 
 <div class="container mx-auto p-10 md:py-5 px-0 md:p-10 md:px-0">
     <div class="relative px-10 md:p-0 transform duration-500 shadow-sm">
-        <img class="xl:max-w-6xl" src="/20250705_193525.png" alt="">
+        <img class="xl:max-w-6xl" src="/20250705_193525.jpg" alt="">
         <div class="content bg-white p-2 pt-8 md:p-12 pb-12 lg:max-w-lg w-full lg:absolute top-48 right-5">
             <div class="flex justify-between font-bold text-sm">
                 <p>Praise Night</p>
