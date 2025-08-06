@@ -30,23 +30,18 @@ actions:
 ::
 
 
-<div class="container mx-auto p-10 md:py-5 px-0 md:p-10 md:px-0">
-    <div class="relative px-10 md:p-0 transform duration-500 shadow-sm">
-        <img class="xl:max-w-6xl" src="/20250705_193525.jpg" alt="">
-        <div class="content bg-white p-2 pt-8 md:p-12 pb-12 lg:max-w-lg w-full lg:absolute top-48 right-5">
-            <div class="flex justify-between font-bold text-sm">
-                <p>Praise Night</p>
-                <p class="text-gray-400">5th July, 2025</p>
-            </div>
-            <h2 class="text-3xl font-semibold mt-4 md:mt-10">Praise Night</h2>
-            <p class="my-3 text-justify font-medium text-gray-700 leading-relaxed">Lorem ipsum dolor sit amet
-                consectetur adipisicing elit. Autem aperiam nulla cupiditate saepe sed quis veritatis minus rem adipisci
-                aliquid.</p>
-            <button class="mt-2 md:mt-5 p-3 px-5 bg-rose text-white font-bold text-sm hover:bg-purple-800">Read
-          More</button>
-        </div>
+<!-- Hero -->
+  <div class="px-4 sm:px-6 lg:px-8">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
+      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
+        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
+    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
+    <p class="mb-0">July 2025</p>
+  </div>
+      </div>
     </div>
-</div>
+  </div>
+  <!-- End Hero -->
 
 
   <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter">
