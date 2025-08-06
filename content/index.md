@@ -394,106 +394,80 @@ actions:
 
 
 
-<!-- Tailwind CSS -->
-<link href="https://cdn.tailwindcss.com" rel="stylesheet">
-<script>
-tailwind.config = {
-  theme: {
-    extend: {
-      animation: {
-        float: 'float 6s ease-in-out infinite',
-        'slide-up': 'slideUp 0.8s ease-out forwards',
-        pulse: 'pulse 2s infinite'
-      },
-      keyframes: {
-        float: {
-          '0%, 100%': { transform: 'translateY(0)' },
-          '50%': { transform: 'translateY(-20px)' }
-        },
-        slideUp: {
-          '0%': { transform: 'translateY(40px)', opacity: '0' },
-          '100%': { transform: 'translateY(0)', opacity: '1' }
-        }
-      },
-      colors: {
-        art: {
-          cream: '#FFF8F0',
-          coral: '#FF6B6B',
-          gold: '#FFD93D',
-          deep: '#1E1E2F'
-        }
-      }
-    }
-  }
-}
-</script>
-
-<!-- Page Body -->
-<div class="bg-art-cream text-art-deep overflow-x-hidden">
-  <!-- Background Shapes -->
-  <div class="fixed inset-0 -z-10 opacity-10">
-    <div class="absolute w-72 h-72 bg-art-coral rounded-full top-1/4 -left-24 animate-float"></div>
-    <div class="absolute w-56 h-56 bg-art-gold rounded-full bottom-1/4 -right-16 animate-float delay-200"></div>
+<section class="flex flex-col lg:h-svh justify-center items-center overflow-scroll">
+ <div class="prose text-gray-500 prose-sm prose-headings:font-normal prose-headings:text-xl">
+  <div>
+   <h1>Animated images on hover</h1>
+   <p class="text-balance">Hover over the images to see the animation.</p>
   </div>
-</div>
-
-
-
-  <!-- Hero Section -->
-  <section class="min-h-screen pt-24 pb-16 px-6 md:px-12 flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto">
-    <div class="lg:w-1/2 animate-slide-up">
-      <h1 class="text-5xl md:text-6xl font-bold font-serif leading-tight mb-6">
-        <span class="block">Ignite Your</span>
-        <span class="block text-art-coral">Artistic Soul</span>
-      </h1>
-      <p class="text-lg text-gray-700 mb-8 max-w-lg">
-        Explore a curated selection of contemporary and classic artwork, connecting collectors and creators in an inspiring online space.
-      </p>
-      <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-        <button class="px-8 py-4 bg-art-coral text-white rounded-lg hover:bg-red-500 transition hover:-translate-y-1">
-          Browse Gallery
-        </button>
-        <button class="px-8 py-4 border border-gray-300 text-art-deep rounded-lg hover:bg-white transition">
-          Meet Artists
-        </button>
-      </div>
-
-  <div class="mt-12 flex space-x-8">
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-art-coral">150+</span>
-          <span class="text-gray-600">Artworks</span>
-        </div>
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-art-coral">30</span>
-          <span class="text-gray-600">Exhibitions</span>
-        </div>
-        <div class="flex flex-col">
-          <span class="text-2xl font-bold text-art-coral">24/7</span>
-          <span class="text-gray-600">Online Viewing</span>
-        </div>
-      </div>
+ </div>
+ <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://www.yankodesign.com/images/design_news/2019/07/desk-setups-that-maximize-productivity-part-2/Desk-Setup_12.jpg');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Immerse yourself in a seamless experience where every touchpoint anticipates your needs. Description one. </p>
+     </div>
     </div>
-
-  <!-- Hero Image -->
-  <div class="lg:w-1/2 relative animate-slide-up delay-200">
-      <div class="relative rounded-2xl overflow-hidden shadow-xl transform rotate-1 hover:rotate-0 transition-transform duration-500">
-        <img src="https://images.unsplash.com/photo-1549880338-65ddcdfd017b" alt="Abstract Art" class="w-full object-cover"/>
-        <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
-      </div>
-
-  <!-- Floating Tags -->
-  <div class="absolute -top-6 -left-6 bg-white p-4 rounded-lg shadow w-40 animate-slide-up delay-300">
-        <h4 class="font-bold text-art-deep">Original Work</h4>
-        <p class="text-sm text-gray-600">Signed by Artist</p>
-      </div>
-      <div class="absolute -bottom-6 -right-6 bg-white p-4 rounded-lg shadow w-40 animate-slide-up delay-400">
-        <h4 class="font-bold text-art-deep">Limited Editions</h4>
-        <p class="text-sm text-gray-600">Only 50 Prints</p>
-      </div>
-      <div class="absolute top-8 right-8 bg-art-gold text-art-deep px-4 py-2 rounded-full animate-pulse">
-        <span class="font-bold">$499</span>
-      </div>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/34/65/b8/3465b890b11571e2c876ae74dc1b3139.jpg');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Engage with a platform where interaction is intuitive, ensuring your journey is fluid and responsive. Description two. </p>
+     </div>
     </div>
-  </section>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/33/d6/54/33d654e8058fdf69e160dcbd2235cdac.jpg');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Discover our commitment to thoughtful design, prioritizing accessibility and user satisfaction. Description three. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/39/b8/01/39b801afe355e623bcb3928b1c1b046d.jpg');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Experience innovation at every step, with forward-thinking solutions designed to enhance your daily interactions. Description four. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/2b/b5/48/2bb548dbf4a4c57381a7b7f736b4930b.jpg');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Join us in embracing sustainability, where design and functionality meet eco-conscious decisions. Description five. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+ </div> <!-- Starts links to tutorial -->
+ <div class="pointer-events-none fixed inset-x-0 bottom-0 sm:flex sm:justify-center p-2">
+  <div class="pointer-events-auto flex w-full max-w-md divide-x divide-neutral-200 rounded-lg bg-white shadow-xl border">
+   <div class="flex w-0 flex-1 items-center p-4">
+    <div class="w-full">
+     <p class="text-sm font-medium text-neutral-900">Tutorial</p>
+     <p class="mt-1 text-sm text-neutral-500">
+      How to creating animated blog cards with Astrojs and Tailwind CSS
+
+     </p>
+     <p class="mt-2 text-xs text-orange-600 underline"> <a href="https://lexingtonthemes.com"> by © Lexington Themes</a> </p>
+    </div>
+   </div>
+   <div class="flex">
+    <div class="flex flex-col divide-y divide-neutral-200">
+     <div class="flex h-0 flex-1"> <a href="https://lexingtonthemes.com/tutorials/how-to-create-animated-blog-cards-with-astrojs-and-tailwind-css/" type="button" class="flex w-full items-center justify-center rounded-none rounded-tr-lg border border-transparent px-4 py-3 text-sm font-medium text-orange-600 hover:text-orange-600 focus:z-10 focus:outline-none focus:ring-2 focus:ring-orange-600">Tutorial</a> </div>
+     <div class="flex h-0 flex-1"> <a href="https://github.com/Lexington-Themes/lexington-tutorials/blob/main/src/pages/animated-blog-cards/index.astro" class="flex w-full items-center justify-center rounded-none rounded-br-lg border border-transparent px-4 py-3 text-sm font-medium text-neutral-700 hover:text-neutral-500 focus:outline-none focus:ring-2 focus:ring-orange-600">Get the code</a> </div>
+    </div>
+   </div>
+  </div>
+ </div> <!-- Ends links to tutorial -->
+</section>
 
 
