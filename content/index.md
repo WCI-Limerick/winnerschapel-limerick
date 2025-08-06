@@ -259,7 +259,7 @@ actions:
   ---
   title: Prophetic Focus
   icon: noto:memo
-  icon-size: 50 
+  icon-size: 70 
   to: https://nuxt.com/docs/api/components.md
   target: _blank
   ---
@@ -270,7 +270,7 @@ actions:
   ---
   title: Winners Satellite Fellowship
   icon: noto:houses
-  icon-size: 50 
+  icon-size: 70 
   to: /wsf
   target: _self
   ---
@@ -281,7 +281,7 @@ actions:
   ---
   title: Kingdom Covenant Care
   icon: noto:wrapped-gift
-  icon-size: 50
+  icon-size: 70
   to: https://nuxt.com/docs/api/utils/dollarfetch.md
   target: _blank
   ---

@@ -36,8 +36,6 @@ Meeting Times
 Date: Every Saturday of the month <br>
 
 Time: 5:00pm – 6:00pm
-
-> unless announced otherwise in the services
 ::
 
 ### Locations
@@ -49,6 +47,7 @@ Join us today at `5pm` in any of the WSF centers at your convenience.
   ---
   title: Dooradoyle, Raheen and Environs
   icon: flat-color-icons:home
+  icon-size: 65
   ---
   ::
 
@@ -56,6 +55,7 @@ Join us today at `5pm` in any of the WSF centers at your convenience.
   ---
   title: City Center
   icon: fxemoji:cityscape
+  icon-size: 65
   ---
   ::
 
@@ -63,6 +63,7 @@ Join us today at `5pm` in any of the WSF centers at your convenience.
   ---
   title: River House, City center
   icon: fluent-emoji-flat:post-office
+  icon-size: 65
   ---
   ::
 
@@ -70,6 +71,7 @@ Join us today at `5pm` in any of the WSF centers at your convenience.
   ---
   title: Newport, Castleconnell and Environs
   icon: flat-color-icons:home
+  icon-size: 65
   ---
   ::
 
@@ -77,6 +79,7 @@ Join us today at `5pm` in any of the WSF centers at your convenience.
   ---
   title: Tipperary, Offaly, Birr and Environs
   icon: flat-color-icons:home
+  icon-size: 65
   ---
   ::
 
@@ -84,6 +87,7 @@ Join us today at `5pm` in any of the WSF centers at your convenience.
   ---
   title: SEE YOU AT WSF BY 5PM TODAY!
   icon: streamline-ultimate-color:like-chat
+  icon-size: 65
   ---
   ::
 ::
