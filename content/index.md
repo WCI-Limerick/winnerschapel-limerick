@@ -29,10 +29,8 @@ actions:
 <span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
- <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full"></div></div>
 
-
-<div class="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
+<div class="max-w-screen-xl mx-auto p-4 sm:p-10 md:p-16">
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5">
 <!-- Card 1 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
