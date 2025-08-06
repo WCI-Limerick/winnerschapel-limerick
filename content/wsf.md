@@ -5,6 +5,22 @@ aside: false
 toc: true
 ---
 
+<body class="flex items-center justify-center min-h-screen bg-gray-900">
+  <div 
+    class="relative w-full h-full bg-cover bg-center flex items-center justify-center p-8 my-8 dui-bg-fixed"
+    style="background-image: url('/colorful-stingrays-pastel-background.jpg');">
+    
+  <div class="p-8 bg-gray-300/40 backdrop-blur-md text-gray-900/90 rounded-xl shadow-lg text-center w-full max-w-full mx-2">
+      <h1 class="text-4xl font-bold mb-4">WSF (House Fellowship)</h1>
+      <p class="text-lg mb-8">For where two or three are gathered together in My name, I am there in the midst of them.</p>
+      <a href="https://github.com/idugeni" target="_blank" rel="noopener noreferrer"
+         class="btn btn-neutral btn-wide">Matt. 18:20.</a>
+    </div>
+    
+  </div>
+</body>
+
+
 ## Creating A Forum For A Caring Christian Fellowship
 
 **Acts 2:46 (King James Version KJV)** <br>
