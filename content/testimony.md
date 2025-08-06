@@ -31,6 +31,7 @@ To document your testimonies, please speak to an usher and they would direct acc
   ---
   title: 13 Years immigration challenge settled in 3 days.
   icon: openmoji:passport-control
+  icon-size: 65
   ---
   In November 2020, I attended a court hearing for my immigration case. Within three days, I received a call that changed my life and that of my daughter. They had granted our residence permit for both of us. Praise God! <br>
   
@@ -41,6 +42,7 @@ To document your testimonies, please speak to an usher and they would direct acc
   ---
   title: Healing via the mystery of the Communion
   icon: twemoji:wine-glass
+  icon-size: 65
   ---
    I partook of the communion, a shot of the anointing oil and rubbed it on my stomach and the pain ceased. Till date I feel no pain in my stomach. I give God all the glory. <br>
    
@@ -51,6 +53,7 @@ To document your testimonies, please speak to an usher and they would direct acc
   ---
   title: Doors of favour via Kingdom advancement engagement!
   icon: emojione-v1:door
+  icon-size: 65
   ---
   As I kept engaging in kingdom advancement endeavours, the doors of favours opened! God gave me another job that is better than the one I lost with international access for my family. <br>
   
