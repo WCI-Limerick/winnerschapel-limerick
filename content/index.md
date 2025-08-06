@@ -38,7 +38,7 @@ actions:
                 <p>Praise Night</p>
                 <p class="text-gray-400">5th July, 2025</p>
             </div>
-            <h2 class="text-3xl font-semibold mt-4 md:mt-10">Warship! My Praise, My Weapon</h2>
+            <h2 class="text-3xl font-semibold mt-4 md:mt-10">Praise Night</h2>
             <p class="my-3 text-justify font-medium text-gray-700 leading-relaxed">Lorem ipsum dolor sit amet
                 consectetur adipisicing elit. Autem aperiam nulla cupiditate saepe sed quis veritatis minus rem adipisci
                 aliquid.</p>
