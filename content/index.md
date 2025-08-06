@@ -1,5 +1,6 @@
 ---
 navigation: false
+fullpage: true
 ---
 
 
