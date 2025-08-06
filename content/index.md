@@ -34,10 +34,10 @@ actions:
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5">
 <!-- Card 1 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/at-the-the-network-tolo-televised-debate-dr-abdullah-abdullah-with-picture-id1179614034?k=6&m=1179614034&s=612x612&w=0&h=WwIX3RMsOQEn5DovD9J3e859CZTdxbHHD3HRyrgU3A8=');">
+      style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">25</span>
           <span class="-mt-3">May</span>
@@ -51,10 +51,10 @@ actions:
     </div>
 <!-- Card 2 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/ashraf-ghani-afghanistans-president-speaks-at-the-council-on-foreign-picture-id850794338?k=6&m=850794338&s=612x612&w=0&h=b_XBw5S38Cioslqr6VL3e36cWQU205IsInqDXZpDOD4=');">
+      style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">10</span>
           <span class="-mt-3">Mar</span>
@@ -68,10 +68,10 @@ actions:
     </div>
 <!-- Card 3 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-arrives-to-the-welcoming-ceremony-the-picture-id694155252?k=6&m=694155252&s=612x612&w=0&h=IIJPetzJL-hAgPkE4hm2wUKvO4YOav8jJp484CgLEUs=');">
+      style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">20</span>
           <span class="-mt-3">Jan</span>
@@ -85,10 +85,10 @@ actions:
     </div>
 <!-- Card 4 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-speaks-during-a-gathering-in-jalalabad-picture-id1205021905?k=6&m=1205021905&s=612x612&w=0&h=nwAH1XuZxF_H4f6LfHv-lgqtZe0h1tVFXfzhpMwFqao=');">
+      style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
       <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">25</span>
           <span class="-mt-3">May</span>
