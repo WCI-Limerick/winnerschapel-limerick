@@ -265,18 +265,61 @@ actions:
     </div>
  
 
-<section class="container p-10 mx-auto">
-      <div class="container mx-auto bg-card p-10 rounded-large">
-          <h2 class="px-4 text-6xl pt-16 pb-4 mb-2 text-black font-medium font-roboto">Widgets</h2>
-          <p class="px-4 text-2xl text-black pb-16 md:pr-10 font-roboto">Widgets for Android phones, foldable devices, and tablets have a new look and feel.</p>
+<!-- Contact Section -->
+<section id="contact" class="py-20 bg-coffee-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-3xl font-bold text-center text-coffee-800 mb-12">Visit Us</h2>
+            
+  <div class="md:flex">
+                <div class="md:w-1/2 mb-10 md:mb-0 md:pr-10">
+                    <div class="bg-white p-8 rounded-lg shadow-lg">
+                        <h3 class="text-2xl font-semibold text-coffee-700 mb-4">Contact Information</h3>
+                        <div class="space-y-4">
+                            <div class="flex items-start">
+                                <i class="fas fa-map-marker-alt text-coffee-500 mt-1 mr-3"></i>
+                                <p>123 Brew Street, Coffeeville, CA 90210</p>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-phone-alt text-coffee-500 mr-3"></i>
+                                <p>(555) 123-4567</p>
+                            </div>
+                            <div class="flex items-center">
+                                <i class="fas fa-envelope text-coffee-500 mr-3"></i>
+                                <p>hello@brewhaven.com</p>
+                            </div>
+                        </div>
+                        
+  <h3 class="text-2xl font-semibold text-coffee-700 mt-8 mb-4">Hours</h3>
+                        <div class="space-y-2">
+                            <div class="flex justify-between">
+                                <span>Monday - Friday</span>
+                                <span>6:00 AM - 8:00 PM</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>Saturday</span>
+                                <span>7:00 AM - 9:00 PM</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span>Sunday</span>
+                                <span>7:00 AM - 6:00 PM</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+  <div class="md:w-1/2">
+                    <div class="h-full w-full rounded-lg overflow-hidden">
+                        <iframe 
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215209121995!2d-73.9878449245251!3d40.74844097138992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1687897923902!5m2!1sen!2sus" 
+                            width="100%" 
+                            height="100%" 
+                            style="border:0; min-height: 400px;" 
+                            allowfullscreen="" 
+                            loading="lazy" 
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </section>
-
-<section class="container p-10 mx-auto">
-      <div class="bg-gray-100 bg-card-b p-6 rounded-large">
-          <h2 class="px-4 text-6xl font-medium pt-16 pb-6 mb-2 font-roboto text-white">All buttons</h2>
-          <p class="px-4 text-2xl text-white pb-16 font-roboto">When choosing the right button for an action, consider the level of emphasis inherent to a button type.</p>
-        </div>
-      </div>
     </section>
