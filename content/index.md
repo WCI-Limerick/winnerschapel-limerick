@@ -344,7 +344,7 @@ actions:
 
 
 
-
+<div class="flex flex-col lg:h-svh justify-center items-center overflow-scroll">
  <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
    <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/34/65/b8/3465b890b11571e2c876ae74dc1b3139.jpg');">
@@ -382,6 +382,7 @@ actions:
     </div>
    </article>
   </div>
+ </div>
  </div> <!-- Starts links to tutorial -->
  
 
