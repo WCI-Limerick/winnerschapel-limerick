@@ -51,7 +51,7 @@ actions:
     </div>
 <!-- Card 2 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
+      style="height: 450px; background-image:url('/20250705_191624.jpg);">
       <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
         <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
