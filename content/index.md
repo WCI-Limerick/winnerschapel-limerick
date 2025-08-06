@@ -26,7 +26,7 @@ actions:
 
 
 #description
-<span class="bg-rose-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
+<span class="bg-gray-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
 
@@ -35,9 +35,9 @@ actions:
 <!-- Card 1 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
       style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">25</span>
           <span class="-mt-3">May</span>
@@ -52,9 +52,9 @@ actions:
 <!-- Card 2 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
       style="height: 450px; background-image:url('/20250705_191624.jpg');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">10</span>
           <span class="-mt-3">Mar</span>
@@ -69,9 +69,9 @@ actions:
 <!-- Card 3 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
       style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">20</span>
           <span class="-mt-3">Jan</span>
@@ -86,9 +86,9 @@ actions:
 <!-- Card 4 -->
     <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
       style="height: 450px; background-image:url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-transparent via-gray-800/20 to-gray-900/30"></div>
       <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Service</a>
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-rose-600 transition">Service</a>
         <div class="text-white font-regular flex flex-col justify-start">
           <span class="text-3xl font-semibold">25</span>
           <span class="-mt-3">May</span>
@@ -103,6 +103,7 @@ actions:
 
   </div>
 </div>
+
 
 
   <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter">
