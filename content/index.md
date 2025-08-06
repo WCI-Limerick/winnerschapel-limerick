@@ -105,11 +105,6 @@ actions:
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
-
   <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter">
     <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
       <div class="absolute h-60 w-60 rounded-2xl border-4 border-rose-600"></div>
@@ -191,14 +186,11 @@ actions:
   <div class="container px-4 mx-auto">
     <div class="sm:text-center">
         <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
-          What is Unique About this Church ?
+          Home of Signs and Wonders
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="text-lg opacity-80 leading-7">
-          <span class="text-rose-600 font-bold">This Church is a home of signs and wonders.</span> <br>
-          Our turn around God has been at work in this commission for over four decades,
-          Surprising every member of this church with unimaginable testimonies as they
-          believe. <br> <span class="text-rose-600 font-bold">If you will endeavour to abide in this church and commit to following every instructions that you receive here in the next three months</span>, the Lord God will bless you openingly as He did to obededom.
+          <span class="text-rose-600 font-bold"></span>
         </p>
       </div>
     </div>
