@@ -32,18 +32,79 @@ actions:
  <div class="relative h-full w-full bg-white"><div class="absolute h-full w-full"></div></div>
 
 
-  <!-- Hero -->
-  <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-100">
-      <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-        <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm bg-saturate-200 shadow-2xl translate-y-16 text-center p-6">
-    <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
-    <p class="mb-0">July 2025</p>
-  </div>
+<div class="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5">
+<!-- Card 1 -->
+    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/at-the-the-network-tolo-televised-debate-dr-abdullah-abdullah-with-picture-id1179614034?k=6&m=1179614034&s=612x612&w=0&h=WwIX3RMsOQEn5DovD9J3e859CZTdxbHHD3HRyrgU3A8=');">
+      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <div class="text-white font-regular flex flex-col justify-start">
+          <span class="text-3xl font-semibold">25</span>
+          <span class="-mt-3">May</span>
+        </div>
       </div>
+      <main class="p-5 z-10">
+        <a href="#" class="text-md font-medium leading-7 text-white">
+          Dr. Abdullah Abdullah's Presidential Election Campaign
+        </a>
+      </main>
     </div>
+<!-- Card 2 -->
+    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/ashraf-ghani-afghanistans-president-speaks-at-the-council-on-foreign-picture-id850794338?k=6&m=850794338&s=612x612&w=0&h=b_XBw5S38Cioslqr6VL3e36cWQU205IsInqDXZpDOD4=');">
+      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <div class="text-white font-regular flex flex-col justify-start">
+          <span class="text-3xl font-semibold">10</span>
+          <span class="-mt-3">Mar</span>
+        </div>
+      </div>
+      <main class="p-5 z-10">
+        <a href="#" class="text-md font-medium leading-7 text-white">
+          Afghanistan's President Ashraf Ghani Speaks At The Council
+        </a>
+      </main>
+    </div>
+<!-- Card 3 -->
+    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-arrives-to-the-welcoming-ceremony-the-picture-id694155252?k=6&m=694155252&s=612x612&w=0&h=IIJPetzJL-hAgPkE4hm2wUKvO4YOav8jJp484CgLEUs=');">
+      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <div class="text-white font-regular flex flex-col justify-start">
+          <span class="text-3xl font-semibold">20</span>
+          <span class="-mt-3">Jan</span>
+        </div>
+      </div>
+      <main class="p-5 z-10">
+        <a href="#" class="text-md font-medium leading-7 text-white">
+          Middle East Participants Gather In Warsaw
+        </a>
+      </main>
+    </div>
+<!-- Card 4 -->
+    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-speaks-during-a-gathering-in-jalalabad-picture-id1205021905?k=6&m=1205021905&s=612x612&w=0&h=nwAH1XuZxF_H4f6LfHv-lgqtZe0h1tVFXfzhpMwFqao=');">
+      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
+      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
+        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
+        <div class="text-white font-regular flex flex-col justify-start">
+          <span class="text-3xl font-semibold">25</span>
+          <span class="-mt-3">May</span>
+        </div>
+      </div>
+      <main class="p-5 z-10">
+        <a href="#" class="text-md font-medium leading-7 text-white">
+          Afghan President Ashraf Ghani Visits Jalalabad
+        </a>
+      </main>
+    </div>
+
   </div>
-  <!-- End Hero -->
+</div>
 
 
 <br>
@@ -395,79 +456,7 @@ actions:
 
 
 
-<div class="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5">
-<!-- Card 1 -->
-    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/at-the-the-network-tolo-televised-debate-dr-abdullah-abdullah-with-picture-id1179614034?k=6&m=1179614034&s=612x612&w=0&h=WwIX3RMsOQEn5DovD9J3e859CZTdxbHHD3HRyrgU3A8=');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
-      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
-        <div class="text-white font-regular flex flex-col justify-start">
-          <span class="text-3xl font-semibold">25</span>
-          <span class="-mt-3">May</span>
-        </div>
-      </div>
-      <main class="p-5 z-10">
-        <a href="#" class="text-md font-medium leading-7 text-white hover:underline">
-          Dr. Abdullah Abdullah's Presidential Election Campaign
-        </a>
-      </main>
-    </div>
-<!-- Card 2 -->
-    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/ashraf-ghani-afghanistans-president-speaks-at-the-council-on-foreign-picture-id850794338?k=6&m=850794338&s=612x612&w=0&h=b_XBw5S38Cioslqr6VL3e36cWQU205IsInqDXZpDOD4=');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
-      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
-        <div class="text-white font-regular flex flex-col justify-start">
-          <span class="text-3xl font-semibold">10</span>
-          <span class="-mt-3">Mar</span>
-        </div>
-      </div>
-      <main class="p-5 z-10">
-        <a href="#" class="text-md font-medium leading-7 text-white hover:underline">
-          Afghanistan's President Ashraf Ghani Speaks At The Council
-        </a>
-      </main>
-    </div>
-<!-- Card 3 -->
-    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-arrives-to-the-welcoming-ceremony-the-picture-id694155252?k=6&m=694155252&s=612x612&w=0&h=IIJPetzJL-hAgPkE4hm2wUKvO4YOav8jJp484CgLEUs=');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
-      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
-        <div class="text-white font-regular flex flex-col justify-start">
-          <span class="text-3xl font-semibold">20</span>
-          <span class="-mt-3">Jan</span>
-        </div>
-      </div>
-      <main class="p-5 z-10">
-        <a href="#" class="text-md font-medium leading-7 text-white hover:underline">
-          Middle East Participants Gather In Warsaw
-        </a>
-      </main>
-    </div>
-<!-- Card 4 -->
-    <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
-      style="height: 450px; background-image:url('https://media.gettyimages.com/photos/afghan-president-ashraf-ghani-speaks-during-a-gathering-in-jalalabad-picture-id1205021905?k=6&m=1205021905&s=612x612&w=0&h=nwAH1XuZxF_H4f6LfHv-lgqtZe0h1tVFXfzhpMwFqao=');">
-      <div class="absolute inset-0 mt-20 bg-gradient-to-b from-transparent to-gray-900"></div>
-      <div class="absolute top-0 left-0 right-0 mx-5 mt-2 flex justify-between items-center">
-        <a href="#" class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition">Politics</a>
-        <div class="text-white font-regular flex flex-col justify-start">
-          <span class="text-3xl font-semibold">25</span>
-          <span class="-mt-3">May</span>
-        </div>
-      </div>
-      <main class="p-5 z-10">
-        <a href="#" class="text-md font-medium leading-7 text-white hover:underline">
-          Afghan President Ashraf Ghani Visits Jalalabad
-        </a>
-      </main>
-    </div>
 
-  </div>
-</div>
 
 
 
