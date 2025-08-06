@@ -139,7 +139,7 @@ fullpage: true
 
 
 
-<div class="flex lg:flex-row flex-col lg:justify-center items-center lg:p-8 p-4 font-sans bg-yellow-50 min-h-screen">
+<div class="flex lg:flex-row flex-col lg:justify-center items-center lg:p-8 p-4 font-sans min-h-screen">
   <div class="lg:w-[23rem] bg-white w-full border-2 lg:border-r-0 border-gray-200 p-5 rounded-2xl lg:rounded-r-none">
     <div class="pb-3 mb-4 border-b border-gray-200">
       <div class="text-xs text-slate-800 mb-2">START</div>
