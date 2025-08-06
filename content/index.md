@@ -234,7 +234,7 @@ actions:
                                             
 
 
-<section class="bg-white">
+<div class="bg-white">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
             <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">Worship with Us</span>
@@ -268,7 +268,7 @@ actions:
             </div>
         </div>
     </div>
-</section>
+</div>
 
 
 
