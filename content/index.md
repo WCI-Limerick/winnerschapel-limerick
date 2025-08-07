@@ -289,7 +289,7 @@ actions:
         </p>
       </div>
       <div class="col-span-12 lg:col-span-6">
-        <img src="https://cdn.easyfrontend.com/pictures/comingsoon/eight.png" alt="" class="h-auto max-w-full" />
+        <img src="/20250705_193525.jpg" alt="" class="h-auto max-w-full" />
       </div>
     </div>
   </div>
