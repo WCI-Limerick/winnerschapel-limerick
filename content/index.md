@@ -301,7 +301,7 @@ actions:
     <div class="bg-[#eff4fd] dark:bg-[#1c293a] rounded-3xl overflow-hidden">
       <div class="grid grid-cols-12">
         <div class="col-span-12 lg:col-span-6 bg-black bg-opacity-10 text-center p-4">
-          <img src="https://cdn.easyfrontend.com/pictures/cta/cta_8.png" alt="" class="max-w-full h-auto" />
+          <img src="/20250705_193525.jpg" alt="" class="max-w-full h-auto" />
         </div>
         <div class="col-span-12 lg:col-span-6">
           <div class="flex items-center h-full py-12 px-6 sm:px-12">
