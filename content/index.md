@@ -330,3 +330,37 @@ actions:
     </div>
   </div>
 </section>
+
+
+<section class="ezy__sheader1 light bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white">
+  <div class="py-14 md:py-24 relative">
+    <svg
+      class="absolute right-[300px] bottom-16 hidden md:block text-gray-100 dark:text-gray-700"
+      width="104"
+      height="104"
+      viewBox="0 0 104 104"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle cx="52" cy="52" r="52" fill="currentColor" />
+    </svg>
+    <svg
+      class="absolute bottom-0 right-0 hidden md:block text-gray-100 dark:text-gray-700"
+      width="242"
+      height="164"
+      viewBox="0 0 242 164"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <circle cx="165.5" cy="165.5" r="150.5" stroke="currentColor" stroke-width="30" />
+    </svg>
+    <div class="container px-4">
+      <div class="grid grid-cols-12">
+        <div class="col-span-12 md:col-span-8">
+          <p class="text-xl opacity-80 mb-4">Home / About Us</p>
+          <h1 class="text-[35px] leading-none md:text-6xl font-bold mb-0">Let's reveal something new!</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
