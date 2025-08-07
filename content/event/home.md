@@ -8,15 +8,7 @@ fullpage: true
 ---
 announcement:
   title: 'Introducing Events'
-  icon: 'lucide:pie-chart'
-  to: /getting-started
-actions:
-  - name: Get Started
-    to: /getting-started
-  - name: GitHub
-    variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt.md
-    leftIcon: 'lucide:github'
+  icon: 'lucide:flower-2'
 ---
 
 #title
@@ -31,7 +23,7 @@ News about past and upcoming events
   ::card
   ---
   img: /WhatsApp Image 2025-08-03 at 21.53.56_f1a88785.jpg
-  to: /blog/v1-1
+  to: /event/mens-hangout
   ---
   #title
   Men's Hangout
