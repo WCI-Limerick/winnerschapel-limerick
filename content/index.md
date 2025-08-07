@@ -266,64 +266,33 @@ actions:
  
 
 <section
-  class="ezy__httpcodes4 light py-48 md:py-80 bg-white dark:bg-[#0b1727] text-[#04004d] dark:text-white relative overflow-hidden z-[1]"
+  class="ezy__comingsoon8 light bg-white dark:bg-[#0b1727] dark:text-white flex items-end pt-24 relative z-[1] overflow-hidden"
 >
-  <!-- svg -->
   <svg
-    class="absolute top-0 right-0 hidden sm:block -z-[1]"
-    width="544"
-    height="495"
-    viewBox="0 0 544 495"
+    class="text-[#e5f4f6] dark:text-[#1E2735] absolute top-0 right-0 hidden lg:block -z-[1]"
+    width="1024"
+    height="539"
+    viewBox="0 0 1024 539"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
-    <rect
-      x="336.426"
-      y="-167.539"
-      width="175"
-      height="526"
-      rx="87.5"
-      transform="rotate(39.7614 336.426 -167.539)"
-      fill="#FFC107"
-    />
-    <rect
-      x="523.426"
-      y="-89.5391"
-      width="175"
-      height="526"
-      rx="87.5"
-      transform="rotate(39.7614 523.426 -89.5391)"
-      fill="#2F80ED"
-    />
-    <rect
-      x="721.426"
-      y="-21.5391"
-      width="175"
-      height="526"
-      rx="87.5"
-      transform="rotate(39.7614 721.426 -21.5391)"
-      fill="#FF774D"
-    />
+    <path d="M0 0H1024V539H539C241.319 539 0 297.681 0 0Z" fill="currentColor" />
   </svg>
 
-  <!-- container -->
-  <div class="container px-4 mx-auto">
-    <div class="grid grid-cols-12 gap-6">
-      <div class="col-span-12 lg:col-span-5 text-center lg:text-start flex flex-col h-full justify-center">
-        <h2 class="text-[80px] leading-none font-bold md:text-[100px] mb-6">404</h2>
-        <p class="text-xl leading-none opacity-80 md:text-[28px]">Something Missing ,Page not found!</p>
-        <div>
-          <a
-            type="button"
-            class="py-3 px-9 text-lg font-medium bg-blue-600 hover:bg-opacity-90 duration-300 rounded text-white mt-6"
-            >Try Again</a
-          >
-        </div>
+  <div class="container px-16 md:px-8 lg:px-28">
+    <div class="grid grid-cols-12">
+      <div class="col-span-12 lg:col-span-5 flex flex-col justify-center text-center lg:text-start pr-12">
+        <h2 class="font-bold text-[32px] md:text-[45px] leading-none mb-6">New Products Coming Soon.</h2>
+        <p class="text-lg opacity-80 mb-12 lg:mb-0">
+          An activity that requires a person's mental or physical effort is work.If a person is trained for a
+          certain type of job, they may have a profession. Typically, a job would be a subset of someone's career.
+        </p>
       </div>
-      <div class="col-span-12 lg:col-span-7">
-        <img src="https://cdn.easyfrontend.com/pictures/httpcodes/four.png" alt="" class="max-w-full h-auto" />
+      <div class="col-span-12 lg:col-span-6">
+        <img src="https://cdn.easyfrontend.com/pictures/comingsoon/eight.png" alt="" class="h-auto max-w-full" />
       </div>
     </div>
   </div>
 </section>
+
 
