@@ -296,3 +296,37 @@ actions:
 </section>
 
 
+<section class="ezy__cta8 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white">
+  <div class="container px-4">
+    <div class="bg-[#eff4fd] dark:bg-[#1c293a] rounded-3xl overflow-hidden">
+      <div class="grid grid-cols-12">
+        <div class="col-span-12 lg:col-span-6 bg-black bg-opacity-10 text-center p-4">
+          <img src="https://cdn.easyfrontend.com/pictures/cta/cta_8.png" alt="" class="max-w-full h-auto" />
+        </div>
+        <div class="col-span-12 lg:col-span-6">
+          <div class="flex items-center h-full py-12 px-6 sm:px-12">
+            <div>
+              <h2 class="text-2xl md:text-[40px] leading-none font-bold mb-6">Join with us for more information</h2>
+              <p class="text-lg opacity-80 mb-12 lg:mr-12">
+                It’s easier to reach your savings goals when you have the right savings account.
+              </p>
+
+  <div>
+                <button
+                  class="px-7 py-3 min-w-[110px] bg-transparent border border-blue-600 hover:text-white hover:bg-blue-600 hover:border-opacity-90 transition mb-3 lg:mb-0 lg:mr-2"
+                >
+                  Learn More
+                </button>
+                <button
+                  class="px-7 py-3 min-w-[110px] bg-blue-600 border border-blue-600 text-white hover:text-white hover:bg-opacity-90 hover:border-opacity-90 transition"
+                >
+                  Quote Now
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
