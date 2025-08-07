@@ -14,6 +14,6 @@ toc: false
         Coming Soon
     </h1>
     <p class="text-white text-lg mb-8">
-        News and pictures of the event. Stay tuned!
+        News and pictures from the event. Stay tuned!
     </p>
 </div>
