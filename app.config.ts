@@ -61,7 +61,7 @@ export default defineAppConfig({
         icon: 'lucide:speech',
       }, {
         title: 'Events',
-        to: '/event/index',
+        to: '/event/home',
         target: '_self',
         showLinkIcon: false,
         description: 'Stay updated with our latest events',
