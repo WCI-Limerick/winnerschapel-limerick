@@ -267,118 +267,59 @@ actions:
  
  
  
- <!-- Main container -->
-  <div class="w-full max-w-6xl mx-auto">
-        <!-- Carousel container -->
-        <div class="carousel-container relative">
-            <!-- Progress bar -->
-            <div class="absolute top-0 left-0 right-0 h-1 bg-white/10 rounded-full overflow-hidden z-20">
-                <div class="progress-bar absolute top-0 left-0 h-full w-1/3 bg-gradient-to-r from-violet-500 to-fuchsia-500"></div>
-            </div>
-<!-- Navigation buttons -->
-            <button class="nav-button absolute left-2 sm:left-4 top-1/2 -translate-y-1/2 w-10 h-10 sm:w-12 sm:h-12 rounded-full flex items-center justify-center z-20 text-white touch-manipulation" onclick="prevSlide()" title="Previous slide">
-                <svg class="w-5 h-5 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
-</svg>
-            </button>
-            
-  <button class="nav-button absolute right-2 sm:right-4 top-1/2 -translate-y-1/2 w-10 h-10 sm:w-12 sm:h-12 rounded-full flex items-center justify-center z-20 text-white touch-manipulation" onclick="nextSlide()" title="Next slide">
-                <svg class="w-5 h-5 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-</svg>
-            </button>
-<!-- Carousel track -->
-            <div class="carousel-track relative h-[400px] sm:h-[500px] md:h-[600px] overflow-hidden">
-                <!-- Carousel items -->
-                <div class="carousel-item active absolute top-0 left-0 w-full h-full">
-                    <div class="w-full h-full p-4 sm:p-8">
-                        <div class="w-full h-full rounded-xl sm:rounded-2xl overflow-hidden relative group">
-                            <img src="https://images.unsplash.com/photo-1515462277126-2dd0c162007a?auto=format&fit=crop&q=80" alt="Geometric art installation" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
-                            <div class="absolute inset-0 bg-gradient-to-br from-violet-500/40 to-purple-500/40 mix-blend-overlay"></div>
-                            <div class="absolute inset-x-0 bottom-0 p-4 sm:p-8 bg-gradient-to-t from-black/80 via-black/40 to-transparent">
-                                <h3 class="text-white text-xl sm:text-2xl md:text-3xl font-bold mb-2 sm:mb-3">Digital Prism</h3>
-                                <p class="text-gray-200 text-sm sm:text-base md:text-lg max-w-2xl">Where geometry meets art in a stunning display of light and form.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-<div class="carousel-item next absolute top-0 left-0 w-full h-full">
-                    <div class="w-full h-full p-4 sm:p-8">
-                        <div class="w-full h-full rounded-xl sm:rounded-2xl overflow-hidden relative group">
-                            <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80" alt="Futuristic tech setup" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
-                            <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/40 to-pink-500/40 mix-blend-overlay"></div>
-                            <div class="absolute inset-x-0 bottom-0 p-4 sm:p-8 bg-gradient-to-t from-black/80 via-black/40 to-transparent">
-                                <h3 class="text-white text-xl sm:text-2xl md:text-3xl font-bold mb-2 sm:mb-3">Tech Haven</h3>
-                                <p class="text-gray-200 text-sm sm:text-base md:text-lg max-w-2xl">Immerse yourself in the cutting edge of technology and innovation.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-  <div class="carousel-item hidden absolute top-0 left-0 w-full h-full">
-                    <div class="w-full h-full p-4 sm:p-8">
-                        <div class="w-full h-full rounded-xl sm:rounded-2xl overflow-hidden relative group">
-                            <img src="https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?auto=format&fit=crop&q=80" alt="Abstract digital art" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
-                            <div class="absolute inset-0 bg-gradient-to-br from-pink-500/40 to-rose-500/40 mix-blend-overlay"></div>
-                            <div class="absolute inset-x-0 bottom-0 p-4 sm:p-8 bg-gradient-to-t from-black/80 via-black/40 to-transparent">
-                                <h3 class="text-white text-xl sm:text-2xl md:text-3xl font-bold mb-2 sm:mb-3">Neural Dreams</h3>
-                                <p class="text-gray-200 text-sm sm:text-base md:text-lg max-w-2xl">AI-generated masterpieces that blur the line between human and machine creativity.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-<!-- Indicators -->
-            <div class="absolute bottom-2 sm:bottom-4 left-1/2 -translate-x-1/2 flex gap-1 sm:gap-2 z-20">
-                <button class="w-8 sm:w-12 h-1 sm:h-1.5 rounded-full bg-white/40 hover:bg-white/60 transition-colors" title="Go to slide 1"></button>
-                <button class="w-8 sm:w-12 h-1 sm:h-1.5 rounded-full bg-white/20 hover:bg-white/60 transition-colors" title="Go to slide 2"></button>
-                <button class="w-8 sm:w-12 h-1 sm:h-1.5 rounded-full bg-white/20 hover:bg-white/60 transition-colors" title="Go to slide 3"></button>
-            </div>
-        </div>
-    </div>
-
-
-
-<!-- Slider -->
-<div data-hs-carousel='{
-    "loadingClasses": "opacity-0",
-    "dotsItemClasses": "hs-carousel-active:bg-blue-700 hs-carousel-active:border-blue-700 size-3 border border-gray-400 rounded-full cursor-pointer dark:border-neutral-600 dark:hs-carousel-active:bg-blue-500 dark:hs-carousel-active:border-blue-500",
-    "isAutoPlay": true
-  }' class="relative">
-  <div class="hs-carousel relative overflow-hidden w-full min-h-96 bg-white rounded-lg">
-    <div class="hs-carousel-body absolute top-0 bottom-0 start-0 flex flex-nowrap transition-transform duration-700 opacity-0">
-      <div class="hs-carousel-slide">
-        <div class="flex justify-center h-full bg-gray-100 p-6 dark:bg-neutral-900">
-          <span class="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">First slide</span>
-        </div>
+<!-- Hero Section -->
+  <section class="min-h-screen pt-24 pb-16 px-6 md:px-12 flex flex-col lg:flex-row items-center justify-between max-w-7xl mx-auto">
+    <div class="lg:w-1/2 animate-slide-up">
+      <h1 class="text-5xl md:text-6xl font-bold font-serif leading-tight mb-6">
+        <span class="block">Ignite Your</span>
+        <span class="block text-art-coral">Artistic Soul</span>
+      </h1>
+      <p class="text-lg text-gray-700 mb-8 max-w-lg">
+        Explore a curated selection of contemporary and classic artwork, connecting collectors and creators in an inspiring online space.
+      </p>
+      <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
+        <button class="px-8 py-4 bg-art-coral text-white rounded-lg hover:bg-red-500 transition hover:-translate-y-1">
+          Browse Gallery
+        </button>
+        <button class="px-8 py-4 border border-gray-300 text-art-deep rounded-lg hover:bg-white transition">
+          Meet Artists
+        </button>
       </div>
-      <div class="hs-carousel-slide">
-        <div class="flex justify-center h-full bg-gray-200 p-6 dark:bg-neutral-800">
-          <span class="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">Second slide</span>
+
+  <div class="mt-12 flex space-x-8">
+        <div class="flex flex-col">
+          <span class="text-2xl font-bold text-art-coral">150+</span>
+          <span class="text-gray-600">Artworks</span>
         </div>
-      </div>
-      <div class="hs-carousel-slide">
-        <div class="flex justify-center h-full bg-gray-300 p-6 dark:bg-neutral-700">
-          <span class="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">Third slide</span>
+        <div class="flex flex-col">
+          <span class="text-2xl font-bold text-art-coral">30</span>
+          <span class="text-gray-600">Exhibitions</span>
+        </div>
+        <div class="flex flex-col">
+          <span class="text-2xl font-bold text-art-coral">24/7</span>
+          <span class="text-gray-600">Online Viewing</span>
         </div>
       </div>
     </div>
-  </div>
 
-  <button type="button" class="hs-carousel-prev hs-carousel-disabled:opacity-50 hs-carousel-disabled:pointer-events-none absolute inset-y-0 start-0 inline-flex justify-center items-center w-11.5 h-full text-gray-800 hover:bg-gray-800/10 focus:outline-hidden focus:bg-gray-800/10 rounded-s-lg dark:text-white dark:hover:bg-white/10 dark:focus:bg-white/10">
-    <span class="text-2xl" aria-hidden="true">
-      <svg class="shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"></path>
-</svg>
-    </span>
-    <span class="sr-only">Previous</span>
-  </button>
-  <button type="button" class="hs-carousel-next hs-carousel-disabled:opacity-50 hs-carousel-disabled:pointer-events-none absolute inset-y-0 end-0 inline-flex justify-center items-center w-11.5 h-full text-gray-800 hover:bg-gray-800/10 focus:outline-hidden focus:bg-gray-800/10 rounded-e-lg dark:text-white dark:hover:bg-white/10 dark:focus:bg-white/10">
-    <span class="sr-only">Next</span>
-    <span class="text-2xl" aria-hidden="true">
-      <svg class="shrink-0 size-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"></path>
-</svg>
-    </span>
-  </button>
+  <!-- Hero Image -->
+  <div class="lg:w-1/2 relative animate-slide-up delay-200">
+      <div class="relative rounded-2xl overflow-hidden shadow-xl transform rotate-1 hover:rotate-0 transition-transform duration-500">
+        <img src="https://images.unsplash.com/photo-1549880338-65ddcdfd017b" alt="Abstract Art" class="w-full object-cover"/>
+        <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+      </div>
 
-  <div class="hs-carousel-pagination flex justify-center absolute bottom-3 start-0 end-0 flex gap-x-2"></div>
-</div>
-<!-- End Slider -->
+  <!-- Floating Tags -->
+  <div class="absolute -top-6 -left-6 bg-white p-4 rounded-lg shadow w-40 animate-slide-up delay-300">
+        <h4 class="font-bold text-art-deep">Original Work</h4>
+        <p class="text-sm text-gray-600">Signed by Artist</p>
+      </div>
+      <div class="absolute -bottom-6 -right-6 bg-white p-4 rounded-lg shadow w-40 animate-slide-up delay-400">
+        <h4 class="font-bold text-art-deep">Limited Editions</h4>
+        <p class="text-sm text-gray-600">Only 50 Prints</p>
+      </div>
+      <div class="absolute top-8 right-8 bg-art-gold text-art-deep px-4 py-2 rounded-full animate-pulse">
+        <span class="font-bold">$499</span>
+      </div>
+    </div>
+  </section>
