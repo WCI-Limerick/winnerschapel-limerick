@@ -32,7 +32,7 @@ actions:
 
 <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-1 -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
@@ -269,30 +269,7 @@ actions:
  
 
 
-<section
-        class="relative w-full min-h-[90vh] flex flex-col items-center justify-center text-center px-6 lg:px-16 py-16 md:py-32">
-        <!-- Background Image -->
-        <div class="absolute inset-0 bg-cover bg-center"
-            style="background-image: url('/20250705_193525.jpg');">
-        </div>
-        <div class="absolute inset-0 bg-black opacity-50"></div>
-<!-- Content -->
-        <div class="relative z-10 text-white max-w-2xl">
-            <h1 class="text-4xl md:text-6xl font-bold leading-tight">
-                Praise Night
-            </h1>
-            <p class="mt-4 text-lg md:text-xl">
-                Discover amazing features and join us today.
-            </p>
-            <div class="mt-6">
-                <a href="#"
-                    class="group px-6 py-3 bg-red-500 hover:bg-red-600 rounded-lg text-lg font-semibold transition inline-flex items-center">
-                    Get Started
-                    <i class="fa-solid fa-arrow-right ml-2 transition-transform group-hover:translate-x-1"></i>
-                </a>
-            </div>
-             </div>
-    </section>
+
 
  <section
         class="relative w-full min-h-[90vh] flex flex-col items-center justify-center text-center px-6 lg:px-16 py-16 md:py-32">
