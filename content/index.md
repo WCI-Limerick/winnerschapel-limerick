@@ -279,7 +279,7 @@ actions:
 <!-- Content -->
         <div class="relative z-10 text-white max-w-2xl">
             <h1 class="text-4xl md:text-6xl font-bold leading-tight">
-                Welcome to Our Platform
+                Praise Night
             </h1>
             <p class="mt-4 text-lg md:text-xl">
                 Discover amazing features and join us today.
@@ -301,3 +301,10 @@ actions:
             style="background-image: url('/20250705_193525.jpg');">
         </div>
         <div class="absolute inset-0 bg-black opacity-50"></div>
+
+
+  <div class="fixed inset-0 -z-10">
+        <div class="absolute inset-0 bg-teal-50"></div>
+        <div class="absolute top-1/4 left-1/4 w-48 h-48 sm:w-96 sm:h-96 bg-violet-500/10 rounded-full filter blur-3xl"></div>
+        <div class="absolute bottom-1/4 right-1/4 w-48 h-48 sm:w-96 sm:h-96 bg-fuchsia-500/10 rounded-full filter blur-3xl"></div>
+    </div>
