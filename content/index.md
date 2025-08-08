@@ -43,20 +43,7 @@ actions:
   </div>
   <!-- End Hero -->
 
-<br>
 
-<div class="carousel-track relative h-[400px] sm:h-[500px] md:h-[600px] overflow-hidden">
-                    <div class="w-full h-full p-4 sm:p-8">
-                        <div class="w-full h-full rounded-xl sm:rounded-2xl overflow-hidden relative group">
-                            <img src="/20250705_193525.jpg" alt="Futuristic tech setup" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
-                            <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/40 to-pink-500/40 mix-blend-overlay"></div>
-                            <div class="absolute inset-x-0 bottom-0 p-4 sm:p-8 bg-gradient-to-t from-black/80 via-black/40 to-transparent">
-                                <h3 class="text-white text-xl sm:text-2xl md:text-3xl font-bold mb-2 sm:mb-3">Tech Haven</h3>
-                                <p class="text-gray-200 text-sm sm:text-base md:text-lg max-w-2xl">Immerse yourself in the cutting edge of technology and innovation.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
   <section class="relative overflow-hidden bg-white py-12 sm:py-16 lg:py-20 filter">
     <div class="absolute h-72 w-72 scale-125 -right-8 -bottom-10">
