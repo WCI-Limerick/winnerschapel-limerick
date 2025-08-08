@@ -30,4 +30,16 @@ fullpage: true
   </div>
 </span>
 
----
+::card-group
+  ::card
+  ---
+  img: /Weeks of harvest (3).png
+  ---
+  ::
+
+  :::card
+  ---
+  img: /Weeks of harvest (4).png
+  ---
+  ::
+::
