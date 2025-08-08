@@ -43,7 +43,7 @@ actions:
   </div>
   <!-- End Hero -->
 
-<div class="carousel-item next absolute top-0 left-0 w-full h-full">
+<div class="carousel-track relative h-[400px] sm:h-[500px] md:h-[600px] overflow-hidden">
                     <div class="w-full h-full p-4 sm:p-8">
                         <div class="w-full h-full rounded-xl sm:rounded-2xl overflow-hidden relative group">
                             <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80" alt="Futuristic tech setup" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
