@@ -195,13 +195,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  title: Prophetic Focus
+  title: Prophetic Focus **August**
   icon: noto:memo
   icon-size: 70 
-  to: https://nuxt.com/docs/api/components.md
+  to: /prophetic-focus
   target: _blank
   ---
-  Explore Nuxt built-in components for pages, layouts, head, and more.
+  Epistle of the Month
   ::
 
   ::card
