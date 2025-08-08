@@ -273,7 +273,7 @@ actions:
         class="relative w-full min-h-[90vh] flex flex-col items-center justify-center text-center px-6 lg:px-16 py-16 md:py-32">
         <!-- Background Image -->
         <div class="absolute inset-0 bg-cover bg-center"
-            style="background-image: url('https://plus.unsplash.com/premium_photo-1695762436987-1cf827e5f1dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGJ1cmdlcmFpfGVufDB8MHwwfHx8MA%3D%3D');">
+            style="background-image: url('/20250705_193525.jpg');">
         </div>
         <div class="absolute inset-0 bg-black opacity-50"></div>
 <!-- Content -->
