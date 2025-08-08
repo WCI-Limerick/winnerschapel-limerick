@@ -32,7 +32,7 @@ export default defineAppConfig({
         light: '/Winners-Logo.png',
         dark: '/Winners-Logo.png',
       },
-      darkModeToggle: false,
+      darkModeToggle: true,
       languageSwitcher: {
         enable: false,
         triggerType: 'icon',
