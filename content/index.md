@@ -264,4 +264,8 @@ actions:
         </div>
     </div>
  
+---
+title: Gallery
+---
+
 <PrismCarousel />
