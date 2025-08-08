@@ -75,7 +75,7 @@ export default defineAppConfig({
         icon: 'lucide:heart',
       }, {
         title: 'Bookstore & Resources',
-        to: '/contact',
+        to: '/books',
         target: '_self',
         showLinkIcon: false,
         description: 'Explore our bookstore and resources',
