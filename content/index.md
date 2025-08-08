@@ -294,4 +294,10 @@ actions:
              </div>
     </section>
 
- 
+ <section
+        class="relative w-full min-h-[90vh] flex flex-col items-center justify-center text-center px-6 lg:px-16 py-16 md:py-32">
+        <!-- Background Image -->
+        <div class="absolute inset-0 bg-cover bg-center"
+            style="background-image: url('/20250705_193525.jpg');">
+        </div>
+        <div class="absolute inset-0 bg-black opacity-50"></div>
