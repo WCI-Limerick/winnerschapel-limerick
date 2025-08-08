@@ -32,7 +32,7 @@ actions:
 
 <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter saturate-1 -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('/20250705_193525.jpg')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl filter -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
