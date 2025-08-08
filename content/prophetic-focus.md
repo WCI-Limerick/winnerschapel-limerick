@@ -37,7 +37,7 @@ fullpage: true
   ---
   ::
 
-  :::card
+  ::card
   ---
   img: /Weeks of harvest (4).png
   ---
