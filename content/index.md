@@ -300,7 +300,7 @@ actions:
         <div class="absolute inset-0 bg-cover bg-center"
             style="background-image: url('/20250705_193525.jpg');">
         </div>
-        <div class="absolute inset-0 bg-black opacity-50"></div>
+        <div class="absolute inset-0 bg-black opacity-95"></div>
 
 
   <div class="fixed inset-0 -z-10">
