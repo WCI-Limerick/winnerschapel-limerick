@@ -43,10 +43,12 @@ actions:
   </div>
   <!-- End Hero -->
 
+<br>
+
 <div class="carousel-track relative h-[400px] sm:h-[500px] md:h-[600px] overflow-hidden">
                     <div class="w-full h-full p-4 sm:p-8">
                         <div class="w-full h-full rounded-xl sm:rounded-2xl overflow-hidden relative group">
-                            <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80" alt="Futuristic tech setup" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                            <img src="/20250705_193525.jpg" alt="Futuristic tech setup" class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" />
                             <div class="absolute inset-0 bg-gradient-to-br from-fuchsia-500/40 to-pink-500/40 mix-blend-overlay"></div>
                             <div class="absolute inset-x-0 bottom-0 p-4 sm:p-8 bg-gradient-to-t from-black/80 via-black/40 to-transparent">
                                 <h3 class="text-white text-xl sm:text-2xl md:text-3xl font-bold mb-2 sm:mb-3">Tech Haven</h3>
