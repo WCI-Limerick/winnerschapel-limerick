@@ -200,7 +200,11 @@ actions:
                 </p>
             </div></div>
 
-
+<div class="relative group cursor-pointer">
+            <div
+                class="absolute -inset-1 bg-gradient-to-r from-red-600 to-violet-600 rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200">
+            </div>
+            
 ::card-group{:cols="3"}
   ::card
   ---
@@ -305,5 +309,35 @@ actions:
  
 
 
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+  <!-- Card 1 -->
+  <div class="relative group cursor-pointer">
+    <!-- Glow -->
+    <div class="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-red-600 via-pink-500 to-violet-600 blur opacity-40 group-hover:opacity-100 transition duration-500"></div>
+    <!-- Card content -->
+    <div class="relative bg-white dark:bg-gray-900 rounded-xl p-6 shadow-lg">
+      <h3 class="text-xl font-bold mb-2">Prophetic Focus August</h3>
+      <p class="text-gray-600 dark:text-gray-300">Epistle of the Month</p>
+    </div>
+  </div>
+
+  <!-- Card 2 -->
+  <div class="relative group cursor-pointer">
+    <div class="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-red-600 via-pink-500 to-violet-600 blur opacity-40 group-hover:opacity-100 transition duration-500"></div>
+    <div class="relative bg-white dark:bg-gray-900 rounded-xl p-6 shadow-lg">
+      <h3 class="text-xl font-bold mb-2">Winners Satellite Fellowship</h3>
+      <p class="text-gray-600 dark:text-gray-300">Creating A Forum For A Caring Christian Fellowship</p>
+    </div>
+  </div>
+
+  <!-- Card 3 -->
+  <div class="relative group cursor-pointer">
+    <div class="absolute -inset-0.5 rounded-xl bg-gradient-to-r from-red-600 via-pink-500 to-violet-600 blur opacity-40 group-hover:opacity-100 transition duration-500"></div>
+    <div class="relative bg-white dark:bg-gray-900 rounded-xl p-6 shadow-lg">
+      <h3 class="text-xl font-bold mb-2">Kingdom Covenant Care</h3>
+      <p class="text-gray-600 dark:text-gray-300">Learn about Nuxt utility functions for navigation, error handling and more.</p>
+    </div>
+  </div>
+</div>
 
   
