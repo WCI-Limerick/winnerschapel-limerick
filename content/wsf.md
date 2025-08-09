@@ -64,8 +64,8 @@ The WSF is set to create a forum for a caring fellowship where every member of t
 
 
 <div class="text-center p-10">
-    <h1 class="font-bold text-4xl mb-4">Locations</h1>
-    <h1 class="text-3xl">Join us today at 5pm in any of the WSF centers at your convenience.</h1>
+    <h1 class="font-bold text-4xl mb-4"></h1>
+    <h1 class="text-3xl">Join us today at 5pm in any of our WSF centers at your convenience.</h1>
 </div>
 
 ::card-group{:cols="3"}

@@ -68,7 +68,7 @@ export default defineAppConfig({
         icon: 'lucide:calendar',
       }, {
         title: 'Giving',
-        to: '/help-centre',
+        to: '/giving',
         target: '_self',
         showLinkIcon: false,
         description: 'Support our mission',
