@@ -39,7 +39,7 @@ Meeting Times
 #content
 Date: Every Saturday of the month <br>
 
-Time: 5:00pm – 6:00pm
+Time: 5:00pm – 6:00pm.
 ::
 
 ::card
