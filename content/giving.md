@@ -38,7 +38,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ---
   title: PayPal
   icon: logos:paypal
-  icon-size: 70 
+  icon-size: 40 
   ---
   ::button-link{right-icon="lucide:arrow-up-right" to="https://www.paypal.me/WCIDublin" target="_blank"}
   PayPal
@@ -49,7 +49,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ---
   title: Cheque
   icon: emojione:bank
-  icon-size: 70
+  icon-size: 40
   ---
   By cheques made payable to **World Mission Agency Ltd**
   ::
@@ -58,7 +58,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ---
   title: Bank Transfer
   icon: logos:google-pay
-  icon-size: 70
+  icon-size: 40
   ---
   (Account Name) **WMA-WCI CLG** <br>
   (Account Number) **IE36AIBK93251592603044**
@@ -80,4 +80,36 @@ SHILOH SACRIFICE
 (NSC) **93 25 15** <br>
 
 (Account Number) **44890608**
+::
+
+
+<div class="text-center p-10">
+    <h1 class="font-bold text-4xl mb-4">Kingdom Care Covenant and</h1>
+    <h1 class="text-3xl">Welfare</h1>
+</div>
+
+
+::card
+---
+img: /kingdom.png
+---
+#title
+Church Food Bank and Welfare Platform
+
+#content
+You can also donate non-perishable food items and welfare items to the Church food bank.
+::
+
+::card
+---
+icon: 'lucide:fold-horizontal'
+icon-size: 70
+horizontal: true
+---
+
+#title
+How to contribute towards the food bank.
+
+#description
+Those who have food items and other welfare items to share are to  drop  it  at  the church  office. None of us shall lack in Jesus’ name 
 ::
