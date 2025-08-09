@@ -87,10 +87,10 @@ actions:
   img: /WhatsApp Image 2025-08-06 at 15.10.51_616fdba5.jpg
   ---
   #title
-  Covenant Day of Marital Breakthroughs
+  Special Healing and Communion Service
 
   #content
-  Join us Sunday 13 July 2025 - 11.30am
+  Join us this Sunday 10 Aug 2025 - 11.30am
   ::
 
 
@@ -99,10 +99,10 @@ actions:
   img: /midweek_communion_1080x1080_centerfit.jpg
   ---
   #title
-  Mid-Week Communion Service
+  MidWeek Communion Service
 
   #content
-  Join us this Wednesday 16 July 2025 - 6.30am
+  Join us this Wednesday - 6.30pm
   ::
 
   ::card
@@ -189,7 +189,7 @@ actions:
   ::card
   ---
   title: Prophetic Focus August
-  icon: lucide:notebook-pen
+  icon: streamline-ultimate-color:bookmarks-document
   icon-size: 40 
   to: /prophetic-focus
   target: _self
@@ -200,7 +200,7 @@ actions:
   ::card
   ---
   title: Winners Satellite Fellowship
-  icon: lucide:sofa
+  icon: streamline-ultimate-color:style-three-pin-home
   icon-size: 40 
   to: /wsf
   target: _self
@@ -211,7 +211,7 @@ actions:
   ::card
   ---
   title: Books of the Month
-  icon: lucide:library-big
+  icon: streamline-ultimate-color:book-open-bookmark
   icon-size: 40
   to: /books
   target: _self
