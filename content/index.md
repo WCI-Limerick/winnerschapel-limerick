@@ -240,11 +240,11 @@ actions:
  
   <body class="flex items-center justify-center min-h-screen bg-gray-900">
     <div class="relative w-full h-full bg-cover bg-center flex items-center justify-center bg-cover bg-center p-8 my-8 dui-bg-fixed"
-        style="background-image: url('https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400');">
+        style="background-image: url('/people-are-jumping-vigorously-vector (1).jpg');">
         <div
-            class="p-8 bg-gray-900 bg-opacity-50 text-white/75 rounded-xl shadow-lg text-center w-full max-w-full mx-2">
+            class="p-8 bg-gray-900 bg-opacity-90 text-white/75 rounded-xl shadow-lg text-center w-full max-w-full mx-2">
             <h1 class="text-4xl font-bold mb-4">Miniseries</h1>
-            <p class="text-lg mb-8">There are various opportunities for you to get involved and be blessed at Winners Chapel International Limerick</p>
+            <p class="text-lg mb-8">There are various opportunities for kids to get involved and be blessed at Winners Chapel International Limerick</p>
             <a href="https://github.com/idugeni" target="_blank" rel="noopener noreferrer"
                 class="btn btn-neutral btn-wide">Our Ministries</a>
         </div>
@@ -273,17 +273,6 @@ actions:
 
   #content
   Our vibrant Teens church holds every Sunday. If you need more information, please contact us. 
-  ::
-
-  ::card
-  ---
-  img: /happy-afroamerican-man-posing-with-friends-1-677x1024.jpg
-  ---
-  #title
-  Youth Alive
-
-  #content
-  Our Youths are burning for the Lord and equipped with relevant skills for the future. Contact us for more information. 
   ::
 ::
 
