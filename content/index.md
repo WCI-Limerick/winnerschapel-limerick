@@ -96,7 +96,7 @@ actions:
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-26 at 21.34.48_8f2c5d88.jpg (1) (2).png
+  img: /WhatsApp Image 2025-07-26 at 21.34.48_8f2c5d88.jpg
   ---
   #title
   Mid-Week Communion Service
@@ -107,7 +107,7 @@ actions:
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-26 at 21.45.14_4bd7007e.jpg
+  img: /ChatGPT Image Aug 9, 2025, 07_11_38 PM.png
   ---
   #title
   Covenant Hour of Prayer
