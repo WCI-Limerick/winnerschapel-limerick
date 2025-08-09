@@ -96,7 +96,7 @@ actions:
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-26 at 21.34.48_8f2c5d88.jpg
+  img: /midweek_communion_1080x1080_centerfit.jpg
   ---
   #title
   Mid-Week Communion Service
