@@ -232,7 +232,7 @@ Recommended books that will help your spiritual growth
   ::team-card
   ---
   name: DOMI Bookstore
-  title: Author of shadcn-docs-nuxt
+  title: Online Bookstore
   links:
     - icon: lucide:book-open-text
       to: https://domionlinestore.org

@@ -82,44 +82,11 @@ export default defineAppConfig({
         icon: 'lucide:book-open',
       }, {
         title: 'Service Units',
-        links: [
-          {
-            icon: 'lucide:church',
-            title: 'Altar Ministers',
-            to: '/docs',
-            target: '_self',
-          },
-          {
-            icon: 'lucide:music-4',
-            title: 'Choir',
-            to: '/docs',
-            target: '_self',
-          },
-          {
-            icon: 'lucide:brush-cleaning',
-            title: 'Sanctuary Keepers',
-            to: '/docs',
-            target: '_self',
-          },
-          {
-            icon: 'lucide:shield',
-            title: 'Ushering',
-            to: '/docs',
-            target: '_self',
-          },
-          {
-            icon: 'lucide:video',
-            title: 'Media',
-            to: '/docs',
-            target: '_self',
-          },
-          {
-            icon: 'lucide:book',
-            title: 'Children’s Church',
-            to: '/docs',
-            target: '_self',
-          },
-        ],
+        to: '/service-units',
+        target: '_self',
+        showLinkIcon: false,
+        description: 'Learn about our service units',
+        icon: 'lucide:users',
       }],
     links: {
       home: {
