@@ -42,36 +42,6 @@ Vacancies exist in all departments
 
 ::tabs{variant="card"}
 
-  ::div{label="Sanctuary Keepers" icon="lucide:sparkles"}
-  ### Sanctuary Keepers
-  Responsible for ensuring the house of God remains clean, orderly, and welcoming for worshippers.
-  ::
-
-  ::div{label="Children's Church" icon="lucide:child"}
-  ### Children's Church
-  Dedicated to nurturing children in the Word of God through engaging, age-appropriate teachings and activities.
-  ::
-
-  ::div{label="Ushering" icon="lucide:handshake"}
-  ### Ushering
-  Guides, assists, and warmly welcomes worshippers, ensuring orderliness and smooth flow during services.
-  ::
-
-  ::div{label="Covenant Squad" icon="lucide:users"}
-  ### Covenant Squad
-  Focused on follow-up, visitation, and ministering to the needs of church members for spiritual growth.
-  ::
-
-  ::div{label="Media/Technical" icon="lucide:video"}
-  ### Media/Technical
-  Manages sound, visuals, and projections to ensure quality worship experiences both onsite and online.
-  ::
-
-::
-
-
-::tabs{variant="card"}
-
   ::div{label="Sanctuary Keepers" icon="lucide:sparkles" icon-color="#facc15"}
   ### Sanctuary Keepers
   Responsible for ensuring the house of God remains clean, orderly, and welcoming for worshippers.
@@ -97,4 +67,29 @@ Vacancies exist in all departments
   Manages sound, visuals, and live streaming to ensure quality worship experiences both onsite and online.
   ::
 
+  ::div{label="Choir" icon="lucide:music" icon-color="#ef4444"}
+  ### Choir
+  Leads the congregation in praise and worship through music, preparing hearts for the Word of God.
+  ::
+
 ::
+
+::card
+---
+icon: lucide:biceps-flexed
+icon-size: 60
+---
+
+#title
+Opportunity for Service
+
+#description
+Join any of the service units in the church
+
+#content
+Kindly pick up a kingdom service application form at the worker’s desk
+
+#footer
+Profitable stewardship
+::
+
