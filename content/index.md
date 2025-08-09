@@ -199,7 +199,7 @@ actions:
   ---
   title: Prophetic Focus August
   icon: lucide:notebook-pen
-  icon-size: 70 
+  icon-size: 50 
   to: /prophetic-focus
   target: _self
   ---
@@ -210,7 +210,7 @@ actions:
   ---
   title: Winners Satellite Fellowship
   icon: lucide:sofa
-  icon-size: 70 
+  icon-size: 50 
   to: /wsf
   target: _self
   ---
@@ -221,7 +221,7 @@ actions:
   ---
   title: Books of the Month
   icon: lucide:library-big
-  icon-size: 70
+  icon-size: 50
   to: /books
   target: _self
   ---
