@@ -204,7 +204,8 @@ actions:
 <div class="relative group cursor-pointer">
             <div
                 class="absolute -inset-1 bg-gradient-to-r from-red-600 to-violet-600 rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200">
-            </div>            
+            </div>
+            
 ::card-group{:cols="3"}
   ::card
   ---
@@ -216,7 +217,6 @@ actions:
   ---
   Epistle of the Month
   ::
- 
 
   ::card
   ---
@@ -241,7 +241,7 @@ actions:
   ::
 ::
 
-</div>
+</div> 
                                        
 
 
@@ -282,32 +282,34 @@ actions:
  
  
  
-
-
-<section
-        class="relative w-full min-h-[90vh] flex flex-col items-center justify-center text-center px-6 lg:px-16 py-16 md:py-32">
-        <!-- Background Image -->
-        <div class="absolute inset-0 bg-cover bg-center"
-            style="background-image: url('https://plus.unsplash.com/premium_photo-1695762436987-1cf827e5f1dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGJ1cmdlcmFpfGVufDB8MHwwfHx8MA%3D%3D');">
+<body class="flex items-center justify-center min-h-screen bg-gray-900">
+    <div class="relative w-full h-full bg-cover bg-center flex items-center justify-center bg-cover bg-center p-8 my-8 dui-bg-fixed"
+        style="background-image: url('https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400');">
+        <div
+            class="p-8 bg-gray-900 bg-opacity-50 text-white/75 rounded-xl shadow-lg text-center w-full max-w-full mx-2">
+            <h1 class="text-4xl font-bold mb-4">Call to Action (CTA)</h1>
+            <p class="text-lg mb-8">Jadilah bagian dari komunitas kami dan nikmati manfaat eksklusif.</p>
+            <a href="https://github.com/idugeni" target="_blank" rel="noopener noreferrer"
+                class="btn btn-neutral btn-wide">Daftar Sekarang</a>
         </div>
-        <div class="absolute inset-0 bg-black opacity-50"></div>
-<!-- Content -->
-        <div class="relative z-10 text-white max-w-2xl">
-            <h1 class="text-4xl md:text-6xl font-bold leading-tight">
-                Welcome to Our Platform
-            </h1>
-            <p class="mt-4 text-lg md:text-xl">
-                Discover amazing features and join us today.
-            </p>
-            <div class="mt-6">
-                <a href="#"
-                    class="group px-6 py-3 bg-red-500 hover:bg-red-600 rounded-lg text-lg font-semibold transition inline-flex items-center">
-                    Get Started
-                    <i class="fa-solid fa-arrow-right ml-2 transition-transform group-hover:translate-x-1"></i>
-                </a>
-            </div>
-             </div>
-    </section>
+    </div>
+</body>
+
+
+<section class="bg-indigo-50 border-y border-indigo-100">
+    <div
+        class="max-w-7xl px-4 sm:px-6 md:px-8 mx-auto lg:flex lg:items-center lg:justify-between lg:px-8 py-12 sm:py-24">
+        <h2 class="text-2xl sm:text-4xl font-bold tracking-tight text-gray-900">Ready to dive in?<br>Start with our Free Plan today.
+        </h2>
+        <div class="mt-6 flex space-x-8 items-center">
+            <a href="#">
+                <button class="inline-flex items-center justify-center px-4 py-2.5 border border-transparent text-sm font-medium rounded-md shadow-sm focus:outline-none ring-2 ring-offset-2 ring-transparent ring-offset-transparent disabled:bg-gray-400 appearance-none text-white bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-white !px-6 !shadow-lg">
+                    <p>Get Started</p>
+                </button>
+            </a>
+        </div>
+    </div>
+</section>
 
  
 
