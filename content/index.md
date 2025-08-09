@@ -166,6 +166,15 @@ actions:
     </div>
    </article>
   </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_191624.jpg');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Join us in embracing sustainability, where design and functionality meet eco-conscious decisions. Description five. </p>
+     </div>
+    </div>
+   </article>
+  </div>
  </div> <!-- Starts links to tutorial -->
 
   
@@ -221,6 +230,7 @@ actions:
 ::
  
 <br>
+<br>
 
 
 <body class="flex items-center justify-center min-h-screen bg-gray-900">
@@ -228,13 +238,13 @@ actions:
          style="background-image: url('/people-are-jumping-vigorously-vector (1).jpg');">
         <!-- Frosted glass effect -->
         <div class="p-8 rounded-xl shadow-lg text-center w-full max-w-full mx-2 
-                    bg-sky-50 backdrop-blur-md">
-            <h1 class="text-4xl font-bold mb-4">Miniseries</h1>
+                    bg-sky-50 backdrop-blur-lg">
+            <h1 class="text-4xl font-bold mb-4"></h1>
             <p class="text-lg mb-8">
                 There are various opportunities for kids to get involved and be blessed at Winners Chapel International Limerick
             </p>
-            <a href="https://github.com/idugeni" target="_blank" rel="noopener noreferrer"
-               class="btn btn-neutral btn-wide">Our Ministries</a>
+            <span
+               class="btn btn-neutral btn-wide"></span>
         </div>
     </div>
 </body>
