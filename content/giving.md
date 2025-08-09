@@ -25,7 +25,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
 
 <div class="text-center p-10">
     <h1 class="font-bold text-4xl mb-4">Ways to Give</h1>
-    <h1 class="text-3xl">Giving Channels</h1>
+    <h1 class="text-3xl"></h1>
 </div>
 
 ::alert{type="danger" icon="lucide:circle-x"}
@@ -60,7 +60,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   icon: logos:google-pay
   icon-size: 70
   ---
-  (Account Name) **WMA-WCI CLG** 
+  (Account Name) **WMA-WCI CLG** <br>
   (Account Number) **IE36AIBK93251592603044**
   ::
 ::
@@ -77,7 +77,7 @@ horizontal: true
 SHILOH SACRIFICE
 
 #description
-- (NSC) **93 25 15**
+(NSC) **93 25 15** <br>
 
-- (Account Number) **44890608**
+(Account Number) **44890608**
 ::
