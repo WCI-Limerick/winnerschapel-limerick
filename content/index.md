@@ -198,7 +198,7 @@ actions:
   ::card
   ---
   title: Prophetic Focus August
-  icon: noto:memo
+  icon: lucide:notebook-pen
   icon-size: 70 
   to: /prophetic-focus
   target: _self
@@ -209,7 +209,7 @@ actions:
   ::card
   ---
   title: Winners Satellite Fellowship
-  icon: noto:houses
+  icon: lucide:sofa
   icon-size: 70 
   to: /wsf
   target: _self
@@ -220,7 +220,7 @@ actions:
   ::card
   ---
   title: Books of the Month
-  icon: emojione-v1:open-book
+  icon: icon: lucide:library-big
   icon-size: 70
   to: /books
   target: _self
