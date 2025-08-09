@@ -31,7 +31,7 @@ Creating A Forum For A Caring Christian Fellowship
 
 ::card
 ---
-img: /wsf.png
+img: /Black and White Simple Photo Bible Study Instagram Post (Flyers) (Presentation).png
 ---
 #title
 Meeting Times

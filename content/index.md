@@ -255,7 +255,7 @@ actions:
 ::card-group
   ::card
   ---
-  img: /kids.webp
+  img: /Entrance (64).webp
   ---
   #title
   Winners Kids
