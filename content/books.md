@@ -55,15 +55,15 @@ Recommended books that will help your spiritual growth
 <!--   ✅ Product card 2 - Starts Here 👇 -->
 <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="#">
-            <img src="https://images.unsplash.com/photo-1651950519238-15835722f8bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mjh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            <img src="/TheHealingBalm__65212.webp"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-                <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-                <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+                <span class="text-gray-400 mr-3 uppercase text-xs">Dr David Oyedepo</span>
+                <p class="text-lg font-bold text-black truncate block capitalize">The Healing Balm</p>
                 <div class="flex items-center">
-                    <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                    <p class="text-lg font-semibold text-black cursor-auto my-3">Church Bookstore</p>
                     <del>
-                        <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
+                        <p class="text-sm text-gray-600 cursor-auto ml-2"></p>
                     </del>
                     <div class="ml-auto"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
                             fill="currentColor" class="bi bi-bag-plus" viewBox="0 0 16 16"><path fill-rule="evenodd"
@@ -78,12 +78,12 @@ Recommended books that will help your spiritual growth
             <img src="https://images.unsplash.com/photo-1651950537598-373e4358d320?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MjV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
-                <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
-                <p class="text-lg font-bold text-black truncate block capitalize">Product Name</p>
+                <span class="text-gray-400 mr-3 uppercase text-xs">Dr David Oyedepo</span>
+                <p class="text-lg font-bold text-black truncate block capitalize">The Miracle Meal</p>
                 <div class="flex items-center">
-                    <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                    <p class="text-lg font-semibold text-black cursor-auto my-3">Church Bookstore</p>
                     <del>
-                        <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
+                        <p class="text-sm text-gray-600 cursor-auto ml-2"></p>
                     </del>
                     <div class="ml-auto"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
                             fill="currentColor" class="bi bi-bag-plus" viewBox="0 0 16 16"><path fill-rule="evenodd"
@@ -97,3 +97,30 @@ Recommended books that will help your spiritual growth
 
 </section>
 
+::team-card-group
+  ::team-card
+  ---
+  avatar: https://www.github.com/ZTL-UwU.png
+  name: Sis. Pamela
+  title: Contact Sis. Pamela
+  ---
+  ::
+
+  ::team-card
+  ---
+  avatar: https://www.github.com/ZTL-UwU.png
+  name: Sis. Florence
+  title: Contact Sis. Florence
+  ---
+  ::
+
+  ::team-card
+  ---
+  name: DOMI Bookstore
+  title: Author of shadcn-docs-nuxt
+  links:
+    - icon: lucide:github
+      to: https://domionlinestore.org
+  ---
+  ::
+::
