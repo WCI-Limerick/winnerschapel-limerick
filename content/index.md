@@ -169,6 +169,37 @@ actions:
  </div> <!-- Starts links to tutorial -->
 
   
+<div class="flex items-center justify-center flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
+  <div class="relative flex flex-col items-start m-1 transition ease-in-out duration-500 delay-150 transform md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0">
+    <article class="mx-auto rounded-3xl overflow-hidden bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative transform duration-500 group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.jpg'); filter: saturate(200%);">
+      <div class="relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] transform duration-500">
+        <div class="group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col">
+          <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500"> Discover the awesome power of God in the lives of His people. </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="relative flex flex-col items-start m-1 transition ease-in-out duration-500 delay-150 transform md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0">
+    <article class="mx-auto rounded-3xl overflow-hidden bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative transform duration-500 group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg'); filter: saturate(200%);">
+      <div class="relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] transform duration-500">
+        <div class="group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col">
+          <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500"> Experience a Word in Season. </p>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="relative flex flex-col items-start m-1 transition ease-in-out duration-500 delay-150 transform md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0">
+    <article class="mx-auto rounded-3xl overflow-hidden bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative transform duration-500 group" style="background-image: url('/20250705_191624.jpg'); filter: saturate(200%);">
+      <div class="relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] transform duration-500">
+        <div class="group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col">
+          <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500"> Join us in as we partake of the wonders that awaits. </p>
+        </div>
+      </div>
+    </article>
+  </div>
+</div>
 
 
 <section class="py-24">
