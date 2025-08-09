@@ -74,11 +74,11 @@ export default defineAppConfig({
         description: 'Support our mission',
         icon: 'lucide:heart',
       }, {
-        title: 'Bookstore & Resources',
+        title: 'Books & Resources',
         to: '/books',
         target: '_self',
         showLinkIcon: false,
-        description: 'Explore our bookstore and resources',
+        description: 'Explore our books and resources',
         icon: 'lucide:book-open',
       }, {
         title: 'Service Units',

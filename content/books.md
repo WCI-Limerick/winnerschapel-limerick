@@ -1,3 +1,26 @@
+---
+navigation: false
+fullpage: true
+---
+
+
+::hero-alt
+---
+announcement:
+  title: 'Introducing Events'
+  icon: 'lucide:flower-2'
+---
+
+#title
+Books and Resources
+
+#description
+Recommended books that will help your spiritual growth
+::
+
+
+
+
 <!-- source: https://github.com/mfg888/Responsive-Tailwind-CSS-Grid/blob/main/index.html -->
 
 <div class="text-center p-10">
