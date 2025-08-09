@@ -31,7 +31,7 @@ Testimony is an acknowledgement of the faithfulness of God and a form of bearing
 ::card-group{:cols="3"}
   ::card
   ---
-  icon: lucide:box
+  icon: fluent-emoji:sunflower
   icon-size: 70
   ---
 
@@ -50,7 +50,7 @@ Testimony is an acknowledgement of the faithfulness of God and a form of bearing
 
   ::card
   ---
-  icon: lucide:box
+  icon: fxemoji:wineglass
   icon-size: 70
   ---
 
@@ -69,7 +69,7 @@ Testimony is an acknowledgement of the faithfulness of God and a form of bearing
 
   ::card
   ---
-  icon: lucide:box
+  icon: emojione:door
   icon-size: 70
   ---
 
