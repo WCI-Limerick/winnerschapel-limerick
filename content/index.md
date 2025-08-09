@@ -220,7 +220,7 @@ actions:
   ::card
   ---
   title: Books of the Month
-  icon: icon: lucide:library-big
+  icon: lucide:library-big
   icon-size: 70
   to: /books
   target: _self
