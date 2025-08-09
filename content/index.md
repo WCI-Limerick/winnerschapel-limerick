@@ -118,6 +118,19 @@ actions:
 ::  
 
 
+<div class="flex items-center justify-center min-h-screen bg-gray-900">
+    <div class="relative w-full h-full bg-cover bg-center flex items-center justify-center bg-cover bg-center p-8 my-8 dui-bg-fixed"
+        style="background-image: url('https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400');">
+        <div
+            class="p-8 bg-gray-900 bg-opacity-50 text-white/75 rounded-xl shadow-lg text-center w-full max-w-full mx-2">
+            <h1 class="text-4xl font-bold mb-4">Call to Action (CTA)</h1>
+            <p class="text-lg mb-8">Jadilah bagian dari komunitas kami dan nikmati manfaat eksklusif.</p>
+            <a href="https://github.com/idugeni" target="_blank" rel="noopener noreferrer"
+                class="btn btn-neutral btn-wide">Daftar Sekarang</a>
+        </div>
+    </div>
+</div>
+
 
 
 <section
@@ -213,7 +226,7 @@ actions:
   icon: noto:memo
   icon-size: 70 
   to: /prophetic-focus
-  target: _blank
+  target: _self
   ---
   Epistle of the Month
   ::
@@ -282,34 +295,7 @@ actions:
  
  
  
-<body class="flex items-center justify-center min-h-screen bg-gray-900">
-    <div class="relative w-full h-full bg-cover bg-center flex items-center justify-center bg-cover bg-center p-8 my-8 dui-bg-fixed"
-        style="background-image: url('https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400');">
-        <div
-            class="p-8 bg-gray-900 bg-opacity-50 text-white/75 rounded-xl shadow-lg text-center w-full max-w-full mx-2">
-            <h1 class="text-4xl font-bold mb-4">Call to Action (CTA)</h1>
-            <p class="text-lg mb-8">Jadilah bagian dari komunitas kami dan nikmati manfaat eksklusif.</p>
-            <a href="https://github.com/idugeni" target="_blank" rel="noopener noreferrer"
-                class="btn btn-neutral btn-wide">Daftar Sekarang</a>
-        </div>
-    </div>
-</body>
 
-
-<section class="bg-indigo-50 border-y border-indigo-100">
-    <div
-        class="max-w-7xl px-4 sm:px-6 md:px-8 mx-auto lg:flex lg:items-center lg:justify-between lg:px-8 py-12 sm:py-24">
-        <h2 class="text-2xl sm:text-4xl font-bold tracking-tight text-gray-900">Ready to dive in?<br>Start with our Free Plan today.
-        </h2>
-        <div class="mt-6 flex space-x-8 items-center">
-            <a href="#">
-                <button class="inline-flex items-center justify-center px-4 py-2.5 border border-transparent text-sm font-medium rounded-md shadow-sm focus:outline-none ring-2 ring-offset-2 ring-transparent ring-offset-transparent disabled:bg-gray-400 appearance-none text-white bg-indigo-600 hover:bg-indigo-700 focus:ring-indigo-500 focus:ring-offset-white !px-6 !shadow-lg">
-                    <p>Get Started</p>
-                </button>
-            </a>
-        </div>
-    </div>
-</section>
 
  
 
