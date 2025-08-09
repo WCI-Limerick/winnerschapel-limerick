@@ -84,7 +84,7 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-07-10 at 11.44.10_ff07ce51.jpg
+  img: /WhatsApp Image 2025-08-06 at 15.10.51_616fdba5.jpg
   ---
   #title
   Covenant Day of Marital Breakthroughs
