@@ -54,7 +54,6 @@ Recommended books that will help your spiritual growth
 
 <!--   ✅ Product card 2 - Starts Here 👇 -->
 <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
-        <a href="#">
             <img src="/TheHealingBalm__65212.webp"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
@@ -74,8 +73,7 @@ Recommended books that will help your spiritual growth
 <!--   ✅ Product card 3 - Starts Here 👇 -->
     
 <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
-        <a href="#">
-            <img src="https://images.unsplash.com/photo-1651950537598-373e4358d320?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MjV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            <img src="/TheMiracleMeal__74946.webp"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
                 <span class="text-gray-400 mr-3 uppercase text-xs">Dr David Oyedepo</span>
@@ -119,7 +117,7 @@ Recommended books that will help your spiritual growth
   name: DOMI Bookstore
   title: Author of shadcn-docs-nuxt
   links:
-    - icon: lucide:github
+    - icon: lucide:book-open-text
       to: https://domionlinestore.org
   ---
   ::

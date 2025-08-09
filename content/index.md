@@ -244,13 +244,13 @@ actions:
 
   ::card
   ---
-  title: Kingdom Covenant Care
-  icon: noto:wrapped-gift
+  title: Books of the Month
+  icon: noto:books
   icon-size: 70
-  to: https://nuxt.com/docs/api/utils/dollarfetch.md
-  target: _blank
+  to: /books
+  target: _self
   ---
-  Learn about Nuxt utility functions for navigation, error handling and more.
+  Books that will Help your Spiritual Growth
   ::
 ::
 
