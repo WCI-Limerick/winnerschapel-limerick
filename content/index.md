@@ -118,7 +118,7 @@ actions:
 ::  
 
 
-<div class="flex items-center justify-center min-h-screen bg-gray-900">
+<body class="flex items-center justify-center min-h-screen bg-gray-900">
     <div class="relative w-full h-full bg-cover bg-center flex items-center justify-center bg-cover bg-center p-8 my-8 dui-bg-fixed"
         style="background-image: url('https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2400');">
         <div
@@ -129,7 +129,7 @@ actions:
                 class="btn btn-neutral btn-wide">Daftar Sekarang</a>
         </div>
     </div>
-</div>
+</body>
 
 
 
