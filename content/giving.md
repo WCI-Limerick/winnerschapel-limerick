@@ -97,7 +97,7 @@ img: /kingdom.png
 Church Food Bank and Welfare Platform
 
 #content
-You can also donate non-perishable food items and welfare items to the Church food bank.
+You can also donate non-perishable food items and welfare items to the Church Food Bank.
 ::
 
 ::card

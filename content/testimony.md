@@ -28,6 +28,18 @@ Testimony is an acknowledgement of the faithfulness of God and a form of bearing
     <h1 class="text-3xl">Luke 17:14</h1>
 </div>
 
+
+::card
+---
+img: /testimony.png
+---
+#title
+Testimony 
+
+#content
+Share your testimony to the glory of God!
+::
+
 ::card-group{:cols="3"}
   ::card
   ---
