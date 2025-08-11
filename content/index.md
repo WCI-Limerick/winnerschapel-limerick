@@ -32,10 +32,6 @@ actions:
 
 <section class="flex flex-col lg:h-svh justify-center items-center overflow-scroll">
  <div class="prose text-gray-500 prose-sm prose-headings:font-normal prose-headings:text-xl">
-  <div>
-   <h1>Animated images on hover</h1>
-   <p class="text-balance">Hover over the images to see the animation.</p>
-  </div>
  </div>
  <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
