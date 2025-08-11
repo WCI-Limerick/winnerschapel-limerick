@@ -32,7 +32,7 @@ actions:
 
 <!-- Hero -->
   <div class="px-4 sm:px-6 lg:px-8">
-    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('https://imgur.com/a/YTHtEHC')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl saturate-200 -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
+    <div class="h-120 md:h-[80dvh] flex flex-col bg-[url('https://jumpshare.com/embed/N6N3A7XiACyJiUPdQWEd')] bg-cover bg-center bg-no-repeat rounded-2xl shadow-2xl saturate-200 -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
       <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
         <div class="absolute left-4 right-4 bottom-4 rounded-xl bg-white backdrop-blur-sm shadow-2xl translate-y-16 text-center p-6">
     <h2 class="text-xl font-large mb-2">Mid-Year Praise Night</h2>
@@ -314,3 +314,4 @@ actions:
 
 <a href='https://postimg.cc/0zNnxq4n' target='_blank'><img src='https://i.postimg.cc/Mp7F76bC/20250705-193525.jpg' border='0' alt='20250705-193525'/></a>
   
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/N6N3A7XiACyJiUPdQWEd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
