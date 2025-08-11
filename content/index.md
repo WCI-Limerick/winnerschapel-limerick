@@ -31,8 +31,6 @@ actions:
 
 
 <section class="flex flex-col lg:h-svh justify-center items-center overflow-scroll">
- <div class="prose text-gray-500 prose-sm prose-headings:font-normal prose-headings:text-xl">
- </div>
  <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
    <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://www.yankodesign.com/images/design_news/2019/07/desk-setups-that-maximize-productivity-part-2/Desk-Setup_12.jpg');">
