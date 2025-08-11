@@ -69,7 +69,6 @@ actions:
    </article>
   </div>
  </div>
-</d>
 
 
 
