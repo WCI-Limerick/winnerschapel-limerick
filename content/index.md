@@ -219,7 +219,7 @@ actions:
    
    <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/about.jpg');">
     <div class="bg-lime relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
-     <div class="bg-black p-8 h-full justify-end flex flex-col">
+     <div class="bg-rose p-8 h-full justify-end flex flex-col">
       <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-orange-500"> 01⏤ Experience </h1>
       <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Crafting an effortless journey with user-first. </p>
      </div>
