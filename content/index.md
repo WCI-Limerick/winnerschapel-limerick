@@ -198,8 +198,8 @@ actions:
             </div></div>
 
 
-<section class="bg-white">
- <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-2 lg:py-6 space-y-20 flex flex-col justify-center lg:h-screen">
+<div class="bg-white">
+ <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-2 lg:py-4 space-y-20 flex flex-col justify-center lg:h-screen">
   <div class="grid grid-cols-1 gap-2 mt-4 lg:mt-8 list-none md:grid-cols-3 w-full" role="list">
    
    <a href="/prophetic-focus" target="_blank" class="block h-full">
@@ -240,9 +240,9 @@ actions:
 
   </div>
  </div>
-</section>
+</div>
 
- 
+
 <br>
 
 
