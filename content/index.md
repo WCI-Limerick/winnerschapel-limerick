@@ -167,7 +167,7 @@ actions:
 
 
   
-<div class="bg-zinc-50 overflow-hidden">
+<div class="bg-white overflow-hidden">
  <div class="max-w-screen-xl 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto py-45 lg:py-45 h-auto flex flex-col justify-center">
   <div class="flex flex-col sm:flex-row mx-auto gap-4">
    <!--- Starts component -->
@@ -213,9 +213,9 @@ actions:
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 <section class="bg-white">
- <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-7 lg:py-22 space-y-20 flex flex-col justify-center lg:h-screen">
+ <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-2 lg:py-6 space-y-20 flex flex-col justify-center lg:h-screen">
   <!-- Starts component -->
-  <div class="grid grid-cols-1 gap-2 mt-12 list-none md:grid-cols-3 lg:mt-24 w-full" role="list">
+  <div class="grid grid-cols-1 gap-2 mt-4 lg:mt-8 list-none md:grid-cols-3 w-full" role="list">
    
    <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/Weeks of harvest (3).png');">
     <div class="bg-lime relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
