@@ -213,7 +213,7 @@ actions:
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 <section class="bg-white">
- <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-12 lg:py-24 space-y-24 flex flex-col justify-center lg:h-screen">
+ <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-10 lg:py-22 space-y-24 flex flex-col justify-center lg:h-screen">
   <!-- Starts component -->
   <div class="grid grid-cols-1 gap-2 mt-12 list-none md:grid-cols-3 lg:mt-24 w-full" role="list">
    
