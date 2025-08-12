@@ -217,10 +217,10 @@ actions:
   <!-- Starts component -->
   <div class="grid grid-cols-1 gap-2 mt-12 list-none md:grid-cols-3 lg:mt-24 w-full" role="list">
    
-   <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/about.jpg');">
+   <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/Weeks of harvest (3).png');">
     <div class="bg-lime relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
      <div class="bg-black p-8 h-full justify-end flex flex-col">
-      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-orange-500"> 01⏤ Experience </h1>
+      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-orange-500"> 01 ⏤ Experience </h1>
       <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Crafting an effortless journey with user-first. </p>
      </div>
     </div>
@@ -235,7 +235,7 @@ actions:
     </div>
    </article>
 
-   <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('https://i.pinimg.com/564x/fa/4f/cf/fa4fcfd2db636f98eb0f2b5aecce0c28.jpg');">
+   <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/Weeks of harvest (4).png');">
     <div class="bg-amber relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
      <div class="bg-black p-8 h-full justify-end flex flex-col">
       <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-cyan-400"> 03⏤ Design </h1>
