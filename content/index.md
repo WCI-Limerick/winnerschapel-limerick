@@ -202,7 +202,7 @@ actions:
  <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto py-2 lg:py-6 space-y-20 flex flex-col justify-center lg:h-screen">
   <div class="grid grid-cols-1 gap-2 mt-4 lg:mt-8 list-none md:grid-cols-3 w-full" role="list">
    
-   <a href="/prophetic-focus.html" target="_blank" class="block h-full">
+   <a href="/prophetic-focus" target="_blank" class="block h-full">
     <article class="h-full flex flex-col shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group" 
              style="background-image: url('/Weeks of harvest (3).png');">
       <div class="bg-lime relative flex-1 group-hover:bg-opacity-0 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
@@ -214,19 +214,19 @@ actions:
     </article>
    </a>
 
-   <a href="/wsf.html" target="_blank" class="block h-full">
+   <a href="/wsf" target="_blank" class="block h-full">
     <article class="h-full flex flex-col shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group" 
              style="background-image: url('/Black and White Simple Photo Bible Study Instagram Post (Flyers) (Presentation).png');">
       <div class="bg-cyan relative flex-1 group-hover:bg-opacity-0 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
        <div class="bg-black p-8 flex-1 justify-end flex flex-col">
-        <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-stone-400">WSF</h1>
+        <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-rose-400">WSF</h1>
         <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500">A Forum For A Caring Christian Fellowship</p>
        </div>
       </div>
     </article>
    </a>
 
-   <a href="/books.html" target="_blank" class="block h-full">
+   <a href="/books" target="_blank" class="block h-full">
     <article class="h-full flex flex-col shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group" 
              style="background-image: url('/Weeks of harvest (4).png');">
       <div class="bg-amber relative flex-1 group-hover:bg-opacity-0 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
@@ -242,45 +242,7 @@ actions:
  </div>
 </section>
 
-
-
-            
-::card-group{:cols="3"}
-  ::card
-  ---
-  title: Prophetic Focus August
-  icon: streamline-ultimate-color:bookmarks-document
-  icon-size: 40 
-  to: /prophetic-focus
-  target: _self
-  ---
-  Epistle of the Month
-  ::
-
-  ::card
-  ---
-  title: Winners Satellite Fellowship
-  icon: streamline-ultimate-color:style-three-pin-home
-  icon-size: 40 
-  to: /wsf
-  target: _self
-  ---
-  Creating A Forum For A Caring Christian Fellowship
-  ::
-
-  ::card
-  ---
-  title: Books of the Month
-  icon: streamline-ultimate-color:book-open-bookmark
-  icon-size: 40
-  to: /books
-  target: _self
-  ---
-  Books that will Help your Spiritual Growth
-  ::
-::
  
-<br>
 <br>
 
 
