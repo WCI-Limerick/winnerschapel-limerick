@@ -167,6 +167,7 @@ actions:
 
 
   
+<div class="filter saturate-200">
 ::card-group
   ::card
   ---
@@ -179,36 +180,8 @@ actions:
   img: /IMG-20240919-WA0012.jpg
   ---
   ::
-
-  ::card
-  ---
-  img: /IMG-20240919-WA0012.jpg
-  ---
-  ::
 ::
-
-::card-group
-  ::card
-  ---
-  img: /IMG-20240919-WA0006.jpg
-  imgClass: "filter saturate-200"
-  ---
-  ::
-
-  ::card
-  ---
-  img: /IMG-20240919-WA0012.jpg
-  imgClass: "filter saturate-200"
-  ---
-  ::
-
-  ::card
-  ---
-  img: /IMG-20240919-WA0012.jpg
-  imgClass: "filter saturate-200"
-  ---
-  ::
-::
+</div>
 
 
 
