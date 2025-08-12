@@ -243,8 +243,6 @@ actions:
 </div>
 
 
-<br>
-
 
 <body class="flex items-center justify-center min-h-screen bg-gray-900">
     <div class="relative w-full h-full bg-cover bg-center flex items-center justify-center p-8 my-8 dui-bg-fixed"
