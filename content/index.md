@@ -220,17 +220,17 @@ actions:
    <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/Weeks of harvest (3).png');">
     <div class="bg-lime relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
      <div class="bg-black p-8 h-full justify-end flex flex-col">
-      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-orange-500"> 01 ⏤ Experience </h1>
-      <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Crafting an effortless journey with user-first. </p>
+      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-orange-500"> Prophetic Focus </h1>
+      <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Epistle for the month of August </p>
      </div>
     </div>
    </article>
 
-   <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('https://i.pinimg.com/564x/3c/c2/6c/3cc26c0140c2f0dc70d8aa48416c41dc.jpg');">
+   <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/Black and White Simple Photo Bible Study Instagram Post (Flyers) (Presentation).png');">
     <div class="bg-cyan relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
      <div class="bg-black p-8 h-full justify-end flex flex-col">
-      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-indigo-400"> 02⏤ Interaction </h1>
-      <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Our platform is designed for simplicity and ease. </p>
+      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-indigo-400"> WSF </h1>
+      <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> A Forum For A Caring Christian Fellowship </p>
      </div>
     </div>
    </article>
@@ -238,8 +238,8 @@ actions:
    <article class="shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group w-full" style="background-image: url('/Weeks of harvest (4).png');">
     <div class="bg-amber relative h-full group-hover:bg-opacity-0 min-h-150 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
      <div class="bg-black p-8 h-full justify-end flex flex-col">
-      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-cyan-400"> 03⏤ Design </h1>
-      <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Our design philosophy centers around the user. </p>
+      <h1 class="text-white mt-2 text-xl mb-5 transform translate-y-20 uppercase group-hover:translate-y-0 duration-300 group-hover:text-cyan-400"> Books </h1>
+      <p class="opacity-0 text-white text-xl group-hover:opacity-80 transform duration-500"> Recommended Books for August </p>
      </div>
     </div>
    </article>
