@@ -169,21 +169,17 @@ actions:
   
 
 ::card-group
-  <div class="filter saturate-200">
   ::card
   ---
   img: /IMG-20240919-WA0006.jpg
   ---
   ::
-  </div>
 
-  <div class="filter saturate-200">
   ::card
   ---
   img: /IMG-20240919-WA0012.jpg
   ---
   ::
-  </div>
 ::
 
 
