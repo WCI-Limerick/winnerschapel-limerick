@@ -168,7 +168,7 @@ actions:
 
   
 <div class="bg-white overflow-hidden">
- <div class="max-w-screen-xl 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto py-45 lg:py-45 h-auto flex flex-col justify-center">
+ <div class="max-w-screen-xl 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto pt-20 pb-6 h-auto flex flex-col justify-center">
   <div class="flex flex-col sm:flex-row mx-auto gap-4">
    <!--- Starts component -->
    <a href="#_">
@@ -195,6 +195,7 @@ actions:
   </div>
  </div>
 </div>
+
 
 
 
