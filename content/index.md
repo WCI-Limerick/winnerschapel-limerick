@@ -33,7 +33,7 @@ actions:
 <section class="flex flex-col lg:h-auto justify-center items-center">
  <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://www.yankodesign.com/images/design_news/2019/07/desk-setups-that-maximize-productivity-part-2/Desk-Setup_12.jpg');">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_191624.webp');">
     <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
      <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
       <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Immerse yourself in a seamless experience where every touchpoint anticipates your needs. Description one. </p>
@@ -42,7 +42,7 @@ actions:
    </article>
   </div>
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/34/65/b8/3465b890b11571e2c876ae74dc1b3139.jpg');">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.webp');">
     <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
      <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
       <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Engage with a platform where interaction is intuitive, ensuring your journey is fluid and responsive. Description two. </p>
@@ -51,7 +51,7 @@ actions:
    </article>
   </div>
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/33/d6/54/33d654e8058fdf69e160dcbd2235cdac.jpg');">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp');">
     <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
      <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
       <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Discover our commitment to thoughtful design, prioritizing accessibility and user satisfaction. Description three. </p>
@@ -60,7 +60,7 @@ actions:
    </article>
   </div>
   <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('https://i.pinimg.com/564x/2b/b5/48/2bb548dbf4a4c57381a7b7f736b4930b.jpg');">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_193525 (1).webp');">
     <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
      <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
       <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Join us in embracing sustainability, where design and functionality meet eco-conscious decisions. Description five. </p>
@@ -167,34 +167,48 @@ actions:
 
 
   
-<div class="bg-white overflow-hidden">
- <div class="max-w-screen-xl 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto pt-39 pb-6 h-auto flex flex-col justify-center">
-  <div class="flex flex-col sm:flex-row mx-auto gap-4">
-   <!--- Starts component -->
-   <a href="#_">
-    <img src="/20250705_191624.webp" 
-         class="rounded-xl rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
-         alt="#_">
-   </a>
-   <a href="#_">
-    <img src="/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.webp" 
-         class="rounded-xl -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
-         alt="#_">
-   </a>
-   <a href="#_">
-    <img src="/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp" 
-         class="rounded-xl rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
-         alt="#_">
-   </a>
-   <a href="#_">
-    <img src="/20250705_193525 (1).webp" 
-         class="rounded-xl -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
-         alt="#_">
-   </a>
-   <!--- Ends component -->
-  </div>
- </div>
-</div>
+::card-group
+  ::card
+  ---
+  img: /IMG-20240919-WA0006.jpg
+  ---
+  ::
+
+  ::card
+  ---
+  img: /IMG-20240919-WA0012.jpg
+  ---
+  ::
+
+  ::card
+  ---
+  img: /IMG-20240919-WA0012.jpg
+  ---
+  ::
+::
+
+::card-group
+  ::card
+  ---
+  img: /IMG-20240919-WA0006.jpg
+  imgClass: "filter saturate-200"
+  ---
+  ::
+
+  ::card
+  ---
+  img: /IMG-20240919-WA0012.jpg
+  imgClass: "filter saturate-200"
+  ---
+  ::
+
+  ::card
+  ---
+  img: /IMG-20240919-WA0012.jpg
+  imgClass: "filter saturate-200"
+  ---
+  ::
+::
 
 
 
