@@ -172,22 +172,22 @@ actions:
   <div class="flex flex-col sm:flex-row mx-auto gap-4">
    <!--- Starts component -->
    <a href="#_">
-    <img src="https://images.unsplash.com/photo-1530035415911-95194de4ebcc?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3" 
+    <img src="/20250705_191624.webp" 
          class="rounded-xl rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
          alt="#_">
    </a>
    <a href="#_">
-    <img src="https://images.unsplash.com/photo-1487180144351-b8472da7d491?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.0.3" 
+    <img src="/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.webp" 
          class="rounded-xl -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
          alt="#_">
    </a>
    <a href="#_">
-    <img src="https://images.unsplash.com/photo-1586996292898-71f4036c4e07?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3" 
+    <img src="/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp" 
          class="rounded-xl rotate-6 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
          alt="#_">
    </a>
    <a href="#_">
-    <img src="https://images.unsplash.com/photo-1522775417749-29284fb89f43?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3" 
+    <img src="/20250705_193525 (1).webp" 
          class="rounded-xl -rotate-12 hover:rotate-0 duration-500 hover:-translate-y-12 h-full w-full object-cover hover:scale-150 transform origin-bottom" 
          alt="#_">
    </a>
