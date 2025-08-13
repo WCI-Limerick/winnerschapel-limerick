@@ -174,7 +174,7 @@ actions:
  <div class="max-w-screen-xl 2xl:max-w-screen-2xl px-8 md:px-12 mx-auto pt-1 pb-1 lg:pt-2 lg:pb-2 space-y-20 flex flex-col justify-center lg:h-screen">
   <div class="grid grid-cols-1 gap-2 mt-4 lg:mt-8 list-none md:grid-cols-3 w-full" role="list">
    
-   <a href="/prophetic-focus" target="_blank" class="block h-full">
+   <a href="/prophetic-focus" target="_self" class="block h-full">
     <article class="h-full flex flex-col shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group" 
              style="background-image: url('/Weeks of harvest (3).png');">
       <div class="bg-lime relative flex-1 group-hover:bg-opacity-0 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
@@ -186,7 +186,7 @@ actions:
     </article>
    </a>
 
-   <a href="/wsf" target="_blank" class="block h-full">
+   <a href="/wsf" target="_self" class="block h-full">
     <article class="h-full flex flex-col shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group" 
              style="background-image: url('/Black and White Simple Photo Bible Study Instagram Post (Flyers) (Presentation).png');">
       <div class="bg-cyan relative flex-1 group-hover:bg-opacity-0 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">
@@ -198,7 +198,7 @@ actions:
     </article>
    </a>
 
-   <a href="/books" target="_blank" class="block h-full">
+   <a href="/books" target="_self" class="block h-full">
     <article class="h-full flex flex-col shadow-xl bg-cover bg-center min-h-150 relative border-8 border-black transform duration-500 hover:-translate-y-12 group" 
              style="background-image: url('/Weeks of harvest (4).png');">
       <div class="bg-amber relative flex-1 group-hover:bg-opacity-0 flex flex-wrap flex-col pt-[30rem] hover:bg-opacity-75 transform duration-300">

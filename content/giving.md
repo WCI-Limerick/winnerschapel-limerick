@@ -24,7 +24,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
 <!-- source: https://github.com/mfg888/Responsive-Tailwind-CSS-Grid/blob/main/index.html -->
 
 <div class="text-center p-10">
-    <h1 class="font-bold text-4xl mb-4">Ways to Give</h1>
+    <h1 class="font-bold text-4xl mb-4">Electronic Channels</h1>
     <h1 class="text-3xl"></h1>
 </div>
 
@@ -57,8 +57,8 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ::card
   ---
   title: Bank Transfer
-  icon: logos:google-pay
-  icon-size: 40
+  icon: logos:google-pay fontisto:apple-pay logos:mastercard
+  icon-size: 20
   ---
   (Account Name) **WMA-WCI CLG** <br>
   (Account Number) **IE36AIBK93251592603044**
@@ -84,8 +84,8 @@ SHILOH SACRIFICE
 
 
 <div class="text-center p-10">
-    <h1 class="font-bold text-4xl mb-4">Kingdom Care Covenant and</h1>
-    <h1 class="text-3xl">Welfare</h1>
+    <h1 class="font-bold text-4xl mb-4">Kingdom Care Covenant</h1>
+    <h1 class="text-3xl"></h1>
 </div>
 
 
