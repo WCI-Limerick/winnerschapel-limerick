@@ -14,6 +14,22 @@ toc: false
 ::card-group{:cols="3"}
   ::card
   ---
+  img: /Gv_BPaLXMAAj1bQ.jpg
+  to: /event/mens-hangout
+  ---
+  #title
+  AYAC
+
+  #description
+  Built to Last
+
+  #footer
+  AUG 19 to AUG 23, 2025
+  ::
+  
+  
+  ::card
+  ---
   img: /back to school (Flyer (A4)).png
   to: /event/mens-hangout
   ---
