@@ -9,6 +9,8 @@ toc: false
     <h1 class="font-bold text-4xl mb-4">August</h1>
     <h1 class="text-3xl"></h1>
 </div>
+
+
 ::card-group{:cols="3"}
   ::card
   ---
