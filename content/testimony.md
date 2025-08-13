@@ -73,7 +73,7 @@ Share your testimony to the glory of God!
   All Glory to God!
 
   #content
-  I partook of the communion, a shot of the anointing oil and rubbed it on my stomach and the pain ceased. Till date I feel no pain in my stomach. I give God all the glory.
+  I took the communion, a shot of the anointing oil and rubbed it on my stomach and the pain ceased. Till date I feel no pain in my stomach. I give God all the glory.
 
   #footer
   Mercy Percy
@@ -89,13 +89,67 @@ Share your testimony to the glory of God!
   Doors of favour via Kingdom advancement engagement!
 
   #description
-  praise and honour to Jesus Christ!
+  Praise and honour to Jesus Christ!
 
   #content
   As I kept engaging in kingdom advancement endeavours, the doors of favours opened! God gave me another job that is better than the one I lost with international access for my family
 
   #footer
   Oladeji Olanrewaju
+  ::
+
+  ::card
+  ---
+  icon: flat-color-icons:library
+  icon-size: 70
+  ---
+
+  #title
+  Come and see what God has done!
+
+  #description
+  I want to return the Glory to Him
+
+  #content
+  God Made a way for my Son and he was offered a place at Cardiff University to study Dentistry. He received his IB Results and God enabled him to exceed the requirements for the offer. We also trusted God for a place for our daughter at a Grammar school.
+
+  #footer
+  Tinuke Joshua
+  ::
+
+  ::card
+  ---
+  icon: vscode-icons:file-type-bolt
+  icon-size: 70
+  ---
+
+  #title
+  Generational Curse Broken
+
+  #description
+  Blood Cancer, Diabetes, Hypertension & Hepatitis Humiliated
+
+  #content
+  In may 2012, the devil struck and I was almost gone, if not for my wife who was around. When we got to the hospital, the doctor said I had cancer of the blood, diabetes, hypertension and hepatitis B. I keyed into Pastor Faith Oyedepo's book, Rescued from Destruction. Now I am whole! I can walk, I sleep well and I drove myself to church! I give praise to God!
+  ::
+
+  ::card
+  ---
+  icon: openmoji:no-smoking
+  icon-size: 70
+  ---
+
+  #title
+  Testimonies Galore!
+
+  #description
+  I thank God for delivering me
+
+  #content
+  In 2010, before I joined this Commission, I used to smoke, drink alcohol and I had been eating in the dream. I started listening to God's word from the mouth of the Bishop, and putting them to work. Lo and behold, God surprised me! He delivered me from smoking and drinking! 
+
+  #footer
+  Tinuke Joshua
   ::
 ::
 
