@@ -9,7 +9,7 @@ fullpage: true
 announcement:
   title: 'Announcements'
   icon: 'openmoji:megaphone'
-  to: /blog/v1-1
+  to: /announcement
 actions:
   - name: I am New!
     to: /new
