@@ -131,6 +131,9 @@ Share your testimony to the glory of God!
 
   #content
   In may 2012, the devil struck and I was almost gone, if not for my wife who was around. When we got to the hospital, the doctor said I had cancer of the blood, diabetes, hypertension and hepatitis B. I keyed into Pastor Faith Oyedepo's book, Rescued from Destruction. Now I am whole! I can walk, I sleep well and I drove myself to church! I give praise to God!
+
+  #footer
+  Anonymity
   ::
 
   ::card
