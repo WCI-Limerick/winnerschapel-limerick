@@ -14,8 +14,7 @@ toc: false
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /Gv_BPaLXMAAj1bQ.jpg
-  to: /event/mens-hangout
+  img: /yac_1414x2000.jpg
   ---
   #title
   AYAC
@@ -31,7 +30,6 @@ toc: false
   ::card
   ---
   img: /back to school (Flyer (A4)).png
-  to: /event/mens-hangout
   ---
   #title
   Back to School
