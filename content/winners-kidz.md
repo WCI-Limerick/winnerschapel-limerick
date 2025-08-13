@@ -109,7 +109,7 @@ Children's Church
 Behold, children are a heritage from the Lord, the fruit of the womb is a reward - Psa. 127:3.
 
 #content
-God bless you richly; We would like to specially welcome you and your child/children to Winners Kidz, the Children‘s Ministry arm of Winners Chapel International, Limerick. <br>
+God bless you richly; We would like to specially welcome you and your child/children to **Winners Kidz**, the Children‘s Ministry arm of Winners Chapel International, Limerick. <br>
 
 We have a strong passion for Children and the desire to see them grow in the knowledge of Christ. We believe that as your children become rooted and grounded here, they would become and remain winners in every area of their lives in Jesus name. The bible says in **2 Timothy 3:15;** <br> 
 
