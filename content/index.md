@@ -268,9 +268,9 @@ actions:
   ::card
   ---
   to: /winners-kidz
-  target: _blank
+  target: _self
   img: /kids.jpg
-  # showLinkIcon: true
+  # showLinkIcon: false
   ---
   #title
   Winners Kids

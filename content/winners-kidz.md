@@ -19,25 +19,8 @@ Train up a child in the way he should go: and when he is old, he will not depart
 ::
 
 
-
-
-<!-- source: https://github.com/mfg888/Responsive-Tailwind-CSS-Grid/blob/main/index.html -->
-
-<div class="text-center p-10">
-    <h1 class="font-bold text-4xl mb-4">Winners Kidz</h1>
-    <h1 class="text-3xl">Luke 17:14</h1>
-</div>
-
-
-
-
-
-
-
-
-
-<section
-  class="ezy__howitworks9 light py-14 md:py-24 bg-white"
+<div
+  class="ezy__howitworks9 light py-2 md:py-4 bg-white"
 >
 
 
@@ -47,7 +30,7 @@ Train up a child in the way he should go: and when he is old, he will not depart
       <div class="col-span-12">
         <div class="text-center">
           <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
-          Children's Church
+          Winners Kidz
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
           <p class="text-[17px] leading-normal opacity-80">
@@ -108,14 +91,15 @@ Train up a child in the way he should go: and when he is old, he will not depart
       <!-- card end's -->
     </div>
   </div>
-</section>
+</div>
 
 
 
 
 ::card
 ---
-icon: lucide:box
+icon: twemoji:teddy-bear
+icon-size: 60
 ---
 
 #title
