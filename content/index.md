@@ -267,6 +267,8 @@ actions:
 ::card-group
   ::card
   ---
+  to: /winners-kidz.md
+  target: _blank
   img: /kids.jpg
   ---
   #title

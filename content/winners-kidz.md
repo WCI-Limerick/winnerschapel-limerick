@@ -1,3 +1,41 @@
+---
+navigation: false
+fullpage: true
+---
+
+
+::hero-alt
+---
+announcement:
+  title: 'Introducing Winners Kidz'
+  icon: 'lucide:flower-2'
+---
+
+#title
+Children's Church
+
+#description
+Train up a child in the way he should go: and when he is old, he will not depart from it. - `Prov 22:6 (KJV)`
+::
+
+
+
+
+<!-- source: https://github.com/mfg888/Responsive-Tailwind-CSS-Grid/blob/main/index.html -->
+
+<div class="text-center p-10">
+    <h1 class="font-bold text-4xl mb-4">Winners Kidz</h1>
+    <h1 class="text-3xl">Luke 17:14</h1>
+</div>
+
+
+
+
+
+
+
+
+
 <section
   class="ezy__howitworks9 light py-14 md:py-24 bg-white"
 >
@@ -71,3 +109,34 @@
     </div>
   </div>
 </section>
+
+
+
+
+::card
+---
+icon: lucide:box
+---
+
+#title
+Children's Church
+
+#description
+Behold, children are a heritage from the Lord, the fruit of the womb is a reward - Psa. 127:3.
+
+#content
+God bless you richly; We would like to specially welcome you and your child/children to Winners Kidz, the Children‘s Ministry arm of Winners Chapel International, Limerick. <br>
+
+We have a strong passion for Children and the desire to see them grow in the knowledge of Christ. We believe that as your children become rooted and grounded here, they would become and remain winners in every area of their lives in Jesus name. The bible says in **2 Timothy 3:15;** <br> 
+
+`And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus`.
+
+We see it as our responsibility to make this scripture a reality by the help of the Holy Spirit within the time we spend with your child/children. The Children‘s church is designed to assist the children with developing a real relationship with God, Jesus Christ and the person of the Holy Spirit by teaching them the word of faith that will deliver them from all oppressions of the devil. <br>
+
+Our main goal as the leaders, teachers, and members of the Winners Kidz team is to reach out to every child with the love of Christ and do all we can to saturate the spirit, soul and body of the children with the word of God so they are equipped with all they would need to face the challenges of life and come out triumphant. <br>
+
+We seek to do so in an age appropriate, exciting and fun filled way which will cause the children to have a thirst, not just for the knowledge of the word of God, but more importantly, for understanding. We believe that it is when the children have understanding that they can begin to walk towards a lifetime of excellence in every area of their lives.
+
+#footer
+WCI Limerick
+::
