@@ -29,47 +29,19 @@ actions:
 <span class="bg-gray-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
+::card-group
+  ::card
+  ---
+  img: /20250705_191624.webp
+  ---
+  ::
 
-<section class="flex flex-col lg:h-auto justify-center items-center">
- <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
-  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_191624.webp');">
-    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
-     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
-      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Immerse yourself in a seamless experience where every touchpoint anticipates your needs. Description one. </p>
-     </div>
-    </div>
-   </article>
-  </div>
-  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.webp');">
-    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
-     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
-      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Engage with a platform where interaction is intuitive, ensuring your journey is fluid and responsive. Description two. </p>
-     </div>
-    </div>
-   </article>
-  </div>
-  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp');">
-    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
-     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
-      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Discover our commitment to thoughtful design, prioritizing accessibility and user satisfaction. Description three. </p>
-     </div>
-    </div>
-   </article>
-  </div>
-  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
-   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_193525 (1).webp');">
-    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
-     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
-      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Join us in embracing sustainability, where design and functionality meet eco-conscious decisions. Description five. </p>
-     </div>
-    </div>
-   </article>
-  </div>
- </div> <!-- Starts links to tutorial -->
-</section>
+  ::card
+  ---
+  img: /WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp
+  ---
+  ::
+::
 
 
 
@@ -168,7 +140,7 @@ actions:
 
   
 
-::card-group
+::card-group{:cols="3"}
   ::card
   ---
   img: /IMG-20240919-WA0006.jpg
@@ -178,6 +150,12 @@ actions:
   ::card
   ---
   img: /IMG-20240919-WA0012.jpg
+  ---
+  ::
+
+  ::card
+  ---
+  img: /20250705_193525 (1).webp
   ---
   ::
 ::
@@ -294,7 +272,7 @@ actions:
 
 
 <div class="bg-white">
-    <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-20 lg:px-8">
+    <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:py-4 lg:px-8">
         <div class="max-w-2xl lg:max-w-4xl mx-auto text-center">
             <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">Worship with Us</span>
         </div>
@@ -333,9 +311,3 @@ actions:
 
 
  
-
-
-
-<a href='https://postimg.cc/0zNnxq4n' target='_blank'><img src='https://i.postimg.cc/Mp7F76bC/20250705-193525.jpg' border='0' alt='20250705-193525'/></a>
-  
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/N6N3A7XiACyJiUPdQWEd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

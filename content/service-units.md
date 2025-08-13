@@ -93,3 +93,43 @@ Kindly pick up a kingdom service application form at the worker’s desk
 Profitable stewardship
 ::
 
+<section class="flex flex-col lg:h-auto justify-center items-center">
+ <div class="flex flex-wrap mx-auto md:flex-nowrap mt-6 border-t pt-12">
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_191624.webp');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Immerse yourself in a seamless experience where every touchpoint anticipates your needs. Description one. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.55_8e3c71a4.webp');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Engage with a platform where interaction is intuitive, ensuring your journey is fluid and responsive. Description two. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Discover our commitment to thoughtful design, prioritizing accessibility and user satisfaction. Description three. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+  <div class="relative flex flex-col items-start m-1 transition  ease-in-out duration-500  delay-150 transform  md:w-96 md:-ml-32 md:hover:-translate-x-32 md:hover:-translate-y-8 shrink-0 ">
+   <article class="mx-auto   rounded-3xl overflow-hidden  bg-cover ring-2 ring-inset ring-white/50 bg-center min-h-150 relative   transform duration-500   group" style="background-image: url('/20250705_193525 (1).webp');">
+    <div class=" relative h-full  group-hover:bg-opacity-0 min-h-150  flex flex-wrap flex-col pt-[30rem]  transform duration-500">
+     <div class=" group-hover:bg-black/30 duration-500 group-hover:backdrop-blur p-8 lg:p-10 h-full justify-end flex flex-col ">
+      <p class="opacity-0 text-white text-sm 2xl:text-lg group-hover:opacity-80 transform duration-500 "> Join us in embracing sustainability, where design and functionality meet eco-conscious decisions. Description five. </p>
+     </div>
+    </div>
+   </article>
+  </div>
+ </div> <!-- Starts links to tutorial -->
+</section>
