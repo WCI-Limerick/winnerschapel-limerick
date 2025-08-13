@@ -267,9 +267,10 @@ actions:
 ::card-group
   ::card
   ---
-  to: /winners-kidz.md
+  to: /winners-kidz
   target: _blank
   img: /kids.jpg
+  # showLinkIcon: true
   ---
   #title
   Winners Kids
