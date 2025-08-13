@@ -57,7 +57,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ::card
   ---
   title: Bank Transfer
-  icon: logos:google-pay fontisto:apple-pay logos:mastercard
+  icon: fa7-brands:cc-visa
   icon-size: 20
   ---
   (Account Name) **WMA-WCI CLG** <br>

@@ -114,7 +114,11 @@ actions:
   Covenant Hour of Prayer
 
   #content
-  Join our Teams link Monday to Saturday - 5.30am
+  Join online Monday to Saturday - 5.30am
+
+  ::button-link{right-icon="lucide:arrow-up-right" to="https://www.paypal.me/WCIDublin" target="_blank"}
+  Join Now
+  ::
   ::
 ::  
 
