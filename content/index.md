@@ -140,7 +140,7 @@ actions:
 
   
 
-::card-group{:cols="3"}
+::card-group
   ::card
   ---
   img: /IMG-20240919-WA0006.jpg
@@ -150,12 +150,6 @@ actions:
   ::card
   ---
   img: /IMG-20240919-WA0012.jpg
-  ---
-  ::
-
-  ::card
-  ---
-  img: /20250705_193525 (1).webp
   ---
   ::
 ::
