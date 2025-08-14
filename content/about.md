@@ -152,7 +152,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
 
 <br>
 
-<section id="pricing" class="py-20 bg-gray-50 dark:bg-gray-900 text-rose-900 dark:text-white">
+<section id="pricing" class="py-20 bg-gray-50 dark:bg-gray-900 text-rose-600 dark:text-white">
     <div class="max-w-5xl mx-auto px-5 sm:px-10">
       <h2 class="text-3xl font-bold mb-10 text-center">The 12 Pillars of our Faith</h2>
       <div class="grid gap-8 md:grid-cols-3">
@@ -169,7 +169,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         </div>
         <!-- Pro Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
-          <span class="absolute top-0 right-0 bg-indigo-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md"></span>
+          <span class="absolute top-0 right-0 bg-white-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md"></span>
           <h3 class="text-xl font-semibold mb-4 text-center">Breakthrough</h3>
           <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
@@ -181,8 +181,8 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         </div>
         <!-- Enterprise Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
-          <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Thanksgiving<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <h3 class="text-xl font-semibold mb-4 text-center">Thanksgiving</h3>
+          <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Success</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Vision</li>
