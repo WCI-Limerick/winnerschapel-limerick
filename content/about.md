@@ -128,7 +128,7 @@ fullpage: true
 
 ::card
 ---
-icon: 'emojione:world-map'
+icon: 'fluent-emoji-flat:scroll'
 icon-size: 70
 ---
 
@@ -156,7 +156,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <!-- Basic Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Foundations of Spiritual Life<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <p class="text-4xl font-bold text-center mb-4">Spiritual Life<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Faith</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>The Word</li>
@@ -168,7 +168,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
           <span class="absolute top-0 right-0 bg-white-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md"></span>
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Empowerments for Abundant Living<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <p class="text-4xl font-bold text-center mb-4">Abundant Living<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prosperity</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prayer</li>
@@ -179,7 +179,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <!-- Enterprise Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Pathways to Kingdom Impact<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <p class="text-4xl font-bold text-center mb-4">Kingdom Impact<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Success</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Vision</li>
