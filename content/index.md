@@ -313,10 +313,7 @@ actions:
                 <span class="text-gray-700 font-bold text-sm">Cookie Policy</span>
             </div>
             <button class="text-gray-500 hover:text-gray-700 focus:outline-none">
-                <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12">
-                    </path>
-                </svg>
+                <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
             </button>
         </div>
         <p class="text-gray-600 text-sm">
