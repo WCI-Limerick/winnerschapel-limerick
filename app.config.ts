@@ -20,7 +20,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     banner: {
-      enable: true,
+      enable: false,
       showClose: false,
       content: 'Recent Men\'s Hangout in [Pictures](/event/mens-hangout)',
       border: true,
