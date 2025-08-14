@@ -111,6 +111,8 @@ fullpage: true
   ::
 ::
 
+<br>
+
 <section
   class="ezy__featured46 light py-4 md:py-4 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
 >
@@ -148,13 +150,24 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
 ::
 
 
-<!-- Pricing Section -->
-  <div id="pricing" class="py-4 bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white">
-    <div class="max-w-5xl mx-auto px-5 sm:px-10">
-      <h2 class="text-3xl font-bold mb-10 text-center">12 Pillars of our Faith</h2>
-      <div class="grid gap-8 md:grid-cols-3">
+<br>
+
+<section
+  class="ezy__featured46 light py-4 md:py-4 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
+>
+  <div class="container px-4 mx-auto">
+    <div class="sm:text-center">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
+          The 12 Pillars of our Faith
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+        <p class="text-lg opacity-80 leading-7">
+          <span class="text-rose-600 font-bold"></span>
+        </p>
+      </div>
+    </div>
         <!-- Basic Plan -->
-        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 flex flex-col">
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
           <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
@@ -165,8 +178,8 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
           </ul>
         </div>
         <!-- Pro Plan -->
-        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
-          <span class="absolute top-0 right-0 bg-indigo-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md">Most Popular</span>
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
+          <span class="absolute top-0 right-0 bg-indigo-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md"></span>
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
           <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
@@ -177,7 +190,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
           </ul>
         </div>
         <!-- Enterprise Plan -->
-        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 flex flex-col">
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
           <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
