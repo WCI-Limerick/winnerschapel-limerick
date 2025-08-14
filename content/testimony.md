@@ -29,17 +29,6 @@ Testimony is an acknowledgement of the faithfulness of God and a form of bearing
 </div>
 
 
-::card
----
-img: /testimony.png
----
-#title
-Testimony 
-
-#content
-Share your testimony to the glory of God!
-::
-
 ::card-group{:cols="3"}
   ::card
   ---
@@ -162,16 +151,26 @@ Share your testimony to the glory of God!
 ---
 icon: 'lucide:fold-horizontal'
 icon-size: 70
-horizontal: true
 ---
 
 #title
 Why we share your testimonies
 
-#description
+#content
 - We share your testimonies with other people on how God turned your situation around. Testimony is an acknowledgement of the faithfulness of God and a form of bearing witness, praise and honour to Jesus Christ.
 
 - We also use it as a way to encourage others, that the same God that intervene in your life can do so for them. Know every time you overcome trials and sufferings in life, that’s an opportunity to share a testimony of how God worked in your life and made you stronger. 
+::
+
+::card
+---
+img: /testimony.png
+---
+#title
+Testimony 
+
+#content
+Share your testimony to the glory of God!
 ::
 
 To document your testimonies, please speak to an usher and they would direct accordingly. God bless you as you share!

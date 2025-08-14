@@ -44,15 +44,14 @@ Time: 5:00pm – 6:00pm.
 
 ::card
 ---
-icon: 'lucide:fold-horizontal'
+icon: 'noto:couch-and-lamp'
 icon-size: 70
-horizontal: true
 ---
 
 #title
 Creating A Forum For A Caring Christian Fellowship
 
-#description
+#content
 The advent of megachurches and the busyness of the times have resulted in a church with faceless members where people are being taught but not being touched. The Church has consequently become a large ocean with drowning members. <br>
 
 The WSF is set to create a forum for a caring fellowship where every member of the Church is adequately cared for. **We are the Church in The Home!** We:

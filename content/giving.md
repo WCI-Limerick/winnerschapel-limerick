@@ -38,7 +38,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ---
   title: PayPal
   icon: logos:paypal
-  icon-size: 40 
+  icon-size: 20 
   ---
   ::button-link{right-icon="lucide:arrow-up-right" to="https://www.paypal.me/WCIDublin" target="_blank"}
   PayPal
@@ -49,7 +49,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
   ---
   title: Cheque
   icon: emojione:bank
-  icon-size: 40
+  icon-size: 20
   ---
   By cheques made payable to **World Mission Agency Ltd**
   ::
@@ -68,15 +68,14 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
 
 ::card
 ---
-icon: 'lucide:fold-horizontal'
+icon: 'emojione:church'
 icon-size: 70
-horizontal: true
 ---
 
 #title
 SHILOH SACRIFICE
 
-#description
+#content
 (NSC) **93 25 15** <br>
 
 (Account Number) **44890608**
@@ -102,14 +101,13 @@ You can also donate non-perishable food items and welfare items to the Church Fo
 
 ::card
 ---
-icon: 'lucide:fold-horizontal'
+icon: 'noto:canned-food'
 icon-size: 70
-horizontal: true
 ---
 
 #title
 How to contribute towards the food bank.
 
-#description
+#content
 Those who have food items and other welfare items to share are to  drop  it  at  the church  office. None of us shall lack in Jesus’ name 
 ::
