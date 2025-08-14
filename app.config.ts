@@ -20,9 +20,16 @@ export default defineAppConfig({
       radius: 0.5,
     },
     banner: {
-      enable: false,
+      enable: true,
       showClose: true,
-      content: 'Recent Men\'s Hangout in [Pictures](/event/mens-hangout)',
+      content: 'We use cookies to enhance your experience. By continuing to visit this site, you agree to our use of cookies.',
+      action: {
+        text: 'Accept',
+        onClick: () => {
+          localStorage.setItem('cookieAccepted', 'true')
+          banner.value = false
+        },
+      },
       border: true,
     },
     header: {
