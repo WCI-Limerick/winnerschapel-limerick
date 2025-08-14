@@ -22,7 +22,7 @@ export default defineAppConfig({
     banner: {
       enable: true,
       showClose: true,
-      content: 'We use cookies to enhance your experience. By continuing to visit this site, you agree to our use of cookies.',
+      content: 'By continuing to visit this site, you agree to our use of cookies.',
       action: {
         text: 'Accept',
         onClick: () => {
