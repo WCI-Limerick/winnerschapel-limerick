@@ -31,19 +31,6 @@ Creating A Forum For A Caring Christian Fellowship
 
 ::card
 ---
-img: /Black and White Simple Photo Bible Study Instagram Post (Flyers) (Presentation).png
----
-#title
-Meeting Times
-
-#content
-Date: Every Saturday of the month <br>
-
-Time: 5:00pm – 6:00pm.
-::
-
-::card
----
 icon: 'noto:couch-and-lamp'
 icon-size: 70
 ---
@@ -61,6 +48,18 @@ The WSF is set to create a forum for a caring fellowship where every member of t
  - Share the love of God together as a family. 
 ::
 
+::card
+---
+img: /Black and White Simple Photo Bible Study Instagram Post (Flyers) (Presentation).png
+---
+#title
+Meeting Times
+
+#content
+Date: Every Saturday of the month <br>
+
+Time: 5:00pm – 6:00pm.
+::
 
 <div class="text-center p-10">
     <h1 class="font-bold text-4xl mb-4"></h1>

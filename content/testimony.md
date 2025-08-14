@@ -145,7 +145,7 @@ Testimony is an acknowledgement of the faithfulness of God and a form of bearing
   ::
 ::
 
----
+
 
 ::card
 ---

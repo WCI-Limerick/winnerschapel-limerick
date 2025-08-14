@@ -69,7 +69,7 @@ So let each one give as he purposes in his heart, not grudgingly or of necessity
 ::card
 ---
 icon: 'emojione:church'
-icon-size: 70
+icon-size: 40
 ---
 
 #title
@@ -102,7 +102,7 @@ You can also donate non-perishable food items and welfare items to the Church Fo
 ::card
 ---
 icon: 'noto:canned-food'
-icon-size: 70
+icon-size: 40
 ---
 
 #title
