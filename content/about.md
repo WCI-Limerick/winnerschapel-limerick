@@ -158,7 +158,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
       <div class="grid gap-8 md:grid-cols-3">
         <!-- Basic Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
-          <h3 class="text-xl font-semibold mb-4 text-center"</h3>
+          <h3 class="text-xl font-semibold mb-4 text-center"></h3>
           <p class="text-4xl font-bold text-center mb-4">Dominion<span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Faith</li>
@@ -170,7 +170,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <!-- Pro Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
           <span class="absolute top-0 right-0 bg-white-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md"></span>
-          <h3 class="text-xl font-semibold mb-4 text-center"</h3>
+          <h3 class="text-xl font-semibold mb-4 text-center"></h3>
           <p class="text-4xl font-bold text-center mb-4">Breakthrough<span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prosperity</li>
