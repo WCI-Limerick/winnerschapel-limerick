@@ -30,12 +30,12 @@ fullpage: true
 </span>
 
 <section
-  class="ezy__featured46 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
+  class="ezy__featured46 light py-4 md:py-4 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
 >
   <div class="container px-4 mx-auto">
     <div class="sm:text-center">
         <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
-          Who is Bishop David Oyedepo
+          Who is Bishop David Oyedepo?
         </span>
         <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
         <p class="text-lg opacity-80 leading-7">
@@ -150,10 +150,85 @@ fullpage: true
   ::
 ::
 
+<section
+  class="ezy__featured46 light py-4 md:py-4 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
+>
+  <div class="container px-4 mx-auto">
+    <div class="sm:text-center">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
+          Mission Statement
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+        <p class="text-lg opacity-80 leading-7">
+          <span class="text-rose-600 font-bold"></span>
+        </p>
+      </div>
+    </div>
 
 
+::card
+---
+icon: 'emojione:world-map'
+icon-size: 70
+---
+
+#title
+Mandate
+
+#content
+Our Mandate for ministry was received from the LORD Himself in an 18-hour vision. During this vision, a commission was received from the LORD to liberate mankind in all facets of human existence, to restore broken destinies, and to bring healing to the sick and brokenhearted. <br>
+
+**This was the Divine mandate received from the LORD:** <br>
+
+`The hour has come to liberate the world from all oppressions of the devil through the preaching of the word of faith, and I am sending you to undertake this task`. <br>
 
 
+Today, testimonies of liberation through our messages, books, tapes, magazines and other periodicals are most humbling. The word of faith is working like fire for the liberation of mankind across the nations. 
+::
+
+
+<!-- Pricing Section -->
+  <div id="pricing" class="py-4 bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white">
+    <div class="max-w-5xl mx-auto px-5 sm:px-10">
+      <h2 class="text-3xl font-bold mb-10 text-center">12 Pillars of our Faith</h2>
+      <div class="grid gap-8 md:grid-cols-3">
+        <!-- Basic Plan -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 flex flex-col">
+          <h3 class="text-xl font-semibold mb-4 text-center"></h3>
+          <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
+          <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Faith</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>The Word</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>The Supernatural</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>The Holy Spirit</li>
+          </ul>
+        </div>
+        <!-- Pro Plan -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
+          <span class="absolute top-0 right-0 bg-indigo-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md">Most Popular</span>
+          <h3 class="text-xl font-semibold mb-4 text-center"></h3>
+          <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300">/</span></p>
+          <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prosperity</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prayer</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Healing</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text4821-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Wisdom</li>
+          </ul>
+        </div>
+        <!-- Enterprise Plan -->
+        <div class="bg-white dark:bg-gray-800 rounded-lg shadow p-6 flex flex-col">
+          <h3 class="text-xl font-semibold mb-4 text-center"></h3>
+          <p class="text-4xl font-bold text-center mb-4"><span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Success</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Vision</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Consecration</li>
+            <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Praise</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
 
