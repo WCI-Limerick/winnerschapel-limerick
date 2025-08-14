@@ -20,10 +20,10 @@ export default defineAppConfig({
       radius: 0.5,
     },
     banner: {
-      enable: false,
+      enable: true,
       showClose: true,
       content: 'Welcome to **Winners Chapel International Limerick**',
-      border: true,
+      border: false,
     },
     header: {
       title: 'WCI Limerick',
@@ -91,7 +91,7 @@ export default defineAppConfig({
     links: {
       home: {
         title: 'Instagram',
-        to: '/',
+        to: 'https://www.instagram.com/winnerschapel_limerick/',
         target: '_blank',
         icon: 'skill-icons:instagram',
       },
