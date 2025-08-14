@@ -29,9 +29,20 @@ fullpage: true
   </div>
 </span>
 
-<div class="items-center text-center p-10">
-    <h1 class="font-bold text-4xl mb-4">Who is Bishop David Oyedepo</h1>
-    <h1 class="text-3xl"></h1>
+<section
+  class="ezy__featured46 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
+>
+  <div class="container px-4 mx-auto">
+    <div class="sm:text-center">
+        <span class="text-3xl font-extrabold text-gray-600 sm:text-4xl xl:text-5xl bg-rose-600 bg-clip-text text-transparent">
+          Who is Bishop David Oyedepo
+        </span>
+        <hr class="mt-4 h-1.5 w-32 border-none bg-rose-600 sm:mx-auto sm:mt-8" />
+        <p class="text-lg opacity-80 leading-7">
+          <span class="text-rose-600 font-bold"></span>
+        </p>
+      </div>
+    </div>
 
 
 ::tabs{variant="line" fontWeight="extrabold"}
@@ -138,7 +149,7 @@ fullpage: true
   Our mission is to **liberate mankind in all facets of human existence**—spiritually, economically, socially, and mentally—through the knowledge of biblical principles.
   ::
 ::
-</div>
+
 
 
 
