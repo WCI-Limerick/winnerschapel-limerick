@@ -22,8 +22,8 @@ export default defineAppConfig({
     banner: {
       enable: true,
       showClose: true,
-      content: 'Welcome to **Winners Chapel International Limerick**',
-      border: false,
+      content: 'Men\'s Hangout [Pictures](/mens-hangout)',
+      border: true,
     },
     header: {
       title: 'WCI Limerick',
