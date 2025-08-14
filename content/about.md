@@ -45,70 +45,67 @@ fullpage: true
     </div>
 
 
-::tabs{variant="line" fontWeight="extrabold"}
 
-  ::tab{label="Bishop David Oyedepo" icon="emojione:church"}
-  ::steps
-  ### :smart-icon{name="streamline-ultimate-color:laptop-user" :size="40"} Early Life & Salvation
+::steps
+### :smart-icon{name="streamline-ultimate-color:laptop-user" :size="40"} Early Life & Salvation
 
-  - Born on **September 27, 1954**
-  - Gave his life to Christ: **February 19, 1969** (Age 15)
-  - Received a call to full-time ministry: **May 2, 1981** (Age 26)
+- Born on **September 27, 1954**
+- Gave his life to Christ: **February 19, 1969** (Age 15)
+- Received a call to full-time ministry: **May 2, 1981** (Age 26)
 
-  ### :smart-icon{name="noto:dove" :size="40"} Ministry Foundation
+### :smart-icon{name="noto:dove" :size="40"} Ministry Foundation
 
-  - Launched weekly fellowship **‘Faith Liberation Hour’**: **May 29, 1981**
-  - Planted the first Church in Kaduna: **December 11, 1983**
-  - Published first 2 books: *The Miracle Seed* and *The Law of Faith*: **April 25, 1985**
-  - Founded **Word of Faith Bible Institute (WOFBI)**: **September 1, 1986**
+- Launched weekly fellowship **‘Faith Liberation Hour’**: **May 29, 1981**
+- Planted the first Church in Kaduna: **December 11, 1983**
+- Published first 2 books: *The Miracle Seed* and *The Law of Faith*: **April 25, 1985**
+- Founded **Word of Faith Bible Institute (WOFBI)**: **September 1, 1986**
 
-  ### :smart-icon{name="noto:church" :size="40"} Expansion & Establishments
+### :smart-icon{name="noto:church" :size="40"} Expansion & Establishments
 
-  - Began church planting in Northern Nigeria: **May 1987**
-  - Acquired 13-acre Garden of Faith property in Kaduna: **September 1989**
-  - Moved to Lagos on divine instruction: **September 24, 1989**
-  - Founded **Dominion Publishing House**: **July 1992**
+- Began church planting in Northern Nigeria: **May 1987**
+- Acquired 13-acre Garden of Faith property in Kaduna: **September 1989**
+- Moved to Lagos on divine instruction: **September 24, 1989**
+- Founded **Dominion Publishing House**: **July 1992**
 
-  ### :smart-icon{name="emojione:globe-showing-europe-africa" :size="40"} Growth & Global Mandate
+### :smart-icon{name="emojione:globe-showing-europe-africa" :size="40"} Growth & Global Mandate
 
-  - Revival grew Lagos church from ~3,500 to 50,000: **1994–1999**
-  - Launched *Mission to Africa*, now in 41+ nations: **January 1994**
-  - Acquired first mission aircraft: **September 18, 1996**
-  - Purchased 530-acre **Canaanland** in Ota: **May 1998**
+- Revival grew Lagos church from ~3,500 to 50,000: **1994–1999**
+- Launched *Mission to Africa*, now in 41+ nations: **January 1994**
+- Acquired first mission aircraft: **September 18, 1996**
+- Purchased 530-acre **Canaanland** in Ota: **May 1998**
 
-  ### :smart-icon{name="emojione:church" :size="40"} Faith Tabernacle & Shiloh
+### :smart-icon{name="emojione:church" :size="40"} Faith Tabernacle & Shiloh
 
-  - Built and dedicated 50,000-seat **Faith Tabernacle** in under 12 months: **Sept. 1998 – Sept. 1999**
-  - Started annual global convocation **Shiloh**: **1999**
+- Built and dedicated 50,000-seat **Faith Tabernacle** in under 12 months: **Sept. 1998 – Sept. 1999**
+- Started annual global convocation **Shiloh**: **1999**
 
-  ### :smart-icon{name="openmoji:megaphone" :size="40"} Worldwide Outreach
+### :smart-icon{name="openmoji:megaphone" :size="40"} Worldwide Outreach
 
-  - Launched *Mission to the World* (Europe, Americas, Asia, Australia, Middle East): **August 2000**
-  - Founded **Covenant University**: **October 2002**
-  - Founded **Landmark University**: **March 2011**
+- Launched *Mission to the World* (Europe, Americas, Asia, Australia, Middle East): **August 2000**
+- Founded **Covenant University**: **October 2002**
+- Founded **Landmark University**: **March 2011**
 
-  ### :smart-icon{name="fluent-emoji:potted-plant" :size="40"} Explosive Growth & Church Planting
+### :smart-icon{name="fluent-emoji:potted-plant" :size="40"} Explosive Growth & Church Planting
 
-  - Church doubled twice in 6 months: **May – Oct. 2015**
-  - Planted over **5,000 churches** in Nigeria: **2019**
-  - Planted over **10,000 churches in Nigeria** + **1,200+ globally** despite COVID lockdowns: **2020**
+- Church doubled twice in 6 months: **May – Oct. 2015**
+- Planted over **5,000 churches** in Nigeria: **2019**
+- Planted over **10,000 churches in Nigeria** + **1,200+ globally** despite COVID lockdowns: **2020**
 
-  ### :smart-icon{name="noto:houses" :size="40"} Home Cell Multiplication
+### :smart-icon{name="noto:houses" :size="40"} Home Cell Multiplication
 
-  - Replicated over **21,000 new home cells** at Faith Tabernacle in one year: **2021**
+- Replicated over **21,000 new home cells** at Faith Tabernacle in one year: **2021**
 
-  ### :smart-icon{name="noto-v1:world-map" :size="40"} Further Global Expansion
+### :smart-icon{name="noto-v1:world-map" :size="40"} Further Global Expansion
 
-  - Churches planted in **80 more nations across 4 continents**: **2022**
+- Churches planted in **80 more nations across 4 continents**: **2022**
 
-  ### :smart-icon{name="noto-v1:stadium" :size="40"} The Ark Project
+### :smart-icon{name="noto-v1:stadium" :size="40"} The Ark Project
 
-  - Construction of **100,000-seat stadium sanctuary** began: **March 25, 2021** – *ongoing with speed and divine backing*
+- Construction of **100,000-seat stadium sanctuary** began: **March 25, 2021** – *ongoing with speed and divine backing*
 
-  ::alert{type="secondary" icon="emojione:light-bulb"}
+::alert{type="secondary" icon="emojione:light-bulb"}
   Every step above represents a divine milestone in the life and ministry of God's servant, marked by obedience, faith, and supernatural speed.
-  ::
-  ::
+::
 ::
 
 <br>
@@ -159,7 +156,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <!-- Basic Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Dominion<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <p class="text-4xl font-bold text-center mb-4">Foundations of Spiritual Life<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Faith</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>The Word</li>
@@ -171,7 +168,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col border-2 border-rose-600 dark:border-rose-400 relative">
           <span class="absolute top-0 right-0 bg-white-600 text-white text-sm px-3 py-1 rounded-bl-md rounded-tr-md"></span>
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Breakthrough<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <p class="text-4xl font-bold text-center mb-4">Empowerments for Abundant Living<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prosperity</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Prayer</li>
@@ -182,7 +179,7 @@ Today, testimonies of liberation through our messages, books, tapes, magazines a
         <!-- Enterprise Plan -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 flex flex-col">
           <h3 class="text-xl font-semibold mb-4 text-center"></h3>
-          <p class="text-4xl font-bold text-center mb-4">Thanksgiving<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
+          <p class="text-4xl font-bold text-center mb-4">Pathways to Kingdom Impact<span class="text-lg font-normal text-gray-700 dark:text-gray-300"></span></p>
           <ul class="text-gray-700 dark:text-gray-300 mb-6 flex-1">
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Success</li>
             <li class="mb-2 flex items-center"><svg class="w-5 h-5 mr-2 text-rose-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Vision</li>
