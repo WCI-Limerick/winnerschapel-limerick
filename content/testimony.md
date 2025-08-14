@@ -152,7 +152,7 @@ Share your testimony to the glory of God!
   In 2010, before I joined this Commission, I used to smoke, drink alcohol and I had been eating in the dream. I started listening to God's word from the mouth of the Bishop, and putting them to work. Lo and behold, God surprised me! He delivered me from smoking and drinking! 
 
   #footer
-  Tinuke Joshua
+  Ayo. A
   ::
 ::
 
