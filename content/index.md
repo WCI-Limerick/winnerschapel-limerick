@@ -85,13 +85,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-08-06 at 15.10.51_616fdba5.jpg
+  img: /WhatsApp Image 2025-08-14 at 07.21.14_90b00027.jpg
   ---
   #title
-  Special Healing and Communion Service
+  Covenant Day of Rescue
 
   #content
-  Join us this Sunday 10 Aug 2025 - 11.30am
+  Join us this Sunday 17 Aug 2025 - 11.30am
   ::
 
 
@@ -296,7 +296,7 @@ actions:
                         <div class="border-t border-gray-200 px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Contact</h3>
                             <p class="mt-1 text-gray-600">Email: info@example.com</p>
-                            <p class="mt-1 text-gray-600">Phone: +1 23494 34993</p>
+                            <p class="mt-1 text-gray-600">Phone: +353872685434</p>
                         </div>
                     </div>
                 </div>
