@@ -1,23 +1,22 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
+
   extends: ['shadcn-docs-nuxt'],
 
-  // Auto-import Vue components so you can use <PrismCarousel /> in .vue and .md
   components: [
-    { path: '~/components', pathPrefix: false },          // <MyThing />
-    // Optional: scan extra folders with a prefix
-    // { path: '~/components/ui', prefix: 'Ui' },         // <UiButton />
+    { path: '~/components', pathPrefix: false },
   ],
 
   modules: [
     '@nuxtjs/color-mode',
-    // If you want Vue components inside Markdown, make sure Content is installed:
-    // '@nuxt/content'
+    '@nuxt/content', // ✅ Required for Markdown + components
   ],
 
-  // (If using @nuxt/content, you can keep MDC on to use components in .md)
-  // content: { markdown: { mdc: true } },
+  content: {
+    markdown: {
+      mdc: true, // ✅ Enables ::Component{} syntax in Markdown
+    },
+  },
 
   colorMode: {
     preference: 'light',
@@ -33,5 +32,6 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2024-07-06',
 })
+
 
 
