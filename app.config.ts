@@ -22,7 +22,7 @@ export default defineAppConfig({
     banner: {
       enable: true,
       showClose: true,
-      content: 'Men\'s Hangout [Pictures](/mens-hangout)',
+      content: 'Men\'s Hangout [Pictures](/event/mens-hangout)',
       border: true,
     },
     header: {
