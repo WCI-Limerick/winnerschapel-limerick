@@ -328,20 +328,7 @@ actions:
 </div>
 
 
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const banner = document.getElementById('cookie-banner')
-    const buttons = document.querySelectorAll('[data-dismiss-cookie]')
-    
-    buttons.forEach(btn => {
-      btn.addEventListener('click', () => {
-        banner?.remove()
-        // Optionally persist dismissal
-        // localStorage.setItem('cookieAccepted', 'true')
-      })
-    })
-  })
-</script>
+
 
 
 
