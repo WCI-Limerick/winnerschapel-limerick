@@ -29,6 +29,9 @@ fullpage: true
   </div>
 </span>
 
+<div class="items-center text-center p-10">
+    <h1 class="font-bold text-4xl mb-4">Who is Bishop David Oyedepo</h1>
+    <h1 class="text-3xl"></h1>
 
 
 ::tabs{variant="line" fontWeight="extrabold"}
@@ -135,7 +138,7 @@ fullpage: true
   Our mission is to **liberate mankind in all facets of human existence**—spiritually, economically, socially, and mentally—through the knowledge of biblical principles.
   ::
 ::
-
+</div>
 
 
 
