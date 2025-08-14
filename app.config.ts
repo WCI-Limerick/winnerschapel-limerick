@@ -22,7 +22,7 @@ export default defineAppConfig({
     banner: {
       enable: true,
       showClose: false,
-      content: 'Men\'s Hangout [Pictures](/event/mens-hangout)',
+      content: 'Recent Men\'s Hangout in [Pictures](/event/mens-hangout)',
       border: true,
     },
     header: {
@@ -181,7 +181,7 @@ export default defineAppConfig({
       },
     },
     footer: {
-      credits: '2025 © WCI-Limerick',
+      credits: 'Designed and Developed by WCI-Limerick Media/Technical © 2025',
     },
     toc: {
       enable: true,
