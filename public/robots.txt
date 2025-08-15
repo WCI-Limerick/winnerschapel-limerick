@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winnerschapel-limerick.vercel.app/sitemap.xml
