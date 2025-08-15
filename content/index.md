@@ -295,69 +295,16 @@ actions:
                         </div>
                         <div class="border-t border-gray-200 px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Contact</h3>
-                            <p class="mt-1 text-gray-600">Email: info@example.com</p>
+                            <p class="mt-1 text-gray-600">Email: limerick@winners-chapel.org.uk</p>
                             <p class="mt-1 text-gray-600">Phone: +353872685434</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
  
  
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Alpine + Tailwind Banner</title>
-<!-- Tailwind (CDN for demo; use your build in prod) -->
-    <script src="https://cdn.tailwindcss.com"></script>
-<!-- Alpine -->
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-<!-- Prevent flash before Alpine loads -->
-    <style>[x-cloak]{display:none !important}</style>
-  </head>
-  <body class="min-h-screen">
 
-  <div x-data="{ bannerVisible: false, delay: 300 }"
-         x-init="setTimeout(() => { bannerVisible = true }, delay)"
-         x-cloak
-         x-show="bannerVisible"
-         x-transition:enter="transition ease-out duration-500"
-         x-transition:enter-start="translate-y-full opacity-0"
-         x-transition:enter-end="translate-y-0 opacity-100"
-         x-transition:leave="transition ease-in duration-300"
-         x-transition:leave-start="translate-y-0 opacity-100"
-         x-transition:leave-end="translate-y-full opacity-0"
-         class="fixed bottom-0 right-0 w-full sm:w-[26rem] sm:px-5 sm:pb-5 lg:w-full">
-
-  <div class="mx-auto flex w-full max-w-4xl flex-col items-center justify-between rounded-t-xl border-t bg-white p-6 shadow-lg sm:rounded-xl lg:flex-row lg:p-8">
-        <div class="flex h-full flex-col items-start text-xs text-neutral-600 lg:flex-row lg:items-center lg:space-x-5">
-          <img src="https://cdn-icons-png.flaticon.com/512/9004/9004938.png" class="h-8 w-8 sm:h-12 sm:w-12 lg:h-16 lg:w-16" alt="">
-          <div class="pt-6 lg:pt-0">
-            <h4 class="mb-1 -translate-y-1 text-xl font-bold leading-none text-neutral-900">Cookie Notice</h4>
-            <p>We use cookies to make your online experience better. <span class="hidden lg:inline">By continuing to browse, you give us your digital consent to indulge you with some sweet, data-filled treats.</span></p>
-          </div>
-        </div>
-
-  <div class="mt-4 flex w-full items-end justify-end space-x-3 pl-3 lg:mt-0 lg:w-auto">
-          <button type="button"
-                  @click="bannerVisible = false"
-                  class="inline-flex w-1/2 items-center justify-center rounded-md border-2 border-neutral-950 bg-white px-4 py-2 text-sm font-medium tracking-wide text-neutral-700 transition-colors duration-200 hover:text-neutral-900 focus:outline-none focus:ring-2 focus:ring-neutral-900 focus:ring-offset-2 lg:w-auto">
-            Deny All
-          </button>
-
-  <button type="button"
-                  @click="bannerVisible = false"
-                  class="inline-flex w-1/2 items-center justify-center rounded-md border-2 border-neutral-950 bg-neutral-950 px-4 py-2 text-sm font-medium tracking-wide text-white transition-colors duration-200 hover:bg-neutral-900 focus:outline-none focus:ring-2 focus:ring-neutral-900 focus:ring-offset-2 lg:w-auto">
-            Accept All
-          </button>
-        </div>
-      </div>
-    </div>
-
-  </body>
-</html>
 
 
 
