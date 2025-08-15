@@ -305,39 +305,60 @@ actions:
     </div>
  
  
-<div x-data="{
-        bannerVisible: false,
-        bannerVisibleAfter: 300
-    }" 
-    x-show="bannerVisible" 
-    x-transition:enter="transition ease-out duration-500" 
-    x-transition:enter-start="translate-y-full" 
-    x-transition:enter-end="translate-y-0" 
-    x-transition:leave="transition ease-in duration-300" 
-    x-transition:leave-start="translate-y-0" 
-    x-transition:leave-end="translate-y-full" 
-    x-init="
-        setTimeout(()=>{ bannerVisible = true }, bannerVisibleAfter);
-    "
-    class="fixed bottom-0 right-0 w-full h-auto duration-300 ease-out sm:px-5 sm:pb-5 sm:w-[26rem] lg:w-full" x-cloak>
-    <div class="flex flex-col items-center justify-between w-full h-full max-w-4xl p-6 mx-auto bg-white border-t shadow-lg lg:p-8 lg:flex-row sm:border-0 sm:rounded-xl">
-        <div class="flex flex-col items-start h-full pb-6 text-xs lg:items-center lg:flex-row lg:pb-0 lg:pr-6 lg:space-x-5 text-neutral-600">
-            <img src="https://cdn-icons-png.flaticon.com/512/9004/9004938.png" class="w-8 h-8 sm:w-12 sm:h-12 lg:w-16 lg:h-16">
-            <div class="pt-6 lg:pt-0">
-                <h4 class="w-full mb-1 text-xl font-bold leading-none -translate-y-1 text-neutral-900">Cookie Notice</h4>
-                <p class="">We use cookies to make your online experience better. <span class="hidden lg:inline">By continuing to browse, you give us your digital consent to indulge you with some sweet, data-filled treats.</span></p>
-            </div>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Alpine + Tailwind Banner</title>
+<!-- Tailwind (CDN for demo; use your build in prod) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+<!-- Alpine -->
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<!-- Prevent flash before Alpine loads -->
+    <style>[x-cloak]{display:none !important}</style>
+  </head>
+  <body class="min-h-screen">
+
+  <div x-data="{ bannerVisible: false, delay: 300 }"
+         x-init="setTimeout(() => { bannerVisible = true }, delay)"
+         x-cloak
+         x-show="bannerVisible"
+         x-transition:enter="transition ease-out duration-500"
+         x-transition:enter-start="translate-y-full opacity-0"
+         x-transition:enter-end="translate-y-0 opacity-100"
+         x-transition:leave="transition ease-in duration-300"
+         x-transition:leave-start="translate-y-0 opacity-100"
+         x-transition:leave-end="translate-y-full opacity-0"
+         class="fixed bottom-0 right-0 w-full sm:w-[26rem] sm:px-5 sm:pb-5 lg:w-full">
+
+  <div class="mx-auto flex w-full max-w-4xl flex-col items-center justify-between rounded-t-xl border-t bg-white p-6 shadow-lg sm:rounded-xl lg:flex-row lg:p-8">
+        <div class="flex h-full flex-col items-start text-xs text-neutral-600 lg:flex-row lg:items-center lg:space-x-5">
+          <img src="https://cdn-icons-png.flaticon.com/512/9004/9004938.png" class="h-8 w-8 sm:h-12 sm:w-12 lg:h-16 lg:w-16" alt="">
+          <div class="pt-6 lg:pt-0">
+            <h4 class="mb-1 -translate-y-1 text-xl font-bold leading-none text-neutral-900">Cookie Notice</h4>
+            <p>We use cookies to make your online experience better. <span class="hidden lg:inline">By continuing to browse, you give us your digital consent to indulge you with some sweet, data-filled treats.</span></p>
+          </div>
         </div>
-        <div class="flex items-end justify-end w-full pl-3 space-x-3 lg:flex-shrink-0 lg:w-auto">
-            <button @click="bannerVisible=false; setTimeout(()=>{ bannerVisible = true }, 1000);" class="inline-flex items-center justify-center flex-shrink-0 w-1/2 px-4 py-2 text-sm font-medium tracking-wide transition-colors duration-200 bg-white border-2 rounded-md lg:w-auto text-neutral-600 hover:text-neutral-700 border-neutral-950 focus:ring-2 focus:ring-offset-2 focus:ring-neutral-900 focus:shadow-outline focus:outline-none">
-                Deny All
-            </button>
-            <button @click="bannerVisible=false; setTimeout(()=>{ bannerVisible = true }, 1000);" class="inline-flex items-center justify-center flex-shrink-0 w-1/2 px-4 py-2 text-sm font-medium tracking-wide text-white transition-colors duration-200 border-2 rounded-md lg:w-auto bg-neutral-950 border-neutral-950 hover:bg-neutral-900 focus:ring-2 focus:ring-offset-2 focus:ring-neutral-900 focus:shadow-outline focus:outline-none">
-                Accept All
-            </button>
+
+  <div class="mt-4 flex w-full items-end justify-end space-x-3 pl-3 lg:mt-0 lg:w-auto">
+          <button type="button"
+                  @click="bannerVisible = false"
+                  class="inline-flex w-1/2 items-center justify-center rounded-md border-2 border-neutral-950 bg-white px-4 py-2 text-sm font-medium tracking-wide text-neutral-700 transition-colors duration-200 hover:text-neutral-900 focus:outline-none focus:ring-2 focus:ring-neutral-900 focus:ring-offset-2 lg:w-auto">
+            Deny All
+          </button>
+
+  <button type="button"
+                  @click="bannerVisible = false"
+                  class="inline-flex w-1/2 items-center justify-center rounded-md border-2 border-neutral-950 bg-neutral-950 px-4 py-2 text-sm font-medium tracking-wide text-white transition-colors duration-200 hover:bg-neutral-900 focus:outline-none focus:ring-2 focus:ring-neutral-900 focus:ring-offset-2 lg:w-auto">
+            Accept All
+          </button>
         </div>
+      </div>
     </div>
-</div>
+
+  </body>
+</html>
+
 
 
 
