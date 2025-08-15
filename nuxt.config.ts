@@ -1,33 +1,23 @@
-// nuxt.config.ts
+// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
   extends: ['shadcn-docs-nuxt'],
+
+  // Auto-import Vue components so you can use <PrismCarousel /> in .vue and .md
   components: [
-    { path: '~/components', pathPrefix: false },
+    { path: '~/components', pathPrefix: false },          // <MyThing />
+    // Optional: scan extra folders with a prefix
+    // { path: '~/components/ui', prefix: 'Ui' },         // <UiButton />
   ],
+
   modules: [
     '@nuxtjs/color-mode',
-    'nuxt-site-config',
-    'nuxt-simple-sitemap',
-    '@nuxtjs/schema-org',
+    // If you want Vue components inside Markdown, make sure Content is installed:
+    // '@nuxt/content'
   ],
 
-  site: {
-    url: 'https://winnerschapel-limerick.vercel.app', // ← Your real domain
-    name: 'Winners Chapel International Limerick',
-    description:
-      'Winners Chapel International Limerick is a vibrant community dedicated to spiritual growth and fellowship.',
-  },
-
-  sitemap: {
-    autoLastmod: true,
-    credits: false,
-    xsl: false,
-  },
-
-  schemaOrg: {
-    canonicalHost: 'https://winnerschapel-limerick.vercel.app', // same as site.url
-  },
+  // (If using @nuxt/content, you can keep MDC on to use components in .md)
+  // content: { markdown: { mdc: true } },
 
   colorMode: {
     preference: 'light',
@@ -43,6 +33,11 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2024-07-06',
 })
+
+
+
+
+
 
 
 
