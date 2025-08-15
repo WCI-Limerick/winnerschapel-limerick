@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'Winners Chapel International Limerick',
-      description: 'Winners Chapel International Limerick is a vibrant community dedicated to spiritual growth and fellowship. Join us for services, events, and resources that inspire and uplift.',
+      name: 'Winners Chapel Limerick',
+      description: 'Winners Chapel Limerick is a vibrant community dedicated to spiritual growth and fellowship. Join us for services, events, and resources that inspire and uplift.',
       ogImage: '/Screenshot 2025-07-12 112109.png',
       ogImageComponent: 'ShadcnDocs',
       ogImageColor: 'light',

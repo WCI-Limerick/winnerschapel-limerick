@@ -4,8 +4,8 @@
 
 <script setup lang="ts">
 // Site-wide fallbacks
-const SITE_NAME = 'Winners Chapel International Limerick'
-const SITE_DESC = 'Winners Chapel International Limerick is a vibrant community dedicated to spiritual growth and fellowship.'
+const SITE_NAME = 'Winners Chapel Limerick'
+const SITE_DESC = 'Winners Chapel Limerick is a vibrant community dedicated to spiritual growth and fellowship.'
 const SITE_URL  = 'https://winnerschapel-limerick.vercel.app'
 
 const route = useRoute()
