@@ -10,6 +10,14 @@
     <loc>https://winnerschapel-limerick.vercel.app/about</loc>
     <lastmod>2025-08-15</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://winnerschapel-limerick.vercel.app/new</loc>
+    <lastmod>2025-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
+
+
