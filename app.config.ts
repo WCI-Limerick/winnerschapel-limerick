@@ -199,6 +199,8 @@ export default defineAppConfig({
         {
           title: 'Shiloh 2025',
           icon: 'emojione:church',
+          to: 'https://www.youtube.com/watch?v=waaD-YbMOpE',
+          target: '_blank',
           showLinkIcon: true,
         },
         {
