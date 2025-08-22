@@ -17,7 +17,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['IBM Plex Sans'],
+        sans: ['Ibm Plex Sans'],
         mono: ['JetBrains Mono'],
       },
       fontSize: {
