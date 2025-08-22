@@ -38,7 +38,7 @@ actions:
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp
+  img: /WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg
   ---
   ::
 ::
