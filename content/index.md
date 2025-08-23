@@ -85,13 +85,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-08-14 at 07.21.14_90b00027.jpg
+  img: /WhatsApp Image 2025-08-23 at 11.25.00_7df7cb64.webp
   ---
   #title
-  Covenant Day of Rescue
+  Special Impartation Service
 
   #content
-  Join us this Sunday 17 Aug 2025 - 11.30am
+  Join us this Sunday 23 Aug 2025 - 11.30am
   ::
 
 
