@@ -91,7 +91,7 @@ actions:
   Special Impartation Service
 
   #content
-  Join us this Sunday 23 Aug 2025 - 11.30am
+  Join us this Sunday 24 Aug 2025 - 11.30am
   ::
 
 
