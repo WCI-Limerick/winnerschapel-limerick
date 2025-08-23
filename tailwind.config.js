@@ -17,7 +17,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Geist'],
+        sans: [ 'Noto Sans', 'Geist'],
         mono: ['JetBrains Mono'],
       },
       fontSize: {
