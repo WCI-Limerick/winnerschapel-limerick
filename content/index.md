@@ -63,7 +63,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Special Impartation Service <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Enough is Enough Service <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -85,13 +85,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-08-23 at 11.25.00_7df7cb64.webp
+  img: /WhatsApp Image 2025-08-27 at 11.25.28_145761df.jpg
   ---
   #title
-  Special Impartation Service
+  Enough is Enough Service
 
   #content
-  Join us this Sunday 24 Aug 2025 - 11.30am
+  Join us this Sunday 31 Aug 2025 - 11.30am
   ::
 
 
