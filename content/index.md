@@ -63,7 +63,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Enough is Enough Service <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Encounter with Destiny Service <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -85,13 +85,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-08-27 at 11.25.28_145761df.jpg
+  img: /WhatsApp Image 2025-09-03 at 11.59.01_eba7802a.jpg
   ---
   #title
-  Enough is Enough Service
+  Encounter with Destiny Service
 
   #content
-  Join us this Sunday 31 Aug 2025 - 11.30am
+  Join us this Sunday 07 Sept 2025 - 11.30am
   ::
 
 
