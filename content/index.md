@@ -88,7 +88,7 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /public/WhatsApp Image 2025-10-08 at 10.37.32_2c7377ee.jpg
+  img: /WhatsApp Image 2025-10-08 at 10.37.32_2c7377ee.jpg
   ---
   #title
   Freedom Banquet
