@@ -66,7 +66,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Breaking Generational Curses <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Pre-Shiloh Encounter <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -88,13 +88,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-10-22 at 14.43.06_dc67ee0e.jpg
+  img: /WhatsApp Image 2025-10-29 at 13.12.22_d50058dd.jpg
   ---
   #title
-  Breaking Generational Curses
+  1st Pre-Shiloh Encounter
 
   #content
-  Join us this Sunday 26 October 2025 - 11.30am
+  Join us this Sunday 02 Nov. 2025 - 11.30am
   ::
 
 
@@ -124,7 +124,20 @@ actions:
   ::
   ::
 ::  
-   
+
+<br>
+
+::card
+---
+img: /sddefault.jpg
+---
+#title
+Shiloh 2025 - Viewing Centre
+
+#content
+Join us Dec. 9th - 14th 2025.
+::
+
 
 <section
   class="ezy__featured46 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
