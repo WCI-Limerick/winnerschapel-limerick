@@ -30,6 +30,18 @@ actions:
 ::
 
 
+::card
+---
+img: /Entrance (Presentation) (31).png
+---
+#title
+Shabach Praise Night - Wonders without Number
+
+#content
+Join us Nov. 8th 2025
+Church Auditorium
+::
+
 
 
 ::card-group
