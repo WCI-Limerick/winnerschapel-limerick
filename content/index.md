@@ -120,8 +120,7 @@ Church Auditorium <br>
 
   #content
   Join us online via Teams <br>
-  Wednesday, Nov.5th <br>
-  6.30pm
+  Wednesday, Nov.5th - 6.30pm
 
   ::button-link{right-icon="lucide:arrow-up-right" to="https://teams.live.com/meet/9364880718924?p=xjrngR5UUOuEjtGrV6" target="_blank"}
   Join Now
