@@ -113,13 +113,19 @@ Church Auditorium <br>
 
   ::card
   ---
-  img: /midweek_communion_1080x1080_centerfit.jpg
+  img: /Entrance (78).png
   ---
   #title
-  MidWeek Communion Service
+  Week of Spiritual Emphasis - Day 1
 
   #content
-  Join us this Wednesday - 6.30pm
+  Join us online via Teams <br>
+  Wednesday, Nov.5th <br>
+  6.30pm
+
+  ::button-link{right-icon="lucide:arrow-up-right" to="https://teams.live.com/meet/9364880718924?p=xjrngR5UUOuEjtGrV6" target="_blank"}
+  Join Now
+  ::
   ::
 
   ::card
