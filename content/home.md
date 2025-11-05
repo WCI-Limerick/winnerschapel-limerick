@@ -1,0 +1,65 @@
+---
+navigation: false
+fullpage: true
+---
+
+
+::hero-alt
+---
+announcement:
+  title: 'Introducing Events'
+  icon: 'lucide:flower-2'
+---
+
+#title
+Events Page
+
+#description
+News about past and upcoming events
+::
+
+
+::card-group{:cols="3"}
+  ::card
+  ---
+  img: /Entrance (70).png
+  ---
+  #title
+  Family Fun Day
+
+  #description
+  Annual End of Summer Get together
+
+  #footer
+  AUG 31, 2025
+  ::
+
+  ::card
+  ---
+  img: /Movie Night  (1).webp
+  ---
+  #title
+  Movie Night
+
+  #description
+  Pizza, Popcorn and Movie Night
+
+  #footer
+  AUG 29, 2025
+  ::
+  
+  ::card
+  ---
+  img: /WhatsApp Image 2025-08-03 at 21.53.56_f1a88785.webp
+  to: /mens-hangout
+  ---
+  #title
+  Men's Hangout
+
+  #description
+  An avenue to hear your voice, interact, and learn over BBQ on life most important issues.
+
+  #footer
+  AUG 10, 2025
+  ::
+::
