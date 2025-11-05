@@ -35,11 +35,12 @@ actions:
 img: /Entrance (Presentation) (32).png
 ---
 #title
-Shabach - Wonders without Number
+Shabach 2025 - Wonders without Number
 
 #content
-Join us Nov. 8th 2025 <br>
-Church Auditorium
+Join us this Saturday Nov. 8th 2025 <br>
+Church Auditorium <br>
+6.30pm
 ::
 
 
@@ -147,7 +148,8 @@ img: /sddefault.jpg
 Shiloh 2025 - Viewing Centre
 
 #content
-Join us Dec. 9th - 14th 2025.
+Join us Dec. 9th - 14th 2025. <br>
+Look out for further info on schedule of activities.
 ::
 
 

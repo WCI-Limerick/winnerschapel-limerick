@@ -28,7 +28,6 @@ toc: false
         <img src="/WhatsApp Image 2025-08-10 at 21.27.33_d694c98f.webp"/>
         <img src="/WhatsApp Image 2025-08-10 at 21.27.34_1d244885.webp"/>
         <img src="/WhatsApp Image 2025-08-10 at 21.27.34_c890cc7a.webp"/>
-        <img src="/WhatsApp Image 2025-08-10 at 21.27.35_8fbe81ae.webp"/>
         <img src="/WhatsApp Image 2025-08-10 at 21.27.41_70f8b2b0.webp"/>
     </div>
 </div>
