@@ -152,7 +152,7 @@ Church Auditorium <br>
             <span id="countdown" class="text-2xl font-semibold text-gray-700"></span>
         </div>
 
-<script>
+  <script>
             // Set the date we're counting down to
             var countDownDate = new Date("Dec 9, 2025 18:00:00").getTime();
 
@@ -182,7 +182,7 @@ Church Auditorium <br>
                 }
             }, 1000);
         </script>
-  </div>
+    </div>
 </div>
 
 ::card
