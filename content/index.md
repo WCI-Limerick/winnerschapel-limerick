@@ -144,7 +144,7 @@ Church Auditorium <br>
 
 <br>
 
-::countdown{label="Countdown to Dec 9, 2025" target="2025-12-09T00:00:00Z" progress showUtc}
+::countdown{label="Countdown to Shiloh 2025" target="2025-12-09T00:00:00Z" progress showUtc}
 ::
 
 ::card
