@@ -119,7 +119,7 @@ Church Auditorium <br>
   Mid-Week Service
 
   #content
-  Join us via Teams - 6.30pm
+  Join us via Teams - 6.30pm <br>
 
   ::button-link{right-icon="lucide:arrow-up-right" to="https://teams.live.com/meet/9364880718924?p=xjrngR5UUOuEjtGrV6" target="_blank"}
   Join Now
