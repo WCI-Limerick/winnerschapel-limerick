@@ -66,12 +66,12 @@ import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 const props = defineProps({
   target:   { type: String, default: '2025-12-09T00:00:00Z' },
   label:    { type: String, default: 'Countdown to Shiloh 2025' },
-  progress: { type: [Boolean, String], default: true },
+  progress: { type: [Boolean, String], default: false },
   showUtc:  { type: [Boolean, String], default: false },
 })
 
-const progressOn = computed(() => props.progress === '' || props.progress === true || props.progress === 'true')
-const showUtcOn  = computed(() => props.showUtc  === '' || props.showUtc  === true || props.showUtc  === 'true')
+const progressOn = computed(() => props.progress === '' || props.progress === false || props.progress === 'false')
+const showUtcOn  = computed(() => props.showUtc  === '' || props.showUtc  === false || props.showUtc  === 'false')
 
 // timing
 const targetDate = new Date(props.target)
