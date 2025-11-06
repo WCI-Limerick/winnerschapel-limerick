@@ -84,7 +84,7 @@ Church Auditorium <br>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">6.30pm</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Wednesday: Mid-Week Communion Service <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Wednesday: Mid-Week Communion Service <br> Venue: Online.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
