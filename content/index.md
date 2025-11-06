@@ -101,26 +101,26 @@ Church Auditorium <br>
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-10-29 at 13.12.22_d50058dd.jpg
+  img: /WhatsApp Image 2025-11-05 at 11.35.02_3d43bc36.jpg
   ---
   #title
-  1st Pre-Shiloh Encounter
+  2nd Pre-Shiloh Encounter
 
   #content
-  Join us this Sunday 02 Nov. 2025 - 11.30am
+  Join us this Sunday 09 Nov. 2025 - 11.30am
   ::
 
 
   ::card
   ---
-  img: /Entrance (78).png
+  img: /midweek_communion_1080x1080_centerfit.jpg
   ---
   #title
-  Week of Spiritual Emphasis - Day 1
+  Mid-Week Service
 
   #content
   Join us online via Teams <br>
-  Wednesday, Nov.5th - 6.30pm
+  Thursday, Nov.6th - 6.30pm
 
   ::button-link{right-icon="lucide:arrow-up-right" to="https://teams.live.com/meet/9364880718924?p=xjrngR5UUOuEjtGrV6" target="_blank"}
   Join Now
@@ -144,6 +144,46 @@ Church Auditorium <br>
 ::  
 
 <br>
+
+<div class="flex justify-center">
+    <div class="bg-gray-50 rounded-lg shadow-lg px-8 py-6">
+        <div class="flex flex-col gap-4 items-center justify-between">
+            <h3 class="text-2xl font-bold text-gray-700">Countdown to Shiloh</h3>
+            <span id="countdown" class="text-2xl font-semibold text-gray-700"></span>
+        </div>
+
+<script>
+            // Set the date we're counting down to
+            var countDownDate = new Date("Dec 9, 2025 18:00:00").getTime();
+
+            // Update the count down every 1 second
+            var x = setInterval(function() {
+
+                // Get today's date and time
+                var now = new Date().getTime();
+
+                // Find the distance between now and the count down date
+                var distance = countDownDate - now;
+
+                // Time calculations for days, hours, minutes and seconds
+                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                // Output the result in an element with id="countdown" 
+                document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds +
+                    "s ";
+
+                // If the count down is over, write some text 
+                if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("countdown").innerHTML = "EXPIRED";
+                }
+            }, 1000);
+        </script>
+  </div>
+</div>
 
 ::card
 ---
