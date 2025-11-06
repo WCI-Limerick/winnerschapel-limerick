@@ -65,7 +65,7 @@ import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 
 const props = defineProps({
   target:   { type: String, default: '2025-12-09T00:00:00Z' },
-  label:    { type: String, default: 'Countdown to December 9, 2025' },
+  label:    { type: String, default: 'Countdown to Shiloh 2025' },
   progress: { type: [Boolean, String], default: true },
   showUtc:  { type: [Boolean, String], default: false },
 })
