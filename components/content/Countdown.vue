@@ -63,26 +63,21 @@
 <script setup>
 import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 
-const props = {
-  target: { type: String, default: '2025-12-09T00:00:00Z' },
-  label: { type: String, default: 'Countdown to December 9, 2025' },
+const props = defineProps({
+  target:   { type: String, default: '2025-12-09T00:00:00Z' },
+  label:    { type: String, default: 'Countdown to December 9, 2025' },
   progress: { type: [Boolean, String], default: true },
-  showUtc: { type: [Boolean, String], default: false },
-}
+  showUtc:  { type: [Boolean, String], default: false },
+})
 
-defineProps(props)
-
-const p = defineProps(props)
-
-// normalize boolean-ish MDC attrs
-const progressOn = computed(() => p.progress === '' || p.progress === true || p.progress === 'true')
-const showUtcOn = computed(() => p.showUtc === '' || p.showUtc === true || p.showUtc === 'true')
+const progressOn = computed(() => props.progress === '' || props.progress === true || props.progress === 'true')
+const showUtcOn  = computed(() => props.showUtc  === '' || props.showUtc  === true || props.showUtc  === 'true')
 
 // timing
-const targetDate = new Date(p.target)
-const targetTs = targetDate.getTime()
-const now = ref(Date.now())
-const startTs = ref(null)
+const targetDate = new Date(props.target)
+const targetTs   = targetDate.getTime()
+const now        = ref(Date.now())
+const startTs    = ref(null)
 let timer
 
 onMounted(() => {
@@ -91,23 +86,21 @@ onMounted(() => {
 })
 onBeforeUnmount(() => { if (timer) clearInterval(timer) })
 
-const msLeft = computed(() => Math.max(0, targetTs - now.value))
-const done = computed(() => msLeft.value <= 0)
+const msLeft  = computed(() => Math.max(0, targetTs - now.value))
+const done    = computed(() => msLeft.value <= 0)
+const tsec    = computed(() => Math.floor(msLeft.value / 1000))
+const days    = computed(() => Math.floor(tsec.value / 86400))
+const hours   = computed(() => Math.floor((tsec.value % 86400) / 3600))
+const minutes = computed(() => Math.floor((tsec.value % 3600) / 60))
+const seconds = computed(() => tsec.value % 60)
 
-const totalMs = computed(() => {
-  const start = startTs.value ?? Date.now()
-  return Math.max(1, targetTs - start)
-})
+const totalMs     = computed(() => Math.max(1, targetTs - (startTs.value ?? Date.now())))
 const pctComplete = computed(() => 100 - (msLeft.value / totalMs.value) * 100)
-
-const totalSeconds = computed(() => Math.floor(msLeft.value / 1000))
-const days = computed(() => Math.floor(totalSeconds.value / 86400))
-const hours = computed(() => Math.floor((totalSeconds.value % 86400) / 3600))
-const minutes = computed(() => Math.floor((totalSeconds.value % 3600) / 60))
-const seconds = computed(() => totalSeconds.value % 60)
 
 function pad(n) { return String(n).padStart(2, '0') }
 </script>
+
+
 
 
 
