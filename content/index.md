@@ -32,7 +32,7 @@ actions:
 
 ::card
 ---
-img: /Entrance (Presentation) (32).png
+img: /Entrance (Presentation) (32).webp
 ---
 #title
 Shabach 2025 - Wonders without Number
@@ -54,7 +54,7 @@ Church Auditorium <br>
 
   ::card
   ---
-  img: /WhatsApp Image 2025-07-06 at 14.23.53_fd680873.jpg
+  img: /WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp
   ---
   ::
 ::
@@ -101,7 +101,7 @@ Church Auditorium <br>
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-11-05 at 11.35.02_3d43bc36.jpg
+  img: /WhatsApp Image 2025-11-05 at 11.35.02_3d43bc36.webp
   ---
   #title
   2nd Pre-Shiloh Encounter
@@ -113,7 +113,7 @@ Church Auditorium <br>
 
   ::card
   ---
-  img: /midweek_communion_1080x1080_centerfit.jpg
+  img: /midweek_communion_1080x1080_centerfit.webp
   ---
   #title
   Mid-Week Service
@@ -128,7 +128,7 @@ Church Auditorium <br>
 
   ::card
   ---
-  img: /ChatGPT Image Aug 9, 2025, 07_11_38 PM.png
+  img: /ChatGPT Image Aug 9, 2025, 07_11_38 PM.webp
   ---
   #title
   Covenant Hour of Prayer
@@ -149,7 +149,7 @@ Church Auditorium <br>
 
 ::card
 ---
-img: /sddefault.jpg
+img: /sddefault.webp
 ---
 #title
 Shiloh 2025 - Viewing Centre
