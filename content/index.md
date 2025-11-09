@@ -29,18 +29,21 @@ actions:
 <span class="bg-gray-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
+::countdown{label="Countdown to Shiloh 2025" target="2025-12-09T17:30:00Z" progress showUtc}
+::
+
+
 
 ::card
 ---
-img: /Entrance (Presentation) (32).webp
+img: /hq720.webp
 ---
 #title
-Shabach 2025 - Wonders without Number
+Shiloh 2025 - Viewing Centre
 
 #content
-Join us this Saturday Nov. 8th 2025 <br>
-Church Auditorium <br>
-6.30pm
+Join us Dec. 9th - 14th 2025. <br>
+Look out for further info on schedule of activities.
 ::
 
 
@@ -142,22 +145,6 @@ Church Auditorium <br>
   ::
 ::  
 
-<br>
-
-::countdown{label="Countdown to Shiloh 2025" target="2025-12-09T00:00:00Z" progress showUtc}
-::
-
-::card
----
-img: /sddefault.webp
----
-#title
-Shiloh 2025 - Viewing Centre
-
-#content
-Join us Dec. 9th - 14th 2025. <br>
-Look out for further info on schedule of activities.
-::
 
 
 <section
