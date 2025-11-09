@@ -104,7 +104,7 @@ Look out for further info on schedule of activities.
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-11-05 at 11.35.02_3d43bc36.webp
+  img: /WhatsApp Image 2025-11-05 at 11.35.02_24dcac9a.webp
   ---
   #title
   2nd Pre-Shiloh Encounter
