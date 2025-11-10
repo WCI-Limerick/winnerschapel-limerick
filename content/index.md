@@ -34,20 +34,6 @@ actions:
 
 
 
-::card
----
-img: /hq720.webp
----
-#title
-Shiloh 2025 - Viewing Centre
-
-#content
-Join us Dec. 9th - 14th 2025. <br>
-Look out for further info on schedule of activities.
-::
-
-
-
 ::card-group
   ::card
   ---
