@@ -29,9 +29,6 @@ actions:
 <span class="bg-gray-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
-::countdown{label="Countdown to Shiloh 2025" target="2025-12-09T17:30:00Z" progress showUtc}
-::
-
 
 
 ::card-group
