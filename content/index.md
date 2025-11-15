@@ -291,7 +291,7 @@ actions:
                     <div class="max-w-full mx-auto rounded-lg overflow-hidden">
                         <div class="px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Our Address</h3>
-                            <p class="mt-1 text-gray-600">84 O'Connell Street <br> Limerick <br> V94 D597</p>
+                            <p class="mt-1 text-gray-600">84 O'Connell Street <br> Limerick <br> V94 D597 <br> Side entrance, after traffic lights</p>
                         </div>
                         <div class="border-t border-gray-200 px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Hours</h3>

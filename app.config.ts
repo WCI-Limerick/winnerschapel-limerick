@@ -103,8 +103,8 @@ export default defineAppConfig({
         icon: 'skill-icons:instagram',
       },
       docs: {
-        title: 'Facebook',
-        to: '/',
+        title: 'Whatsapp',
+        to: 'https://chat.whatsapp.com/FDw9JfRJbuG4Ma2f6zstOQ?mode=wwt',
         target: '_blank',
         icon: 'logos:whatsapp-icon',
       },
