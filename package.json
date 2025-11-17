@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@preline/carousel": "^3.2.3",
     "nuxt": "^3.17.5",
     "preline": "^3.2.3",
     "shadcn-docs-nuxt": "^1.0.6",
