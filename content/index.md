@@ -22,26 +22,11 @@ actions:
 
 #title
 
-<div class="space-y-3 text-center">
-  <span
-    class="inline-block font-black text-5xl lg:text-7xl bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent
-           opacity-0 animate-fade-in-down
-           transition-transform duration-700 ease-out
-           hover:scale-105 hover:-translate-y-1"
-  >
-    Winners Chapel International Limerick
-  </span>
+<span class="font-black text-5xl lg:text-7xl bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent ease-in">Winners Chapel International Limerick</span>
 
-  <!-- description -->
-  <span
-    class="inline-block bg-gray-600 bg-clip-text text-transparent font-bold
-           opacity-0 animate-fade-in-up
-           transition-transform duration-700 ease-out
-           hover:translate-y-0.5"
-  >
-    Liberating the world through the preaching of the Word of Faith
-  </span>
-</div>
+
+#description
+<span class="bg-gray-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
 
