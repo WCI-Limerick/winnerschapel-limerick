@@ -76,13 +76,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-11-19 at 09.04.03_79a70d47.jpg
+  img: /WhatsApp Image 2025-11-26 at 13.22.04_f36da6e2.webp
   ---
   #title
-  4th Pre-Shiloh Encounter
+  5th Pre-Shiloh Encounter
 
   #content
-  Join us this Sunday 16 Nov. 2025 - 11.30am
+  Join us this Sunday 30 Nov. 2025 - 11.30am
   ::
 
 

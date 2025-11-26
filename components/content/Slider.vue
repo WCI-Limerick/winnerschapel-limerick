@@ -15,7 +15,7 @@
                class="w-full h-130 object-cover shadow-sm rounded-lg" />
         </div>
         <div class="hs-carousel-slide">
-          <img src="/IMG-20240919-WA0012.jpg"
+          <img src="/IMG-20240919-WA0012.webp"
                alt="Slide 3"
                class="w-full h-130 object-cover shadow-sm rounded-lg" />
         </div>
