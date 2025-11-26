@@ -1,4 +1,6 @@
 @import 'tailwindcss';
+@import "preline/variants.css";
+@source "../../node_modules/preline/dist/*.js";
 
 @config '../../tailwind.config.js';
 /* If you are using shadcn-docs-nuxt in a monorepo, change the amount of .. to match the node_modules directory */
