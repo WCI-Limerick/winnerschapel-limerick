@@ -12,17 +12,17 @@
         <div class="hs-carousel-slide">
           <img src="/20250705_191624.webp"
                alt="Slide 1"
-               class="w-full h-102 object-cover shadow-sm rounded-lg" />
+               class="w-full h-130 object-cover shadow-sm rounded-lg" />
         </div>
         <div class="hs-carousel-slide">
           <img src="/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp"
                alt="Slide 2"
-               class="w-full h-102 object-cover shadow-sm rounded-lg" />
+               class="w-full h-130 object-cover shadow-sm rounded-lg" />
         </div>
         <div class="hs-carousel-slide">
           <img src="/IMG-20240919-WA0012.jpg"
                alt="Slide 3"
-               class="w-full h-102 object-cover shadow-sm rounded-lg" />
+               class="w-full h-130 object-cover shadow-sm rounded-lg" />
         </div>
       </div>
     </div>
