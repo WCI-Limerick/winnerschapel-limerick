@@ -141,13 +141,13 @@ actions:
 ::card-group
   ::card
   ---
-  img: /IMG-20240919-WA0006.jpg
+  img: /IMG-20240919-WA0006.webp
   ---
   ::
 
   ::card
   ---
-  img: /IMG-20240919-WA0012.jpg
+  img: /IMG-20240919-WA0012.webp
   ---
   ::
 ::
