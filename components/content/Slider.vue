@@ -10,11 +10,6 @@
     <div class="hs-carousel relative overflow-hidden w-full min-h-96 bg-white rounded-lg">
       <div class="hs-carousel-body absolute top-0 bottom-0 start-0 flex flex-nowrap transition-transform duration-700 opacity-0">
         <div class="hs-carousel-slide">
-          <img src="/20250705_191624.webp"
-               alt="Slide 1"
-               class="w-full h-130 object-cover shadow-sm rounded-lg" />
-        </div>
-        <div class="hs-carousel-slide">
           <img src="/WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp"
                alt="Slide 2"
                class="w-full h-130 object-cover shadow-sm rounded-lg" />
