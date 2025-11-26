@@ -3,26 +3,26 @@
   <div id="slider-wrapper"
        data-hs-carousel='{
          "loadingClasses": "opacity-0",
-         "dotsItemClasses": "hs-carousel-active:bg-blue-700 hs-carousel-active:border-blue-700 size-3 border border-gray-400 rounded-full cursor-pointer dark:border-neutral-600 dark:hs-carousel-active:bg-blue-500 dark:hs-carousel-active:border-blue-500",
+         "dotsItemClasses": "hs-carousel-active:bg-rose-700 hs-carousel-active:border-rose-700 size-3 border border-gray-400 rounded-full cursor-pointer dark:border-neutral-600 dark:hs-carousel-active:bg-rose-500 dark:hs-carousel-active:border-rose-500",
          "isAutoPlay": true
        }'
        class="relative">
     <div class="hs-carousel relative overflow-hidden w-full min-h-96 bg-white rounded-lg">
       <div class="hs-carousel-body absolute top-0 bottom-0 start-0 flex flex-nowrap transition-transform duration-700 opacity-0">
         <div class="hs-carousel-slide">
-          <div class="flex justify-center h-full bg-gray-100 p-6 dark:bg-neutral-900">
-            <span class="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">First slide</span>
-          </div>
+          <img src="/slider/slide1.jpg"
+               alt="Slide 1"
+               class="w-full h-96 object-cover rounded-lg" />
         </div>
         <div class="hs-carousel-slide">
-          <div class="flex justify-center h-full bg-gray-200 p-6 dark:bg-neutral-800">
-            <span class="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">Second slide</span>
-          </div>
+          <img src="/slider/slide2.jpg"
+               alt="Slide 2"
+               class="w-full h-96 object-cover rounded-lg" />
         </div>
         <div class="hs-carousel-slide">
-          <div class="flex justify-center h-full bg-gray-300 p-6 dark:bg-neutral-700">
-            <span class="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">Third slide</span>
-          </div>
+          <img src="/slider/slide3.jpg"
+               alt="Slide 3"
+               class="w-full h-96 object-cover rounded-lg" />
         </div>
       </div>
     </div>
