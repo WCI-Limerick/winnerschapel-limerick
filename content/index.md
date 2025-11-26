@@ -31,18 +31,7 @@ actions:
 
 
 
-::card-group
-  ::card
-  ---
-  img: /20250705_191624.webp
-  ---
-  ::
-
-  ::card
-  ---
-  img: /WhatsApp Image 2025-07-06 at 14.23.53_fd680873.webp
-  ---
-  ::
+::Slider
 ::
 
 
