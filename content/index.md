@@ -22,7 +22,7 @@ actions:
 
 #title
 
-<span class="font-black text-5xl lg:text-7xl bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent animate-bounce">Winners Chapel International Limerick</span>
+<span class="font-black text-5xl lg:text-7xl bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">Winners Chapel International Limerick</span>
 
 
 #description
