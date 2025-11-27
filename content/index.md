@@ -13,11 +13,11 @@ announcement:
 actions:
   - name: I am New!
     to: /new
-  - name: Testimonies
+  - name: Shiloh 2025
     variant: outline
     target: _self
-    to: /testimony
-    leftIcon: 'lucide:hand-heart'
+    to: /shiloh-2025
+    leftIcon: 'lucide:sunrise'
 ---
 
 #title
