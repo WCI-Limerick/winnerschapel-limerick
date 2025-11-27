@@ -14,18 +14,34 @@ export default defineNuxtConfig({
     // '@nuxt/content'
   ],
 
-  // ✅ ADD THIS BLOCK
+  // 🔹 Make the homepage *static* (fast from Google / SEO)
+  routeRules: {
+    // Pre-render '/' at build time and serve as a static asset
+    '/': { prerender: true },
+    // (optional) cache any API routes if you add them later
+    // '/api/**': { swr: 60 } // cache 60s
+  },
+
+  // (optional but good for mostly-static sites)
+  nitro: {
+    prerender: {
+      // explicitly ensure '/' is pre-rendered even if not crawled
+      routes: ['/'],
+    },
+  },
+
   app: {
     head: {
-      // optional but nice to have:
-      link: [{ rel: 'canonical', href: siteUrl }],
+      link: [
+        { rel: 'canonical', href: siteUrl },
+      ],
       meta: [
-        // ✅ Google Search Console verification — paste your token here
         { name: 'google-site-verification', content: 'vJtSnT92Xk-2eoIFsApufMNtER9CQDGXfPhHhPuI-5Y' },
+        // (optional, but helps SEO/snippets)
+        // { name: 'description', content: 'Winners Chapel International Limerick – service times, location, and upcoming events.' },
       ],
     },
   },
-  // ✅ END ADD
 
   colorMode: {
     preference: 'light',
@@ -39,8 +55,19 @@ export default defineNuxtConfig({
     locales: [{ code: 'en', name: 'English', language: 'en-US' }],
   },
 
+  // 🔹 Nuxt performance features stay reasonably up-to-date
   compatibilityDate: '2024-07-06',
+
+  // (optional) small perf tweak for links, not critical for Google hits
+  // experimental: {
+  //   defaults: {
+  //     nuxtLink: {
+  //       prefetchOn: 'interaction',
+  //     },
+  //   },
+  // },
 })
+
 
 
 
