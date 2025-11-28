@@ -24,6 +24,7 @@ Look out for further info on auditorium opening times and schedule of activities
   ---
   title: Encounter Night
   icon: meteocons:starry-night-fill
+  icon-size: 70
   ---
  Tues - Fri
   ::
@@ -32,6 +33,7 @@ Look out for further info on auditorium opening times and schedule of activities
   ---
   title: Shiloh Prayer Hour/Hour of Visitation
   icon: meteocons:fog-day-fill
+  icon-size: 70
   ---
   Wed - Fri
   ::
@@ -40,6 +42,7 @@ Look out for further info on auditorium opening times and schedule of activities
   ---
   title: Impartation
   icon: emojione:church
+  icon-size: 70
   ---
   Saturday
   ::
