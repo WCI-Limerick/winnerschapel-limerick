@@ -16,26 +16,27 @@ Shiloh 2025 - Viewing Centre
 
 #content
 Join us Dec. 9th - 14th 2025. <br>
-Look out for further info on auditorium opening times and schedule of activities.
+Look out for further info on auditorium opening times and schedule of activities on our various SM platforms.
 ::
 
 ::card-group{:cols="3"}
   ::card
   ---
-  title: Encounter Night
-  icon: meteocons:starry-night-fill
+  title: Encounter Night (Evening Session)
+  icon: noto-v1:night-with-stars
   icon-size: 70
   ---
- Tues - Fri
+ Tues, 9th Dec - Fri, 13th Dec 2025.
+ Time: TBD
   ::
 
   ::card
   ---
-  title: Shiloh Prayer Hour/Hour of Visitation
+  title: Shiloh Prayer Hour/Hour of Visitation (Morning Session)
   icon: meteocons:fog-day-fill
   icon-size: 70
   ---
-  Wed - Fri
+  Wed, 10th - Fri, 13th Dec 2025.
   ::
 
   ::card
@@ -44,6 +45,6 @@ Look out for further info on auditorium opening times and schedule of activities
   icon: emojione:church
   icon-size: 70
   ---
-  Saturday
+  Saturday, 14th Dec 2025
   ::
 ::
