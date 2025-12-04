@@ -27,7 +27,7 @@ Look out for further info on auditorium opening times and schedule of activities
   icon-size: 70
   ---
  Tues, 9th Dec - Fri, 13th Dec 2025.
- Time: TBD
+ Time: 5-8pm Irish Time
   ::
 
   ::card
@@ -47,4 +47,36 @@ Look out for further info on auditorium opening times and schedule of activities
   ---
   Saturday, 14th Dec 2025
   ::
+::
+
+### Order of Daily Activities
+
+::steps
+### :smart-icon{name="emojione:church" :size="40"} Shiloh Prayer Hour
+
+Wed. 10th - Fri. 12th, 5-6am Irish Time
+
+### :smart-icon{name="noto:dove" :size="40"} Shiloh Hour of Visitation
+
+Wed. 10th - Fri. 12th, 6.15-10.15am
+
+### :smart-icon{name="streamline-ultimate-color:fast-food-french-fries" :size="40"} Break
+
+Wed. 10th - Fri. 12th, 10.15am-12.15pm
+
+### :smart-icon{name="streamline-ultimate-color:design-drawing-board" :size="40"} Specialized Classes 
+
+Wed. 10th - Fri. 12th, 12.30pm-2pm
+
+### :smart-icon{name="twemoji:pot-of-food" :size="40"} Break
+
+Wed. 10th - Fri. 12th, 2pm-5pm
+
+### :smart-icon{name="noto-v1:dove" :size="40"} Encounter Night 
+
+Wed. 10th - Fri. 12th, 5pm-8pm
+
+### :smart-icon{name="temaki:cloth" :size="40"} Impartation 
+
+Sat. 13th, 5am-10.15am
 ::

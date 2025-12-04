@@ -54,7 +54,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Pre-Shiloh Encounter <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Pre-Shiloh Anointing Service <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -79,10 +79,10 @@ actions:
   img: /WhatsApp Image 2025-11-26 at 13.22.04_f36da6e2.webp
   ---
   #title
-  5th Pre-Shiloh Encounter
+  Pre-Shiloh Anointing Service
 
   #content
-  Join us this Sunday 30 Nov. 2025 - 11.30am
+  Join us this Sunday 7th Dec. 2025 - 11.30am
   ::
 
 
