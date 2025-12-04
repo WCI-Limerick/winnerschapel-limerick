@@ -76,7 +76,7 @@ Wed. 10th - Fri. 12th, 2pm-5pm
 
 Wed. 10th - Fri. 12th, 5pm-8pm
 
-### :smart-icon{name="temaki:cloth" :size="40"} Impartation 
+### :smart-icon{name="emojione:church" :size="40"} Impartation 
 
 Sat. 13th, 5am-10.15am
 ::

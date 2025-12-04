@@ -76,7 +76,7 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2025-11-26 at 13.22.04_f36da6e2.webp
+  img: /WhatsApp Image 2025-12-03 at 13.20.49_f60868ee.webp
   ---
   #title
   Pre-Shiloh Anointing Service
