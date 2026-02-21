@@ -76,7 +76,7 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2026-02-14 at 08.59.09.jpeg
+  img: /WhatsApp Image 2026-02-18 at 14.19.16.jpeg
   ---
   #title
   Enough is Enough service
