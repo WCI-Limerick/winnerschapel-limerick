@@ -54,7 +54,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of Fruitfulness <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Enough is Enough service <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -79,10 +79,10 @@ actions:
   img: /WhatsApp Image 2026-02-14 at 08.59.09.jpeg
   ---
   #title
-  Covenant Day of Fruitfulness
+  Enough is Enough service
 
   #content
-  Join us this Sunday 15th Feb. 2026 - 11.30am
+  Join us this Sunday 22nd Feb. 2026 - 11.30am
   ::
 
 
@@ -289,8 +289,8 @@ actions:
                         </div>
                         <div class="border-t border-gray-200 px-6 py-4">
                             <h3 class="text-lg font-medium text-gray-900">Contact</h3>
-                            <p class="mt-1 text-gray-600">Email: </p>
-                            <p class="mt-1 text-gray-600">Phone: +353872685434</p>
+                            <p class="mt-1 text-gray-600">Email: limerick@winners-chapel.org.uk</p>
+                            <p class="mt-1 text-gray-600">Phone: +353872685434; +353872791505</p>
                         </div>
                     </div>
                 </div>
