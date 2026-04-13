@@ -73,6 +73,18 @@ actions:
 
 <br>
 
+::card
+---
+img: /40 days (8).png
+---
+#title
+40 Days of Post Resurrection Encounters
+
+#content
+40 Days Post Resurrection Season of Infallible Proofs
+::
+
+
 ::card-group{:cols="3"}
   ::card
   ---
