@@ -88,10 +88,10 @@ img: /40 days (8).png
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2026-04-08 at 22.42.12.jpeg
+  img: /WhatsApp Image 2026-04-15 at 18.08.59.jpeg
   ---
   #title
-  Covenant Day of No More Loss
+  Covenant Day of Vengeance
 
   #content
   Join us this Sunday 12th Apr. 2026 - 11.30am
