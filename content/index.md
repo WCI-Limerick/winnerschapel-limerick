@@ -54,7 +54,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of No More Loss <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Anniversary Thanksgiving Service <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -88,13 +88,13 @@ img: /40 days (8).png
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2026-04-15 at 18.08.59.jpeg
+  img: /Liberation Service (Instagram Post (45)).png
   ---
   #title
-  Covenant Day of Vengeance
+  Anniversary Thanksgiving Service
 
   #content
-  Join us this Sunday 12th Apr. 2026 - 11.30am
+  Join us this Sunday 3rd May. 2026 - 11.30am
   ::
 
 
