@@ -54,7 +54,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of Marital Breakthrough <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Noiseless Breakthrough <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -73,28 +73,18 @@ actions:
 
 <br>
 
-::card
----
-img: /WhatsApp Image 2026-06-15 at 15.55.30.jpeg
----
-#title
-Mid-Year Praise 2026
-
-#content
-Join us 4th July 2026 - 3pm
-::
 
 
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2026-06-26 at 15.02.48.jpeg
+  img: /WhatsApp Image 2026-07-01 at 20.27.02.jpeg
   ---
   #title
-  Covenant Day of Marital Breakthrough
+  Noiseless Breakthrough
 
   #content
-  Join us this Sunday 28th June. 2026 - 11.30am
+  Join us this Sunday 5th July. 2026 - 11.30am
   ::
 
 
