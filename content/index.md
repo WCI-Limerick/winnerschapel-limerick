@@ -54,7 +54,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Showers of Blessing <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of Rescue <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -78,13 +78,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2026-07-29 at 17.08.41.jpeg
+  img: /WhatsApp Image 2026-08-05 at 15.42.57.jpeg
   ---
   #title
-  Showers of Blessing
+  Covenant Day of Rescue
 
   #content
-  Join us this Sunday 2nd August. 2026 - 11.30am
+  Join us this Sunday 9th August. 2026 - 11.30am
   ::
 
 
