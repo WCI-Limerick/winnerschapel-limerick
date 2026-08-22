@@ -54,7 +54,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Miracle Banquet Service <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Covenant Day of Long Life <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -78,13 +78,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /Brown Red and White Bold Communion service flyer Instagram Post.png
+  img: /WhatsApp Image 2026-08-20 at 22.14.31 (1).jpeg
   ---
   #title
-  Miracle Banquet Service
+  Covenant Day of Long Life
 
   #content
-  Join us this Sunday 9th August. 2026 - 11.30am
+  Join us this Sunday 23rd August. 2026 - 11.30am
   ::
 
 
