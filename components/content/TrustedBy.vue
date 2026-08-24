@@ -10,7 +10,7 @@
     <!-- End Title -->
 
     <!-- Grid -->
-    <div class="grid grid-cols-2 gap-3 lg:gap-6">
+    <div class="grid grid-cols-2 gap-2 lg:gap-3 max-w-md mx-auto">
       <NuxtLink
         v-for="logo in logos"
         :key="logo.alt"
@@ -18,12 +18,12 @@
         target="_blank"
         rel="noopener noreferrer"
         :aria-label="logo.alt"
-        class="p-4 md:p-7 bg-surface rounded-lg flex items-center justify-center transition-colors hover:bg-surface/70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-foreground"
+        class="p-6 md:p-8 bg-surface rounded-lg flex items-center justify-center transition-colors hover:bg-surface/70 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-foreground"
       >
         <img
           :src="logo.src"
           :alt="logo.alt"
-          class="w-auto h-8 md:h-10 lg:h-12 mx-auto"
+          class="w-auto h-12 md:h-16 lg:h-20 mx-auto"
         >
       </NuxtLink>
     </div>
@@ -38,12 +38,12 @@ withDefaults(
     title?: string
   }>(),
   {
-    title: 'Connect With Us',
+    title: 'Trusted by Open Source, enterprise, and more than 99,000 of you',
   }
 )
 
 const logos = [
   { src: '/basic-rgb-265730819.webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
-  { src: '/basic-rgb-265730830.webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
+  { src: '//basic-rgb-265730830.webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
 ]
 </script>
