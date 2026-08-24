@@ -38,12 +38,12 @@ withDefaults(
     title?: string
   }>(),
   {
-    title: 'Trusted by Open Source, enterprise, and more than 99,000 of you',
+    title: 'Connect With Us',
   }
 )
 
 const logos = [
-  { src: '/images/ledger.png', alt: 'Ledger', href: 'https://www.ledger.com' },
-  { src: '/images/airbnb.png', alt: 'Airbnb', href: 'https://www.airbnb.com' },
+  { src: '/basic-rgb-265730819.webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
+  { src: '/basic-rgb-265730830.webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
 ]
 </script>
