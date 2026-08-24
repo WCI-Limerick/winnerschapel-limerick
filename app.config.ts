@@ -94,6 +94,13 @@ export default defineAppConfig({
         showLinkIcon: false,
         description: 'Learn about our service units',
         icon: 'lucide:users',
+      }, {
+        title: 'Youth Alive Fellowship',
+        to: '/youth-alive',
+        target: '_self',
+        showLinkIcon: false,
+        description: 'YAF',
+        icon: 'lucide:users',  
       }],
     links: {
       home: {
