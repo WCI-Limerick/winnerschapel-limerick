@@ -15,11 +15,6 @@
                class="w-full h-115 object-cover shadow-sm rounded-lg" />
         </div>
         <div class="hs-carousel-slide">
-          <img src="/IMG-20240920-WA0020.jpg"
-               alt="Slide 3"
-               class="w-full h-115 object-cover shadow-sm rounded-lg" />
-        </div>
-        <div class="hs-carousel-slide">
           <img src="/IMG-20240919-WA0003.jpg"
                alt="Slide 3"
                class="w-full h-115 object-cover shadow-sm rounded-lg" />
