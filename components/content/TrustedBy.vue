@@ -38,12 +38,12 @@ withDefaults(
     title?: string
   }>(),
   {
-    title: 'Trusted by Open Source, enterprise, and more than 99,000 of you',
+    title: 'Connect with Us',
   }
 )
 
 const logos = [
-  { src: '//Brown Red and White Bold Communion service flyer Instagram Post (5).webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
-  { src: '//Brown Red and White Bold Communion service flyer Instagram Post (6).webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
+  { src: '/Brown Red and White Bold Communion service flyer Instagram Post (5).webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
+  { src: '/Brown Red and White Bold Communion service flyer Instagram Post (6).webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
 ]
 </script>
