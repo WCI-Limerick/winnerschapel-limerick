@@ -11,7 +11,7 @@
         <h2 class="text-xl font-bold md:text-2xl text-foreground mb-3">
           Welcome to The Youth Alive Fellowship (YAF)
         </h2>
-        <p class="text-sm md:text-base leading-relaxed text-foreground">
+        <p class="text-md md:text-base leading-relaxed text-foreground">
           YAF is the youth arm of Living Faith Church, also known as Winners Chapel
           International. It is a vibrant platform designed to empower young people to live
           <span class="text-red-500">purposeful</span>,

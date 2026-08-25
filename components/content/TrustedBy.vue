@@ -23,7 +23,7 @@
         <img
           :src="logo.src"
           :alt="logo.alt"
-          class="w-auto h-16 md:h-16 lg:h-20 mx-auto"
+          class="w-auto h-14 md:h-14 lg:h-18 mx-auto"
         >
       </NuxtLink>
     </div>
