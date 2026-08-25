@@ -23,7 +23,7 @@
         <img
           :src="logo.src"
           :alt="logo.alt"
-          class="w-auto h-12 md:h-16 lg:h-20 mx-auto"
+          class="w-auto h-18 md:h-16 lg:h-20 mx-auto"
         >
       </NuxtLink>
     </div>
@@ -43,7 +43,7 @@ withDefaults(
 )
 
 const logos = [
-  { src: '/Brown Red and White Bold Communion service flyer Instagram Post (5).webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
-  { src: '/Brown Red and White Bold Communion service flyer Instagram Post (6).webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
+  { src: '/instagram.webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
+  { src: '/public\whatsapp.webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
 ]
 </script>
