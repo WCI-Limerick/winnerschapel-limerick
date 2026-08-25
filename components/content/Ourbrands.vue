@@ -13,7 +13,7 @@
         :key="brand.alt"
         class="text-center w-40"
       >
-        <div class="h-55 md:h-63 lg:h-71 flex items-center justify-center mb-3">
+        <div class="h-65 md:h-73 lg:h-81 flex items-center justify-center mb-3">
           <img
             :src="brand.src"
             :alt="brand.alt"
@@ -30,8 +30,8 @@
 
 <script setup lang="ts">
 const brands = [
-  { src: '/Picture1(1).png', alt: 'Seekers', caption: 'Seekers (ages 18 to 24)' },
-  { src: '/Picture12.png', alt: 'The Bridge', caption: 'Bridge (ages 24 to 34)' },
-  { src: '/Picture13.png', alt: 'Harvesters', caption: 'Harvesters (ages 35 and above)' },
+  { src: '/Picture1_1_cropped.png', alt: 'Seekers', caption: 'Seekers (ages 18 to 24)' },
+  { src: '/Picture12_cropped.png', alt: 'The Bridge', caption: 'Bridge (ages 24 to 34)' },
+  { src: '/Picture13_cropped.png', alt: 'Harvesters', caption: 'Harvesters (ages 35 and above)' },
 ]
 </script>
