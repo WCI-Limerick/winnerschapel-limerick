@@ -13,7 +13,7 @@
         :key="brand.alt"
         class="text-center w-40"
       >
-        <div class="h-40 md:h-48 lg:h-56 flex items-center justify-center mb-3">
+        <div class="h-55 md:h-63 lg:h-71 flex items-center justify-center mb-3">
           <img
             :src="brand.src"
             :alt="brand.alt"
