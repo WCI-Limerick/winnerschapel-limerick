@@ -16,7 +16,7 @@
         <img
           :src="brand.src"
           :alt="brand.alt"
-          class="block h-14 md:h-16 w-auto mx-auto mb-3"
+          class="block h-20 md:h-24 lg:h-28 w-auto mx-auto mb-3"
         >
         <p class="text-sm md:text-base text-foreground">
           {{ brand.caption }}
