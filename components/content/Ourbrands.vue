@@ -7,17 +7,19 @@
       Within YAF, members are structured into three key groups, known as brands, to effectively serve different stages of life.
     </p>
 
-    <div class="flex flex-wrap justify-center items-end gap-10 lg:gap-16">
+    <div class="flex flex-wrap justify-center items-start gap-10 lg:gap-16">
       <div
         v-for="brand in brands"
         :key="brand.alt"
-        class="text-center"
+        class="text-center w-40"
       >
-        <img
-          :src="brand.src"
-          :alt="brand.alt"
-          class="block h-20 md:h-24 lg:h-28 w-auto mx-auto mb-3"
-        >
+        <div class="h-24 md:h-32 lg:h-36 flex items-center justify-center mb-3">
+          <img
+            :src="brand.src"
+            :alt="brand.alt"
+            class="max-h-full max-w-full w-auto object-contain"
+          >
+        </div>
         <p class="text-sm md:text-base text-foreground">
           {{ brand.caption }}
         </p>
