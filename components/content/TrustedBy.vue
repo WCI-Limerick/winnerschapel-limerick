@@ -44,6 +44,6 @@ withDefaults(
 
 const logos = [
   { src: '/instagram.webp', alt: 'Instagram', href: 'https://www.instagram.com/yaf_limerick?igsi=MTNwamswY2x0dWJkcg==' },
-  { src: '/public\whatsapp.webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
+  { src: '/whatsapp.webp', alt: 'Whatsapp', href: 'https://chat.whatsapp.com/CZhWc1tnZNy6V2CbUWtapR' },
 ]
 </script>
