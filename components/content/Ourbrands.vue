@@ -13,14 +13,14 @@
         :key="brand.alt"
         class="text-center w-40"
       >
-        <div class="h-65 md:h-73 lg:h-81 flex items-center justify-center mb-3">
+        <div class="h-62 md:h-70 lg:h-78 flex items-center justify-center mb-1">
           <img
             :src="brand.src"
             :alt="brand.alt"
             class="max-h-full max-w-full w-auto object-contain"
           >
         </div>
-        <p class="text-md md:text-base text-foreground">
+        <p class="text-sm md:text-base text-foreground">
           {{ brand.caption }}
         </p>
       </div>
