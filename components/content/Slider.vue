@@ -19,6 +19,16 @@
                alt="Slide 3"
                class="w-full h-115 object-cover shadow-sm rounded-lg" />
         </div>
+        <div class="hs-carousel-slide">
+          <img src="/WhatsApp Image 2026-08-30 at 12.50.37.webp"
+               alt="Slide 3"
+               class="w-full h-115 object-cover shadow-sm rounded-lg" />
+        </div>
+        <div class="hs-carousel-slide">
+          <img src="/WhatsApp Image 2026-08-30 at 12.47.35.webp"
+               alt="Slide 3"
+               class="w-full h-115 object-cover shadow-sm rounded-lg" />
+        </div>
       </div>
     </div>
 
