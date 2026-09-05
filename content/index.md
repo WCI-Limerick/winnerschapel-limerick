@@ -84,7 +84,7 @@ actions:
   Covenant Day of Business Breakthrough
 
   #content
-  Join us this Sunday 29th August. 2026 - 11.30am
+  Join us this Sunday 6th Sept. 2026 - 11.30am
   ::
 
 
