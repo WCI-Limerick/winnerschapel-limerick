@@ -195,7 +195,7 @@ export default defineAppConfig({
       },
     },
     footer: {
-      credits: 'Designed and Developed by WCI-Limerick Media/Technical © 2025',
+      credits: 'Designed and Developed by WCI-Limerick Media/Technical © 2026',
     },
     toc: {
       enable: true,
