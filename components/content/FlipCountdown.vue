@@ -49,7 +49,7 @@ const props = withDefaults(
   }>(),
   {
     title: '',
-    completedMessage: "We're live!",
+    completedMessage: "🎉 Shiloh is Here!",
     cardColor: '#D3D3D3',
     textColor: '#1f2937',
     digitWidth: '2ch',
