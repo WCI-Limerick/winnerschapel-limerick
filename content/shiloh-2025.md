@@ -4,7 +4,7 @@ aside: false
 toc: false
 ---
 
-::countdown{label="Countdown to Shiloh 2025" target="2025-12-09T00:00:00Z" progress showUtc}
+::countdown{label="Countdown to Shiloh 2026" target="2026-12-08T17:00:00Z" progress showUtc}
 ::
 
 ::card

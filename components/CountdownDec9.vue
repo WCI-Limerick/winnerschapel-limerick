@@ -19,7 +19,7 @@
           Countdown to <span class="whitespace-nowrap">December 9, 2025</span>
         </h1>
         <p class="mt-2 text-foreground/70 text-sm md:text-base">
-          Reaching midnight <span class="font-medium">Europe/Dublin</span> (UTC) — {{ new Date(targetISO).toUTCString() }}
+          Reaching midnight <span class="font-medium">Limerick</span> (UTC) — {{ new Date(targetISO).toUTCString() }}
         </p>
       </header>
 
@@ -32,7 +32,7 @@
 
       <div v-else class="rounded-2xl border border-black/5 dark:border-white/10 bg-white/70 dark:bg-white/5 backdrop-blur p-8 text-center shadow-sm">
         <h2 class="text-2xl sm:text-3xl font-semibold">🎉 It's time!</h2>
-        <p class="mt-2 text-foreground/70">December 9, 2025 has arrived.</p>
+        <p class="mt-2 text-foreground/70">Shiloh 2026.</p>
       </div>
 
       <div v-if="!done" class="mt-8">
@@ -65,8 +65,8 @@ function getTimeParts(msLeft: number) {
   return { days, hours, minutes, seconds }
 }
 
-// ===== Target — Europe/Dublin midnight on Dec 9, 2025
-const targetISO = '2025-12-09T00:00:00Z'
+// ===== Target — Limerick midnight on Dec 9, 2025
+const targetISO = '2026-12-08T17:00:00Z'
 const targetTs = new Date(targetISO).getTime()
 
 // Track time safely on client only
