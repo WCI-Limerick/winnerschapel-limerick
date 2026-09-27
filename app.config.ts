@@ -100,7 +100,14 @@ export default defineAppConfig({
         target: '_self',
         showLinkIcon: false,
         description: 'YAF',
-        icon: 'lucide:users',  
+        icon: 'lucide:users',
+      }, {
+        title: 'Shiloh 2026',
+        to: '/shiloh-2026',
+        target: '_self',
+        showLinkIcon: false,
+        description: 'Shiloh',
+        icon: 'lucide:users',
       }],
     links: {
       home: {
