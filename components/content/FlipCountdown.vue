@@ -50,9 +50,9 @@ const props = withDefaults(
   {
     title: '',
     completedMessage: "We're live!",
-    cardColor: '#1f2937',
-    textColor: '#ffffff',
-    digitWidth: '1ch',
+    cardColor: '#ffffff',
+    textColor: '#1f2937',
+    digitWidth: '2ch',
     digitHeight: '1.3em',
     flipMs: 300,
   }
