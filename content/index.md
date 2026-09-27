@@ -29,7 +29,7 @@ actions:
 <span class="bg-gray-600 bg-clip-text text-transparent font-bold">Liberating the world through the preaching of the Word of Faith</span>
 ::
 
-::FlipCountdown{target-date="2026-12-08T17:00:00Z" title="Countdown to Shiloh 2026"}
+::FlipCountdown{target-date="2026-12-08T17:00:00Z" title="Countdown to Shiloh"}
 ::
 
 ::Slider

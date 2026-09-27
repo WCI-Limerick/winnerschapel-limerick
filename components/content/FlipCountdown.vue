@@ -50,7 +50,7 @@ const props = withDefaults(
   {
     title: '',
     completedMessage: "🎉 Shiloh is Here!",
-    cardColor: '#D3D3D3',
+    cardColor: '#FFBF00',
     textColor: '#1f2937',
     digitWidth: '2ch',
     digitHeight: '1.3em',
