@@ -116,7 +116,10 @@ actions:
   ::
 ::  
 
+---
 
+::ElfsightSocialFeed
+::
 
 <section
   class="ezy__featured46 light py-14 md:py-24 bg-white dark:bg-[#0b1727] text-zinc-900 dark:text-white relative overflow-hidden z-10"
@@ -260,10 +263,7 @@ actions:
   ::
 ::
 
----
 
-::ElfsightSocialFeed
-::
 
 <div class="bg-white">
     <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:py-4 lg:px-8">
