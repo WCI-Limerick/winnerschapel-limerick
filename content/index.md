@@ -33,11 +33,6 @@ actions:
 ::
 
 
-
-![Open Doors](/opendoors_.png)
-
-<br>
-
 ::Slider
 ::
 
