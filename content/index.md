@@ -56,7 +56,7 @@ actions:
   <div class="mx-auto mt-20 grid max-w-screen-lg grid-cols-1 gap-x-8 gap-y-12 text-center sm:text-left md:grid-cols-3">
         <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
           <p class="relative text-5xl font-black text-center text-rose-600">11.30am</p>
-          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: 2nd Showers of Blessing Service 4 <br> Venue: Church Auditorium.</p>
+          <p class="relative mt-5 text-center font-bold text-gray-600">Sunday: Prophetic Entrance Service 4 <br> Venue: Church Auditorium.</p>
         </div>
 
   <div class="backdrop-blur-lg relative mb-3 rounded-3xl border bg-white/70 px-12 py-10 text-left shadow xl:px-12">
@@ -80,13 +80,13 @@ actions:
 ::card-group{:cols="3"}
   ::card
   ---
-  img: /WhatsApp Image 2026-10-21 at 17.47.53.jpeg
+  img: /Prophetic (1).png
   ---
   #title
-  4th in the series Showers of Blessing Service
+  Prophetic Entrance Service
 
   #content
-  Join us this Sunday 25th Oct. 2026 - 11.30am
+  Join us this Sunday 1st Nov. 2026 - 11.30am
   ::
 
 
